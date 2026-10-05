@@ -28,6 +28,7 @@ const GAP_MS = 120;
 let memory = null;
 let dirty = false;
 let libreDeadUntil = 0;
+let myMemoryDeadUntil = 0;
 let writeQueue = Promise.resolve();
 
 function readCache() {
@@ -127,24 +128,39 @@ async function viaLibre(text) {
 }
 
 async function viaMyMemory(text) {
-  const url = new URL(MYMEMORY);
-  url.searchParams.set("q", text);
-  url.searchParams.set("langpair", "en|ko");
-  url.searchParams.set("de", MYMEMORY_DE);
-  const response = await fetch(url, {
-    headers: { Accept: "application/json" },
-    signal: AbortSignal.timeout(10000),
-  });
-  if (!response.ok) throw new Error(`MyMemory HTTP ${response.status}`);
-  const data = await response.json();
-  if (data?.quotaFinished) throw new Error("MyMemory quota");
-  if (Number(data?.responseStatus) !== 200) {
-    throw new Error(`MyMemory ${data?.responseStatus || "error"}`);
+  if (Date.now() < myMemoryDeadUntil) return null;
+  try {
+    const url = new URL(MYMEMORY);
+    url.searchParams.set("q", text);
+    url.searchParams.set("langpair", "en|ko");
+    url.searchParams.set("de", MYMEMORY_DE);
+    const response = await fetch(url, {
+      headers: { Accept: "application/json" },
+      signal: AbortSignal.timeout(10000),
+    });
+    if (response.status === 429) {
+      myMemoryDeadUntil = Date.now() + 30 * 60 * 1000;
+      return null;
+    }
+    if (!response.ok) return null;
+    const data = await response.json();
+    if (data?.quotaFinished) {
+      myMemoryDeadUntil = Date.now() + 30 * 60 * 1000;
+      return null;
+    }
+    const status = Number(data?.responseStatus);
+    if (status === 429) {
+      myMemoryDeadUntil = Date.now() + 30 * 60 * 1000;
+      return null;
+    }
+    if (status !== 200) return null;
+    const out = data?.responseData?.translatedText || "";
+    if (!out || /MYMEMORY WARNING/i.test(out)) return null;
+    if (out.trim() === text.trim()) return null;
+    return { text: out.trim(), provider: "mymemory" };
+  } catch {
+    return null;
   }
-  const out = data?.responseData?.translatedText || "";
-  if (!out || /MYMEMORY WARNING/i.test(out)) throw new Error("MyMemory empty/warning");
-  if (out.trim() === text.trim()) return null;
-  return { text: out.trim(), provider: "mymemory" };
 }
 
 function splitChunks(text) {
@@ -183,7 +199,12 @@ export async function translateText(text, { url = "", field = "text" } = {}) {
   const translated = [];
   let provider = "none";
   for (const chunk of chunks) {
-    const result = await translateOnce(chunk);
+    let result = null;
+    try {
+      result = await translateOnce(chunk);
+    } catch {
+      result = null;
+    }
     if (!result?.text) {
       return { text: original, cached: false, provider: "failed", translated: false };
     }
