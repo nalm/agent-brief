@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>에이전트 브리프 — Grok Bot · Dots · Muse</title>
+  <meta name="description" content="Grok Bot, OpenAI Dots, Meta Muse의 출시·가격·제휴·후기·규제를 한국어로 모아 보는 공개 큐레이션 MVP.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect fill='%231c1915' width='32' height='32' rx='6'/%3E%3Ctext x='16' y='22' text-anchor='middle' fill='%23f3eee4' font-size='16' font-family='serif'%3E브%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body data-product="grok">
+  <a class="skip" href="#panel">본문으로</a>
+  <div class="wrap">
+    <header class="mast">
+      <div>
+        <p class="kicker-top">공개 큐레이션 · 한국어</p>
+        <h1>에이전트 브리프</h1>
+        <p class="deck">Grok Bot, OpenAI Dots, Meta Muse. 출시와 가격, 제휴, 후기, 규제만 골라 30분마다 다시 읽습니다. 알림이나 메일은 보내지 않습니다.</p>
+      </div>
+      <p class="stamp" id="stamp">수집<br>확인 중</p>
+    </header>
+
+    <section class="status" id="status" aria-label="수집 상태">
+      <div>
+        <p class="status-label"><span class="pulse" aria-hidden="true"></span> 마지막 수집</p>
+        <p class="collected" id="collected">확인 중</p>
+        <p class="fine">30분마다 이 화면에서 자동 수집</p>
+      </div>
+      <div class="clock-block">
+        <p class="clock-label">다음 수집까지</p>
+        <p class="clock" id="countdown">30:00</p>
+      </div>
+      <button class="btn" id="refresh" type="button">지금 수집</button>
+      <div class="bar" aria-hidden="true"><span id="bar"></span></div>
+    </section>
+    <p class="sr" id="live" aria-live="polite"></p>
+
+    <div class="tabs" id="tabs" role="tablist" aria-label="제품"></div>
+    <section id="panel" role="tabpanel" aria-labelledby="tab-grok" tabindex="0">
+      <p class="blurb" id="blurb">브리프를 불러오는 중입니다.</p>
+      <div class="toolbar">
+        <div class="filters" id="filters" role="group" aria-label="주제"></div>
+        <span class="count" id="count"></span>
+      </div>
+      <div class="list" id="list"></div>
+    </section>
+
+    <section class="sim" aria-labelledby="sim-title">
+      <h2 id="sim-title">수집 로그</h2>
+      <p class="sim-lead">공식 글, 뉴스 RSS, Hacker News를 30분마다 다시 읽습니다. 어댑터가 모두 실패하고 이전 수집도 없으면 샘플로 돌아가며, 그때만 시뮬레이션/폴백이라고 표시합니다.</p>
+      <div id="log"></div>
+      <p class="sim-note" id="sim-note"></p>
+    </section>
+
+    <footer class="foot">
+      <p id="foot-note">카드를 불러오는 중입니다.</p>
+      <p>로컬 데모 · 로그인 없음 · 결제 없음 · 푸시·이메일 없음</p>
+    </footer>
+  </div>
+  <noscript>이 화면은 자바스크립트가 있어야 탭과 30분 수집 표시가 동작합니다.</noscript>
+  <script type="module" src="app.js"></script>
+</body>
+</html>
