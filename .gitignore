@@ -3,6 +3,9 @@ logs/
 bin/
 node_modules/
 .keepalive.pid
+.keepalive.lock
+.server.pid
+.tunnel.pid
 .cf429
 public-url.txt
 *.log
