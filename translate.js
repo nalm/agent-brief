@@ -1,7 +1,8 @@
 /**
  * EN → KO 제목·요약 번역.
- * 1) LibreTranslate 공개 인스턴스 (키 없이 되면)
- * 2) MyMemory 무료 API (일일 단어 한도 있음)
+ * 1) DeepL (DEEPL_API_KEY 있을 때; Free/Pro 호스트 자동)
+ * 2) LibreTranslate 공개 인스턴스 (키 없이 되면)
+ * 3) MyMemory 무료 API (일일 단어 한도 있음)
  * 실패 시 원문 유지 + translated:false 표시.
  * cache/translations.json 에 URL·텍스트 해시로 캐시해 30분 재수집 때 재번역을 피한다.
  */
@@ -27,6 +28,7 @@ const GAP_MS = 120;
 
 let memory = null;
 let dirty = false;
+let deeplDeadUntil = 0;
 let libreDeadUntil = 0;
 let myMemoryDeadUntil = 0;
 let writeQueue = Promise.resolve();
@@ -97,6 +99,44 @@ function store(url, field, original, translated, provider) {
   if (url) cache.byUrl[urlFieldKey(url, field, hash)] = entry;
   dirty = true;
   scheduleFlush();
+}
+
+
+async function viaDeepL(text) {
+  const key = process.env.DEEPL_API_KEY;
+  if (!key) return null;
+  if (Date.now() < deeplDeadUntil) return null;
+  const host = key.endsWith(":fx")
+    ? "https://api-free.deepl.com/v2/translate"
+    : "https://api.deepl.com/v2/translate";
+  try {
+    const body = new URLSearchParams();
+    body.set("text", text);
+    body.set("source_lang", "EN");
+    body.set("target_lang", "KO");
+    const response = await fetch(host, {
+      method: "POST",
+      headers: {
+        Authorization: `DeepL-Auth-Key ${key}`,
+        "Content-Type": "application/x-www-form-urlencoded",
+        Accept: "application/json",
+      },
+      body,
+      signal: AbortSignal.timeout(10000),
+    });
+    if (response.status === 429 || response.status === 456) {
+      deeplDeadUntil = Date.now() + 30 * 60 * 1000;
+      return null;
+    }
+    if (!response.ok) return null;
+    const data = await response.json();
+    const out = data?.translations?.[0]?.text || "";
+    if (!out || !String(out).trim()) return null;
+    if (String(out).trim() === String(text).trim()) return null;
+    return { text: String(out).trim(), provider: "deepl" };
+  } catch {
+    return null;
+  }
 }
 
 async function viaLibre(text) {
@@ -180,6 +220,8 @@ function splitChunks(text) {
 }
 
 async function translateOnce(text) {
+  const deepl = await viaDeepL(text);
+  if (deepl) return deepl;
   const libre = await viaLibre(text);
   if (libre) return libre;
   return viaMyMemory(text);

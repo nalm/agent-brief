@@ -7,3 +7,6 @@ services:
     buildCommand: "true"
     startCommand: node server.js
     autoDeploy: true
+    envVars:
+      - key: DEEPL_API_KEY
+        sync: false
