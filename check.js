@@ -9,6 +9,8 @@ import {
   presentKoreanFallback,
   relevant,
   normalizeUrl,
+  mapXItems,
+  loadX,
 } from "./sources.js";
 import { needsTranslation, translateText, localizeItems } from "./translate.js";
 
@@ -129,6 +131,22 @@ const duped = dedupeItems([
 ]);
 assert(duped.length === 2, `dedupe ${duped.length}`);
 assert(duped.find((item) => item.title === "Same").sourceType === "official", "dedupe rank");
+
+const xRaw = [
+  { id: "1844000000000000001", product: "grok", url: "https://x.com/xai/status/1844000000000000001", author: "xai", authorName: "xAI", text: "Grok Bot pricing: $20 per month\nMore details soon.", postedAt: "2026-10-08T01:00:00Z", metrics: { likes: 3 } },
+  { id: "1844000000000000002", product: "grok", url: "https://twitter.com/someone/status/1844000000000000002", author: "someone", authorName: "S", text: "Hands-on review of Grok Bot", postedAt: "2026-10-08T02:00:00Z", topic: "reviews" },
+  { id: "1844000000000000003", product: "dots", url: "https://x.com/openai/status/1844000000000000003", author: "openai", authorName: "OpenAI", text: "Dots", postedAt: "2026-10-08T03:00:00Z" },
+  { id: "bad", product: "grok", url: "https://example.com/nope", author: "x", text: "bad url" },
+  { id: "1844000000000000001", product: "grok", url: "https://x.com/xai/status/1844000000000000001", author: "xai", text: "dup", postedAt: "2026-10-08T01:00:00Z" },
+];
+const xItems = mapXItems("grok", xRaw);
+assert(xItems.length === 2, `x map count ${xItems.length}`);
+assert(xItems[0].url === "https://x.com/someone/status/1844000000000000002" && xItems[0].topic === "reviews", "x twitter->x + topic kept");
+assert(xItems[1].source === "X" && xItems[1].sourceType === "sns" && xItems[1].topic === "pricing", "x shape/topic");
+assert(xItems[1].title === "Grok Bot pricing: $20 per month", xItems[1].title);
+assert(xItems[1].publishedAt === "2026-10-08T01:00:00.000Z", "x publishedAt");
+for (const key of required) assert(xItems[1][key], `x missing ${key}`);
+assert((await loadX("grok", { source: "/nonexistent/x-items.json" })).length === 0, "x failure is empty");
 
 const memory = {
   saved: null,

@@ -359,6 +359,12 @@ button, a { font: inherit; }
   font-weight: 500;
 }
 
+.kind.is-x {
+  color: var(--ink);
+  border-color: var(--ink);
+  font-weight: 700;
+}
+
 .num {
   margin-left: auto;
   color: var(--faint);

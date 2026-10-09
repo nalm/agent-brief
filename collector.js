@@ -2,7 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { SAMPLE_ITEMS } from "./data.js";
-import { dedupeItems, loadMedia, loadOfficial, loadRss, loadSns } from "./sources.js";
+import { dedupeItems, loadMedia, loadOfficial, loadRss, loadSns, loadX } from "./sources.js";
 import { localizeItems } from "./translate.js";
 
 /**
@@ -31,11 +31,16 @@ async function fetchRss({ product }) {
   return loadRss(product);
 }
 
+async function fetchX({ product }) {
+  return loadX(product);
+}
+
 export const adapters = [
   { id: "official", label: "공식 블로그", fetch: fetchOfficial },
   { id: "media", label: "테크 미디어", fetch: fetchMedia },
   { id: "sns", label: "SNS 버즈", fetch: fetchSns },
   { id: "rss", label: "RSS·한국어 뉴스", fetch: fetchRss },
+  { id: "x", label: "X (SNS)", fetch: fetchX },
 ];
 
 function sampleFor(product) {

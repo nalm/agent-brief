@@ -120,3 +120,14 @@ curl -s http://127.0.0.1:4173/api/feed?refresh=1
 어댑터가 모두 실패하면 `cache/last-good.json` 의 마지막 성공 항목을 유지하고 `staleCache` 를 켭니다. 그때는 시뮬레이션 표시를 하지 않습니다. 캐시마저 없으면 샘플과 `fallback: "시뮬레이션/폴백"` 입니다. 한 어댑터라도 항목이 있으면 그 제품은 샘플을 섞지 않습니다.
 
 코드는 `sources.js` (가져오기·파싱·판별), `translate.js` (EN→KO·캐시), `collector.js` (어댑터·캐시·폴백) 입니다.
+
+## X (SNS) 원천
+
+X 게시물은 X API 없이 브라우저로 하루 두 번 모아 별도 브랜치 `x-data` 의 `x-items.json` 에 올린다.
+master 가 아니므로 push 해도 Render 재배포가 없다. 앱은 수집 때마다
+`https://raw.githubusercontent.com/nalm/agent-brief/x-data/x-items.json` 을 읽는다
+(캐시 무효화 쿼리, 8초 제한, 실패 시 건너뜀). 테스트용으로 `X_ITEMS_URL` 에 URL·로컬 경로를 줄 수 있다.
+스키마는 `sources.js` 하단 주석과 x-data 브랜치 README 참고.
+
+    scripts/push-x-items.sh new-items.json            # 검증 → 병합(id 중복 제거, 14일·150개) → x-data push
+    scripts/push-x-items.sh new-items.json --dry-run  # 쓰지 않고 결과만

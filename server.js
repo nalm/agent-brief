@@ -16,7 +16,7 @@ const types = {
   ".json": "application/json; charset=utf-8",
 };
 
-const blocked = /^(cache|logs|bin)(\/|$)/;
+const blocked = /^(cache|logs|bin|scripts)(\/|$)/;
 
 function resolveFile(urlPath) {
   const decoded = decodeURIComponent(urlPath.split("?")[0]);

@@ -478,3 +478,122 @@ export async function loadRss(product) {
   const feed = await loadFeed(bing(query.ko, "ko"));
   return finish(product, "rss", "Bing News", feed, 8);
 }
+
+/**
+ * X (SNS) 원천. X API·스크랩을 하지 않는다.
+ * 브라우저로 x.com 을 하루 두 번 훑어 만든 JSON 을 별도 git 브랜치(x-data)에 올리고,
+ * 여기서는 그 파일만 읽는다. master 가 아니므로 push 해도 Render 재배포가 일어나지 않는다.
+ *
+ * 기본 주소: https://raw.githubusercontent.com/nalm/agent-brief/x-data/x-items.json
+ * 테스트용으로 X_ITEMS_URL 환경변수에 다른 URL·로컬 경로(또는 file://)를 줄 수 있다.
+ *
+ * 파일 스키마
+ * {
+ *   "updatedAt": ISO 문자열 | null,
+ *   "items": [{
+ *     "id": "X 게시물 id(숫자 문자열)",
+ *     "product": "grok" | "dots" | "muse",
+ *     "url": "https://x.com/<handle>/status/<id>",
+ *     "author": "handle(@ 없이)",
+ *     "authorName": "표시 이름",
+ *     "text": "원문",
+ *     "postedAt": "ISO 8601",
+ *     "metrics": { "replies"?: n, "reposts"?: n, "likes"?: n, "views"?: n },   // 선택
+ *     "topic": "launch" | "pricing" | "partnership" | "reviews" | "regulation"  // 선택
+ *   }]
+ * }
+ * 항목은 이미 사람이 제품별로 고른 것이라 relevant() 필터를 다시 걸지 않는다.
+ * 실패(네트워크·형식 오류)는 빈 배열로 넘기고 피드를 깨지 않는다.
+ */
+export const X_ITEMS_DEFAULT_URL = "https://raw.githubusercontent.com/nalm/agent-brief/x-data/x-items.json";
+export const X_PRODUCTS = ["grok", "dots", "muse"];
+export const X_TOPICS = ["launch", "pricing", "partnership", "reviews", "regulation"];
+const X_TIMEOUT_MS = 8000;
+const X_MEMO_MS = 60 * 1000;
+const X_PER_PRODUCT = 10;
+let xMemo = null;
+
+export function clearXMemo() {
+  xMemo = null;
+}
+
+async function readXSource(source) {
+  if (/^https?:\/\//i.test(source)) {
+    const url = new URL(source);
+    url.searchParams.set("t", String(Date.now()));
+    const response = await fetch(url, {
+      headers: { "User-Agent": UA, Accept: "application/json", "Cache-Control": "no-cache" },
+      signal: AbortSignal.timeout(X_TIMEOUT_MS),
+    });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    return response.text();
+  }
+  const { readFile } = await import("node:fs/promises");
+  const { fileURLToPath } = await import("node:url");
+  return readFile(source.startsWith("file:") ? fileURLToPath(source) : source, "utf8");
+}
+
+/** x-items.json 전체를 읽는다. 세 제품 수집이 동시에 돌아도 한 번만 가져온다. */
+export function loadXFile(source = process.env.X_ITEMS_URL || X_ITEMS_DEFAULT_URL) {
+  if (xMemo && xMemo.source === source && Date.now() - xMemo.at < X_MEMO_MS) return xMemo.promise;
+  const promise = readXSource(source).then((body) => {
+    const parsed = JSON.parse(body);
+    return Array.isArray(parsed?.items) ? parsed.items : [];
+  });
+  xMemo = { source, at: Date.now(), promise };
+  promise.catch(() => {
+    if (xMemo?.promise === promise) xMemo = null;
+  });
+  return promise;
+}
+
+function firstLine(text) {
+  const line = String(text || "").split(/\r?\n/).map((part) => part.trim()).find(Boolean) || "";
+  return clip(line, 80);
+}
+
+/** x-items.json 항목 → 다른 원천과 같은 카드 모양. 형식이 틀린 항목은 버린다. */
+export function mapXItems(product, rawItems) {
+  const items = [];
+  for (const raw of Array.isArray(rawItems) ? rawItems : []) {
+    if (!raw || raw.product !== product) continue;
+    const text = typeof raw.text === "string" ? raw.text.trim() : "";
+    const handle = String(raw.author || "").replace(/^@/, "");
+    const id = String(raw.id || "");
+    let url = typeof raw.url === "string" ? raw.url : "";
+    if (!url && /^\d+$/.test(id) && handle) url = `https://x.com/${handle}/status/${id}`;
+    url = normalizeUrl(url.replace(/^https?:\/\/(www\.)?twitter\.com\//i, "https://x.com/"));
+    if (!text || !/^https:\/\/x\.com\/[^/]+\/status\/\d+$/.test(url)) continue;
+    const title = firstLine(text);
+    const summary = text;
+    const topic = X_TOPICS.includes(raw.topic) ? raw.topic : classifyTopic(title, summary, "sns");
+    const shown = presentKorean(topic, title, summary);
+    const item = {
+      id: itemId(product, url),
+      product,
+      topic,
+      title: shown.title,
+      summary: shown.summary,
+      source: "X",
+      sourceType: "sns",
+      url,
+      publishedAt: toIso(raw.postedAt),
+      author: handle || null,
+      authorName: typeof raw.authorName === "string" ? raw.authorName : null,
+    };
+    if (raw.metrics && typeof raw.metrics === "object") item.metrics = raw.metrics;
+    items.push(item);
+  }
+  items.sort((a, b) => Date.parse(b.publishedAt || 0) - Date.parse(a.publishedAt || 0));
+  return dedupeItems(items).slice(0, X_PER_PRODUCT);
+}
+
+/** 실패해도 던지지 않는다. 빈 배열을 돌려준다. */
+export async function loadX(product, options = {}) {
+  try {
+    return mapXItems(product, await loadXFile(options.source));
+  } catch (error) {
+    console.warn(`X 원천 건너뜀: ${error instanceof Error ? error.message : error}`);
+    return [];
+  }
+}

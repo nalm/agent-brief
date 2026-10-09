@@ -205,6 +205,11 @@ function renderList() {
     const kind = document.createElement("span");
     kind.className = "kind";
     kind.textContent = SOURCE_TYPES[item.sourceType] || item.sourceType;
+    if (item.source === "X") {
+      kind.classList.add("is-x");
+      kind.textContent = "X";
+      kind.title = "X(트위터) 게시물";
+    }
     const num = document.createElement("span");
     num.className = "num";
     num.textContent = String(index + 1).padStart(2, "0");
@@ -231,7 +236,7 @@ function renderList() {
     meta.className = "meta";
     const source = document.createElement("span");
     source.className = "source";
-    source.textContent = item.source;
+    source.textContent = item.source === "X" && item.author ? `X · @${item.author}` : item.source;
     const when = document.createElement("span");
     const rel = relative(item.publishedAt);
     when.textContent = rel ? `${formatDate(item.publishedAt)} · ${rel}` : formatDate(item.publishedAt);
