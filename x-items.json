@@ -1,4 +1,229 @@
 {
-  "updatedAt": null,
-  "items": []
+  "updatedAt": "2026-10-09T08:32:18.903Z",
+  "items": [
+    {
+      "id": "2108475056523522385",
+      "product": "dots",
+      "url": "https://x.com/koltregaskes/status/2108475056523522385",
+      "author": "koltregaskes",
+      "authorName": "Kol Tregaskes",
+      "text": "Dots are supposed to be personal AI assistants, but it is so far away from that. I can't see much improvement for quite a while. I do realise this is early, but there is as much improvement required.\n\nLike I said before, we do need to control the personality, but it also needs to ...",
+      "postedAt": "2026-10-09T08:30:01.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 66
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2108281278181110108",
+      "product": "grok",
+      "url": "https://x.com/0x_kaize/status/2108281278181110108",
+      "author": "0x_kaize",
+      "authorName": "kaize",
+      "text": "X 프리미엄이나 Supergrok을 취소하지 마세요\n\n내일은 모든 X 사용자에게 매우 중요한 날입니다\n\nX는 XPass를 구축 중입니다. X, Grok, Cursor, Grok Bot을 위한 하나의 구독\n\n티어:\n\n> Premium $8: X Premium, Grok Lite, Grok API, Cursor\n\n> Plus $30: Premium+, SuperGrok, Grok Bot, Cursor cloud",
+      "postedAt": "2026-10-08T19:40:01.000Z",
+      "metrics": {
+        "replies": 271,
+        "reposts": 222,
+        "likes": 2535,
+        "views": 185418
+      },
+      "topic": "pricing"
+    },
+    {
+      "id": "2108228871938359347",
+      "product": "grok",
+      "url": "https://x.com/bot/status/2108228871938359347",
+      "author": "bot",
+      "authorName": "Grok Bot",
+      "text": "Grok Bot이 이제 Shopify 스토어를 운영하는 데 도움을 줄 수 있습니다.\n\nShopify를 연결한 후, 주문 확인, 재고 추적, 제품 목록 최신 상태 유지 등을 요청하세요.",
+      "postedAt": "2026-10-08T16:11:46.000Z",
+      "metrics": {
+        "replies": 183,
+        "reposts": 317,
+        "likes": 2390,
+        "views": 9279170
+      },
+      "topic": "partnership"
+    },
+    {
+      "id": "2108202248643948760",
+      "product": "dots",
+      "url": "https://x.com/verge/status/2108202248643948760",
+      "author": "verge",
+      "authorName": "The Verge",
+      "text": "컴퓨팅의 미래는 항상 작동하는 자율 에이전트일 수 있지만, 메타나 오픈AI에 이렇게 많은 페르소나 데이터를 넘겨줘야 할까요?",
+      "postedAt": "2026-10-08T14:25:59.000Z",
+      "metrics": {
+        "replies": 2,
+        "reposts": 1,
+        "likes": 10,
+        "views": 12487
+      },
+      "topic": "regulation"
+    },
+    {
+      "id": "2108104466431901986",
+      "product": "muse",
+      "url": "https://x.com/NickRobertX/status/2108104466431901986",
+      "author": "NickRobertX",
+      "authorName": "Nick Robert",
+      "text": "Why doesn't Meta @Muse have a voice mode yet?\n\nSeems like a massive miss to launch a personal AI agent without it.",
+      "postedAt": "2026-10-08T07:57:26.000Z",
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 2,
+        "views": 77
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2108036754829906058",
+      "product": "grok",
+      "url": "https://x.com/blankspeaker/status/2108036754829906058",
+      "author": "blankspeaker",
+      "authorName": "@blankspeaker",
+      "text": "저는 @bot인 Grok에게 Mac에 새 라벨 프린터를 설치해 달라고 요청했습니다. 드라이버를 찾을 수 없었어요 (Mac용으로는 없거든요). 그래서 그냥 하나 만들어서 몇 분 만에 작동하게 했어요.",
+      "postedAt": "2026-10-08T03:28:22.000Z",
+      "metrics": {
+        "replies": 179,
+        "reposts": 309,
+        "likes": 3440,
+        "views": 84636
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2107990181928440149",
+      "product": "grok",
+      "url": "https://x.com/Teslaconomics/status/2107990181928440149",
+      "author": "Teslaconomics",
+      "authorName": "Teslaconomics",
+      "text": "방금 Grok Bot을 사용해서 제 코멘트 섹션을 풀컬러 일본 만화로 바꿔버렸어요. ... Grok Bot은 이제 𝕏를 검색하고, 읽고, 모니터링할 수 있어서 ...",
+      "postedAt": "2026-10-08T00:23:18.000Z",
+      "metrics": {
+        "replies": 66,
+        "reposts": 129,
+        "likes": 771,
+        "views": 253812
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2107989382598660475",
+      "product": "muse",
+      "url": "https://x.com/Shadowfetch/status/2107989382598660475",
+      "author": "Shadowfetch",
+      "authorName": "Robert Corbin | Shadowfetch.com | USASIHQ",
+      "text": "Meta's Muse AI assistant is now available in a dedicated iPad app, one month after launching on iPhone and Android on September 8. Sensor Tower estimates Muse has passed 6.6 million installs. The iPad release adds new connectors including Asana, Canva, Dropbox, Figma, QuickBooks, ...",
+      "postedAt": "2026-10-08T00:20:08.000Z",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 2,
+        "views": 95
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2107966511960965415",
+      "product": "muse",
+      "url": "https://x.com/iFixMalaga/status/2107966511960965415",
+      "author": "iFixMalaga",
+      "authorName": "iBrokeit",
+      "text": "Meta’s Muse AI Agent Is Coming to Windows PCs as a Native App: Image: @richontech on X Meta’s Muse personal AI agent is coming to Windows PCs as a native app, Microsoft announced on stage at its Windows and Surface event… www.iphoneincanada.ca/2026/10/07/meta-muse-windows-app/",
+      "postedAt": "2026-10-07T22:49:15.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1,
+        "views": 50
+      },
+      "topic": "partnership"
+    },
+    {
+      "id": "2107935712914108796",
+      "product": "dots",
+      "url": "https://x.com/TheRegister/status/2107935712914108796",
+      "author": "TheRegister",
+      "authorName": "The Register",
+      "text": "OpenAI's dots have been around a little over a week, and already the open source alternatives are multiplying.\nMore here: https://theregister.com/ai-and-ml/2026/10/07/openai-dots-inspire-open-source-imitators-amid-technical-difficulties/5301734",
+      "postedAt": "2026-10-07T20:46:52.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 1309
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2107837061327638757",
+      "product": "grok",
+      "url": "https://x.com/unicodef1wn/status/2107837061327638757",
+      "author": "unicodef1wn",
+      "authorName": "unicode",
+      "text": "...처음부터 Grok 봇을 만들 필요가 없어. xAI의 자체 팀이 이미 지금 바로 설치할 수 있는 49개를 출시했어\n\n그들의 엔지니어들이 만든 모든 봇들, 테스트됐고, 마켓플레이스에서 라이브로 운영 중이야 ...",
+      "postedAt": "2026-10-07T14:14:51.000Z",
+      "metrics": {
+        "replies": 55,
+        "reposts": 129,
+        "likes": 1496,
+        "views": 126783
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2107724314451878104",
+      "product": "grok",
+      "url": "https://x.com/elonmusk/status/2107724314451878104",
+      "author": "elonmusk",
+      "authorName": "Elon Musk",
+      "text": "Grok @Bot에 대한 중요한 참고 사항:\n\n앞으로 @SpaceX는 주어진 작업에 대해 최적의 백엔드 모델을 사용할 것입니다. 여기에는 Claude Opus 5.5, MidJourney, Suno 및 기타 선도적인 API가 포함됩니다.\n\n당신에게 최상의 결과를 줄 가능성이 가장 높은 것을 선택합니다.",
+      "postedAt": "2026-10-07T06:46:50.000Z",
+      "metrics": {
+        "replies": 7441,
+        "reposts": 11555,
+        "likes": 107953,
+        "views": 78308050
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2107578113160814780",
+      "product": "muse",
+      "url": "https://x.com/Cybernews/status/2107578113160814780",
+      "author": "Cybernews",
+      "authorName": "Cybernews",
+      "text": "Meta’s Muse can build profiles of users’ friends, family, colleagues, and people they follow. Full article: https://cnews.link/meta-muse-privacy-3/",
+      "postedAt": "2026-10-06T21:05:53.000Z",
+      "metrics": {
+        "replies": 2,
+        "reposts": 1,
+        "likes": 3,
+        "views": 739
+      },
+      "topic": "regulation"
+    },
+    {
+      "id": "2107403203088408741",
+      "product": "dots",
+      "url": "https://x.com/SiliconScopeAI/status/2107403203088408741",
+      "author": "SiliconScopeAI",
+      "authorName": "硅次元见闻",
+      "text": "Meta Muse、OpenAI dots、Grok Bot 都是替你干活的 AI 智能体。对照官方资料：Muse 免费但只在美国，Grok Bot 月费 20 美元起，dots 要订月费 100 美元起的 ChatGPT Pro。选哪个？ #AI智能体 #Meta #OpenAI #Grok #ChatGPT",
+      "postedAt": "2026-10-06T09:30:51.000Z",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 0,
+        "views": 21
+      },
+      "topic": "pricing"
+    }
+  ]
 }
