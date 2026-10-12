@@ -17,7 +17,7 @@ Do not edit by hand if you can avoid it — use `scripts/push-x-items.sh <file.j
   "items": [
     {
       "id": "1844000000000000000",            // X post id (digits, string)
-      "product": "grok",                       // "grok" | "dots" | "muse"
+      "product": "grok",                       // "grok" | "dots" | "muse" | "spark"
       "url": "https://x.com/xai/status/1844000000000000000", // https://x.com/<handle>/status/<id>
       "author": "xai",                         // handle, no "@"
       "authorName": "xAI",                     // display name
