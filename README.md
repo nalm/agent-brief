@@ -1,6 +1,6 @@
 # 에이전트 브리프
 
-Grok Bot, OpenAI Dots, Meta Muse를 한국어로만 모아 보는 공개 큐레이션 MVP입니다.
+Grok Bot, OpenAI Dots, Meta Muse, Google Gemini Spark를 한국어로만 모아 보는 공개 큐레이션 MVP입니다.
 빌드 단계와 외부 패키지는 없습니다. 브라우저와 Node만 있으면 됩니다.
 
 ## 실행
@@ -66,7 +66,7 @@ localhost.run 폴백은 `ssh`가 필요합니다 (`sudo apt-get install -y opens
 
 ## 화면
 
-- 제품 탭: Grok Bot / Dots / Muse. 주소는 `#grok`, `#dots`, `#muse`.
+- 제품 탭: Grok Bot / Dots / Muse / Gemini Spark. 주소는 `#grok`, `#dots`, `#muse`, `#spark`.
 - 주제 필터: 전체, 출시, 가격, 제휴, 후기·바이럴, 규제·보안.
 - 카드: 제목, 한 줄 요약, 출처, 시각(KST 기준 날짜), 주제 태그, 원문 링크.
 - 30분 수집: 마지막 수집 시각, 다음 수집까지 카운트다운, 막대. 0이 되면 자동으로 다시 수집합니다.
@@ -95,7 +95,7 @@ localhost.run 폴백은 `ssh`가 필요합니다 (`sudo apt-get install -y opens
 
 쓰는 곳. 기사 본문은 받지 않고 제목, 짧은 설명, 링크, 시각만 저장합니다.
 
-- 공식: `https://openai.com/news/rss.xml` (robots Allow). `https://about.fb.com/news/feed/` 와 공개 WP JSON `wp-json/wp/v2/posts?search=Muse`. `https://x.ai/news` 목록 HTML 한 페이지. x.ai robots는 Allow 이고 Content-Signal 이 ai-input=yes 입니다. 개별 기사 HTML은 열지 않습니다.
+- 공식: `https://openai.com/news/rss.xml` (robots Allow). `https://about.fb.com/news/feed/` 와 공개 WP JSON `wp-json/wp/v2/posts?search=Muse`. Gemini 앱 블로그 RSS `https://blog.google/innovation-and-ai/products/gemini-app/rss/` (Spark 글만, Agent One·Gemini Enterprise 등 기업용 제외). `https://x.ai/news` 목록 HTML 한 페이지. x.ai robots는 Allow 이고 Content-Signal 이 ai-input=yes 입니다. 개별 기사 HTML은 열지 않습니다.
 - 미디어: Bing News RSS `format=RSS`, 영어 질의. robots.txt 에 `/news` 금지는 없었습니다. Bing 일반 약관은 자동 수집을 넓게 제한할 수 있어, 30분에 제품당 한 번, 결과 8건 이하만 가져옵니다.
 - 한국어 RSS: 같은 Bing RSS를 `cc=KR`, `setlang=ko-KR` 로. 일본어·중국어 제목은 버립니다.
 - 버즈: Hacker News Algolia API `hn.algolia.com`. HN HTML은 긁지 않습니다. Show HN, alternative, clone 류 제목은 버립니다.

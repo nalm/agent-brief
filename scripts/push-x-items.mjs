@@ -15,7 +15,7 @@ import path from "node:path";
 import { execFileSync } from "node:child_process";
 import { fileURLToPath } from "node:url";
 
-const PRODUCTS = ["grok", "dots", "muse"];
+const PRODUCTS = ["grok", "dots", "muse", "spark"];
 const TOPICS = ["launch", "pricing", "partnership", "reviews", "regulation"];
 const METRICS = ["replies", "reposts", "likes", "views"];
 const MAX_ITEMS = 150;

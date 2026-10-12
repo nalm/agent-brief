@@ -32,6 +32,12 @@ body[data-product="muse"] {
   --wash: #eef0fb;
 }
 
+body[data-product="spark"] {
+  --accent: #1a73e8;
+  --accent-ink: #0b3d91;
+  --wash: #eaf2fd;
+}
+
 * { box-sizing: border-box; }
 
 html { scroll-behavior: smooth; }

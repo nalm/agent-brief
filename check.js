@@ -106,6 +106,11 @@ assert(relevant("grok", "Introducing Grok Bot", "always-on agents"), "grok");
 assert(!relevant("dots", "Run Dots.mocr", "OpenAI compatible API"), "dots model");
 assert(relevant("muse", "Introducing Muse", "a personal AI agent", "https://about.fb.com/news/introducing-muse-personal-ai-agent/"), "official muse");
 assert(!relevant("muse", "Présentation de Meta One", "un service d’abonnement", "https://about.fb.com/news/meta-one/"), "other meta product");
+assert(relevant("spark", "Gemini Spark now integrates with Chrome", "Google personal agent"), "spark official");
+assert(relevant("spark", "제미나이 스파크는 노트북을 닫아도 일한다", ""), "spark ko");
+assert(!relevant("spark", "Gemini Enterprise adds Agent One", "Google enterprise agents with Spark"), "spark enterprise");
+assert(!relevant("spark", "Apache Spark 4.1 released", "Databricks"), "apache spark");
+assert(!relevant("spark", "Introducing Muse Spark", "Meta model"), "muse spark");
 assert(classifyTopic("Investors are overlooking Grok Bot", "a TV hit", "media") === "reviews", "default reviews");
 assert(!relevant("grok", "Grok 4.6", "a new model"), "plain grok");
 

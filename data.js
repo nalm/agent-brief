@@ -21,6 +21,13 @@ export const PRODUCTS = [
     blurb:
       "메시지 보내듯 일을 시키는 개인 에이전트. Muse Secure VM 위에서 동작하고, 미국·캐나다부터 앱·웹·WhatsApp으로 열렸다.",
   },
+  {
+    id: "spark",
+    name: "Gemini Spark",
+    maker: "Google",
+    blurb:
+      "Gemini 앱 안의 24시간 개인 에이전트. 5월에 공개됐고 7월부터 Google AI Pro·Ultra 구독자에게 넓혀졌다.",
+  },
 ];
 
 export const TOPICS = [
@@ -219,5 +226,65 @@ export const SAMPLE_ITEMS = [
     sourceType: "official",
     url: "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
     publishedAt: "2026-09-30T12:00:00+09:00",
+  },
+  {
+    id: "spark-launch",
+    product: "spark",
+    topic: "launch",
+    title: "Google, Gemini 앱에 24시간 일하는 개인 에이전트 Spark를 넣었다",
+    summary:
+      "Gemini 앱의 다음 단계로 소개된 Spark는 사용자가 자리를 비워도 백그라운드에서 일을 이어 간다. 7월부터 AI Pro·Ultra 구독자로 넓혀졌다.",
+    source: "Google Blog",
+    sourceType: "official",
+    url: "https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/",
+    publishedAt: "2026-05-20T02:00:00+09:00",
+  },
+  {
+    id: "spark-chrome",
+    product: "spark",
+    topic: "partnership",
+    title: "Gemini Spark가 Chrome과 연결됐다",
+    summary:
+      "7월 업데이트 글은 Spark가 Chrome과 맞물려 웹 작업을 이어 받는다고 소개했다.",
+    source: "Google Blog",
+    sourceType: "official",
+    url: "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026",
+    publishedAt: "2026-07-31T05:00:00+09:00",
+  },
+  {
+    id: "spark-photos",
+    product: "spark",
+    topic: "partnership",
+    title: "Gemini Spark가 Google 포토 라이브러리 정리까지 맡는다",
+    summary:
+      "TechCrunch는 Spark가 Google 포토 보관함을 말 한마디로 관리할 수 있게 됐다고 전했다.",
+    source: "TechCrunch",
+    sourceType: "media",
+    url: "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library",
+    publishedAt: "2026-09-04T16:47:00+09:00",
+  },
+  {
+    id: "spark-reviews",
+    product: "spark",
+    topic: "reviews",
+    title: "ZDNET 사용기: Spark는 구글의 또 다른 실패인가, 다크호스인가",
+    summary:
+      "ZDNET 기자가 Gemini Spark를 직접 써 보고 장단점을 정리했다.",
+    source: "ZDNET",
+    sourceType: "media",
+    url: "https://zdnet.com/innovation/google-gemini-spark-ai-agent-test",
+    publishedAt: "2026-10-09T15:02:00+09:00",
+  },
+  {
+    id: "spark-korea",
+    product: "spark",
+    topic: "launch",
+    title: "구글, 24시간 AI 에이전트 ‘제미나이 스파크’ 국내 출시",
+    summary:
+      "연합뉴스는 Spark가 한국에도 출시돼 화면이 꺼져도 백그라운드에서 일한다고 전했다.",
+    source: "연합뉴스",
+    sourceType: "rss",
+    url: "https://yna.co.kr/view/AKR20260730062300017",
+    publishedAt: "2026-07-30T11:59:00+09:00",
   },
 ];

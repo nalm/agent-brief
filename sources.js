@@ -305,6 +305,15 @@ export function relevant(product, title, summary, url = "") {
     const hasMeta = fromMeta || /\b(meta|facebook|whatsapp)\b|메타/i.test(text);
     return hasMeta;
   }
+  if (product === "spark") {
+    // Gemini Spark 개인 에이전트만. 기업용 구글 에이전트와 다른 'Spark' 는 뺀다.
+    if (/agent\s?one|gemini\s+enterprise|agentspace|에이전트\s?원|제미나이\s?엔터프라이즈|에이전트스페이스/i.test(text)) return false;
+    if (/apache\s+spark|muse\s+spark|spark\s+(plug|mail|ar)\b|amazon\s+spark/i.test(text)) return false;
+    const head = `${heading} ${(summary || "").slice(0, 200)}`;
+    if (/gemini\s+spark|제미나이\s?스파크|제미니\s?스파크/i.test(head)) return true;
+    const official = /blog\.google/i.test(url || "");
+    return /\bspark\b|스파크/i.test(heading) && (official || /\bgemini\b|\bgoogle\b|제미나이|구글/i.test(text));
+  }
   return false;
 }
 
@@ -404,6 +413,7 @@ const QUERIES = {
   grok: { en: '"Grok Bot"', ko: '"Grok Bot"', hn: '"Grok Bot"' },
   dots: { en: '"Dots" OpenAI', ko: "OpenAI Dots 에이전트", hn: '"Dots" OpenAI' },
   muse: { en: '"Muse" Meta AI agent', ko: "Meta Muse AI 에이전트", hn: '"Muse" Meta agent' },
+  spark: { en: '"Gemini Spark"', ko: "제미나이 스파크", hn: '"Gemini Spark"' },
 };
 
 export async function loadOfficial(product) {
@@ -445,6 +455,10 @@ export async function loadOfficial(product) {
       throw reason?.reason || new Error("meta empty");
     }
     return finish(product, "official", "Meta Newsroom", [...posts, ...feed], 12);
+  }
+  if (product === "spark") {
+    const feed = await loadFeed("https://blog.google/innovation-and-ai/products/gemini-app/rss/");
+    return finish(product, "official", "Google Blog", feed.map((item) => ({ ...item, source: "Google Blog" })), 10);
   }
   return [];
 }
@@ -492,7 +506,7 @@ export async function loadRss(product) {
  *   "updatedAt": ISO 문자열 | null,
  *   "items": [{
  *     "id": "X 게시물 id(숫자 문자열)",
- *     "product": "grok" | "dots" | "muse",
+ *     "product": "grok" | "dots" | "muse" | "spark",
  *     "url": "https://x.com/<handle>/status/<id>",
  *     "author": "handle(@ 없이)",
  *     "authorName": "표시 이름",
@@ -506,7 +520,7 @@ export async function loadRss(product) {
  * 실패(네트워크·형식 오류)는 빈 배열로 넘기고 피드를 깨지 않는다.
  */
 export const X_ITEMS_DEFAULT_URL = "https://raw.githubusercontent.com/nalm/agent-brief/x-data/x-items.json";
-export const X_PRODUCTS = ["grok", "dots", "muse"];
+export const X_PRODUCTS = ["grok", "dots", "muse", "spark"];
 export const X_TOPICS = ["launch", "pricing", "partnership", "reviews", "regulation"];
 const X_TIMEOUT_MS = 8000;
 const X_MEMO_MS = 60 * 1000;
