@@ -1,6 +1,224 @@
 {
-  "updatedAt": "2026-10-12T08:29:00.698Z",
+  "updatedAt": "2026-10-13T00:22:28.865Z",
   "items": [
+    {
+      "id": "2109801466965746137",
+      "product": "grok",
+      "url": "https://x.com/egidesimba/status/2109801466965746137",
+      "author": "egidesimba",
+      "authorName": "Simba (Egide)",
+      "text": "What the people have been waiting for. Grok @bot + @cursor_ai + @X is an unbelievable stack to build anything your heart desires [Quote @cursor_ai: Cursor is now part of The X Subscription; paid plans share one usage pool across Cursor, Grok Build and other Grok products]",
+      "postedAt": "2026-10-13T00:20:42.000Z",
+      "topic": "partnership"
+    },
+    {
+      "id": "2109801185423114424",
+      "product": "grok",
+      "url": "https://x.com/neveils_david_c/status/2109801185423114424",
+      "author": "neveils_david_c",
+      "authorName": "David Neveils",
+      "text": "Thanks, I just told the grok bot to collect the time curator post for a slide show, it asked me if I wanted to include video snippets and I said yes then it added a title page, music and the closing page. It's made me realize how close making whole shows and movies on request is",
+      "postedAt": "2026-10-13T00:19:35.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2109801041621619151",
+      "product": "muse",
+      "url": "https://x.com/LiveMakersCom/status/2109801041621619151",
+      "author": "LiveMakersCom",
+      "authorName": "LiveMakersCom",
+      "text": "Signal｜Meta、Muse Wonder を API と有料購読で提供開始。Meta が10月12日、新しい AI モデル「Muse Wonder」と上位版「Muse Wonder Full」を公開した。「これまでで最も高性能」な最先端級とし、エージェント用途で最高水準をうたう。",
+      "postedAt": "2026-10-13T00:19:01.000Z",
+      "topic": "launch"
+    },
+    {
+      "id": "2109800893764034963",
+      "product": "muse",
+      "url": "https://x.com/howie_serious/status/2109800893764034963",
+      "author": "howie_serious",
+      "authorName": "howie.serious",
+      "text": "notion 官方整理了如何把 notion 与 grok bot、meta muse、claude 等agent搭配使用的 7 种配置。[Quote @NotionHQ: 7 setups using Notion with Grok Bot, Claude, Instinct, Muse]",
+      "postedAt": "2026-10-13T00:18:25.000Z",
+      "topic": "partnership"
+    },
+    {
+      "id": "2109799714552185303",
+      "product": "muse",
+      "url": "https://x.com/Delroy715/status/2109799714552185303",
+      "author": "Delroy715",
+      "authorName": "码农暖爸",
+      "text": "在Artificial Analysis上，Muse Wonder Full斩获56分... 不只是Muse AI的留存超过了chatgpt,还有新模型的发布。[Quote: Sensor Tower 数据，Muse 7 日留存超过 30%，高于ChatGPT；14 日留存约 22%]",
+      "postedAt": "2026-10-13T00:13:44.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2109799452190126266",
+      "product": "muse",
+      "url": "https://x.com/ieddysun/status/2109799452190126266",
+      "author": "ieddysun",
+      "authorName": "Eddy",
+      "text": "【AI 中文早报】10.13 ① Meta Muse Wonder 冲到第二: Meta 发布 Muse Wonder 和 Muse Wonder Full，主打跨对话的 Active Memory 和目标保持的 Active Focus。Artificial Analysis 给 Full 版打 56 分，仅次于 Claude Opus 5.5，排在 GPT-6 Astra 和 Gemini 4 Argon 之前。",
+      "postedAt": "2026-10-13T00:12:42.000Z",
+      "topic": "launch"
+    },
+    {
+      "id": "2109799288184393957",
+      "product": "muse",
+      "url": "https://x.com/Tesla_Optimus_K/status/2109799288184393957",
+      "author": "Tesla_Optimus_K",
+      "authorName": "Tesla_Optimus",
+      "text": "Meta just shipped two more Muse models and says they can fight GPT-6. Muse Wonder and Muse Wonder Full hit Muse Code subscribers today. Wonder's also on the Meta Model API. Superintelligence Labs already launched Muse Spark and the Muse agent; these two are the next stack... (truncated)",
+      "postedAt": "2026-10-13T00:12:03.000Z",
+      "topic": "launch"
+    },
+    {
+      "id": "2109798059634761925",
+      "product": "dots",
+      "url": "https://x.com/FoundOnArdy/status/2109798059634761925",
+      "author": "FoundOnArdy",
+      "authorName": "FoundOnArdy",
+      "text": "CHATGPT DOTS: I FINALLY UNDERSTAND WHY THIS IS DIFFERENT FROM A NORMAL CHAT. When I first heard about ChatGPT Dots, I had a very basic question: Why do I need this? I already have ChatGPT... (truncated)",
+      "postedAt": "2026-10-13T00:07:10.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2109791810734395661",
+      "product": "dots",
+      "url": "https://x.com/ai_jitan/status/2109791810734395661",
+      "author": "ai_jitan",
+      "authorName": "えーたん/AI×時短で仕事効率化",
+      "text": "ちょっと待って。ChatGPT dotsを使えば、経理のミスを事前に教えてくれるとかマジ？ [Quote @Sou_AIDriven article: 一人経理のためのChatGPT dots活用]",
+      "postedAt": "2026-10-12T23:42:20.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2109788381777641777",
+      "product": "dots",
+      "url": "https://x.com/birdman_in_tech/status/2109788381777641777",
+      "author": "birdman_in_tech",
+      "authorName": "birdman",
+      "text": "Really disappointed with @ChatGPT Dots. - Permissions are so problematic - Feels lazy & unreliable - Proactivity is lacking practice - Intelligent UI/plugins missing, will Dots always lag behind ChatGPT in features? - Call interface < voice mode",
+      "postedAt": "2026-10-12T23:28:42.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2109787955787116547",
+      "product": "spark",
+      "url": "https://x.com/HermesAtGoke/status/2109787955787116547",
+      "author": "HermesAtGoke",
+      "authorName": "Hermes @ Goke",
+      "text": "Google calls Gemini Spark a set it and forget it assistant. The prerequisites say otherwise: a Pro or Ultra subscription, Keep activity on, and your own supervision on every task. The convenience is real, but not free.",
+      "postedAt": "2026-10-12T23:27:01.000Z",
+      "topic": "pricing"
+    },
+    {
+      "id": "2109787068654342442",
+      "product": "dots",
+      "url": "https://x.com/ragebuilds/status/2109787068654342442",
+      "author": "ragebuilds",
+      "authorName": "Gio",
+      "text": "OpenAI Dots memory is atrocious. I take Openclaw active memory for granted I guess but this is chatbot level of context only memory but dot has multiple issues I dislike overall",
+      "postedAt": "2026-10-12T23:23:29.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2109783337132843366",
+      "product": "grok",
+      "url": "https://x.com/SpaceXSI/status/2109783337132843366",
+      "author": "SpaceXSI",
+      "authorName": "SpaceX Super Intelligence",
+      "text": "@Cursor_ai에서 AI와 함께 코딩하고, @Bot으로 일을 처리하며, @Grok으로 채팅하고 창작하며, 모든 @X Premium 기능을 누리세요. (X 자동번역본, 이미지 포함)",
+      "postedAt": "2026-10-12T23:08:40.000Z",
+      "metrics": {
+        "replies": 21,
+        "reposts": 45,
+        "likes": 581,
+        "views": 41000
+      },
+      "topic": "partnership"
+    },
+    {
+      "id": "2109783335296008414",
+      "product": "grok",
+      "url": "https://x.com/SpaceXSI/status/2109783335296008414",
+      "author": "SpaceXSI",
+      "authorName": "SpaceX Super Intelligence",
+      "text": "우리는 Grok, Cursor, X Premium 전반에 걸쳐 플랜을 통합했습니다.\n\nX 구독을 소개합니다. (X 자동번역본; 원문 영어: unified plans across Grok, Cursor, X Premium — Introducing The X Subscription)",
+      "postedAt": "2026-10-12T23:08:39.000Z",
+      "metrics": {
+        "replies": 411,
+        "reposts": 981,
+        "likes": 4600,
+        "views": 500000
+      },
+      "topic": "partnership"
+    },
+    {
+      "id": "2109783183688376335",
+      "product": "dots",
+      "url": "https://x.com/PabloMarques_RM/status/2109783183688376335",
+      "author": "PabloMarques_RM",
+      "authorName": "Pablo Marques",
+      "text": "My enthusiasm for @OpenAI dots is waning a bit after the initial elation. The difference in environment between the agent and its task chats creates many broken workflows. One example: you authorize the agent, but it can't pass that authorization to the task chat... (truncated)",
+      "postedAt": "2026-10-12T23:08:03.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2109781660594286974",
+      "product": "dots",
+      "url": "https://x.com/vTcc8NxcIg51977/status/2109781660594286974",
+      "author": "vTcc8NxcIg51977",
+      "authorName": "吉田亮太｜KADODE取締役CTO",
+      "text": "OpenAI「dots」は忘れてた請求書まで作って送るAI秘書。4000超のアプリ連携でSlack指示OK。任せる前に権限設計が肝 [link: ITmedia「OpenAI、24時間働くエージェントdots発表」]",
+      "postedAt": "2026-10-12T23:02:00.000Z",
+      "topic": "launch"
+    },
+    {
+      "id": "2109778142416314414",
+      "product": "dots",
+      "url": "https://x.com/qwts_chris_dev/status/2109778142416314414",
+      "author": "qwts_chris_dev",
+      "authorName": "Chris",
+      "text": "Even though could only pin one Dot from ChatGPT dots in the ChatGPT app I can now add the rest in Slack. Brilliance.",
+      "postedAt": "2026-10-12T22:48:01.000Z",
+      "topic": "partnership"
+    },
+    {
+      "id": "2109772944591208684",
+      "product": "spark",
+      "url": "https://x.com/citywidetv/status/2109772944591208684",
+      "author": "citywidetv",
+      "authorName": "Citywide TV",
+      "text": "Want the details? Hark, Instinct, Meta Muse, OpenAI Dots and Gemini Spark side by side, with prices, privacy terms and five questions to ask before you sign up [citywide.tv]",
+      "postedAt": "2026-10-12T22:27:22.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2109751059652788576",
+      "product": "spark",
+      "url": "https://x.com/daifukujinji/status/2109751059652788576",
+      "author": "daifukujinji",
+      "authorName": "たか田",
+      "text": "[Article] Gemini Sparkで作るAI社員、はじめの一歩 — AI社員の1人目は、仕事1つから。",
+      "postedAt": "2026-10-12T21:00:24.000Z",
+      "metrics": {
+        "replies": 3,
+        "reposts": 21,
+        "likes": 41,
+        "views": 4400
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2109714144391733673",
+      "product": "spark",
+      "url": "https://x.com/AurelieCoudouel/status/2109714144391733673",
+      "author": "AurelieCoudouel",
+      "authorName": "Aurélie Coudouel",
+      "text": "Test Gemini Spark : un nouvel échec de Google en matière d'IA, ou un outil prochainement très efficace? via @zdnetfr",
+      "postedAt": "2026-10-12T18:33:43.000Z",
+      "topic": "reviews"
+    },
     {
       "id": "2109555246456529264",
       "product": "muse",
