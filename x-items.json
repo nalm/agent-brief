@@ -1,6 +1,200 @@
 {
-  "updatedAt": "2026-10-13T00:22:28.865Z",
+  "updatedAt": "2026-10-13T08:27:22.572Z",
   "items": [
+    {
+      "id": "2109923560235888776",
+      "product": "grok",
+      "url": "https://x.com/BjarteBakke/status/2109923560235888776",
+      "author": "BjarteBakke",
+      "authorName": "Bjarte Austrheim Bakke",
+      "text": "Why is it not possible to delete individual messages on Grok Bot? That seems like an obvious thing to fix @elonmusk. @bot cannot delete them either, the only current solution is to delete a whole agent. @SpaceXSI Oh, and Grok Bot is INCREDIBLE.",
+      "postedAt": "2026-10-13T08:25:51.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2109923454547906990",
+      "product": "grok",
+      "url": "https://x.com/JulienDoclot/status/2109923454547906990",
+      "author": "JulienDoclot",
+      "authorName": "Julien Doclot",
+      "text": "L'unification de @Cursor, @Grok, Grok @Bot et @X est lancée. Un seul compte, un seul abonnement et des quotas d'IA partagés entre les différentes plateformes. Pour ceux qui utilisent déjà Grok Bot et Cursor quotidiennement, c'est une évolution intéressante.",
+      "postedAt": "2026-10-13T08:25:26.000Z",
+      "topic": "pricing"
+    },
+    {
+      "id": "2109921936004571351",
+      "product": "muse",
+      "url": "https://x.com/GNT_fr/status/2109921936004571351",
+      "author": "GNT_fr",
+      "authorName": "Génération-NT",
+      "text": "Modèle IA de pointe : Meta fait des étincelles avec Muse Wonder",
+      "postedAt": "2026-10-13T08:19:24.000Z",
+      "topic": "launch"
+    },
+    {
+      "id": "2109921762653655347",
+      "product": "muse",
+      "url": "https://x.com/RootNationIT/status/2109921762653655347",
+      "author": "RootNationIT",
+      "authorName": "Root Nation IT",
+      "text": "Meta Muse Wonder presenta i suoi modelli di intelligenza artificiale più potenti: cosa possono fare e chi può accedervi.",
+      "postedAt": "2026-10-13T08:18:43.000Z",
+      "topic": "launch"
+    },
+    {
+      "id": "2109921480872194302",
+      "product": "muse",
+      "url": "https://x.com/IsmayilovSarvin/status/2109921480872194302",
+      "author": "IsmayilovSarvin",
+      "authorName": "Sarvin Ismayilov",
+      "text": "AI xəbərləri, 13 oktyabr 1) Meta Muse Wonder modelini buraxdı: söhbətlər arası yaddaş və çətin tapşırıqda dayanmadan iş.",
+      "postedAt": "2026-10-13T08:17:36.000Z",
+      "topic": "launch"
+    },
+    {
+      "id": "2109917082213380333",
+      "product": "spark",
+      "url": "https://x.com/Tesla_Optimus_K/status/2109917082213380333",
+      "author": "Tesla_Optimus_K",
+      "authorName": "Tesla_Optimus",
+      "text": "Gemini Spark will run tasks if you pay for it. Google's agentic assistant Spark — the I/O May thing — can sit in Gmail, Docs, Calendar and Chrome and do background tasks. You need AI Pro or Ultra. Not in the EEA, UK, Switzerland, or Nigeria. Keep activity has to be on.",
+      "postedAt": "2026-10-13T08:00:07.000Z",
+      "topic": "pricing"
+    },
+    {
+      "id": "2109910891407843419",
+      "product": "dots",
+      "url": "https://x.com/benfromdallas/status/2109910891407843419",
+      "author": "benfromdallas",
+      "authorName": "Ben!",
+      "text": "Funny experience with @OpenAI dots tonight. 2 hours ago I told it to push some agents along a long plan document as it completes milestones, ping me if it needs some decision made. I just called the dot and asked how that build was going and give me an update. It said oh yeah…",
+      "postedAt": "2026-10-13T07:35:31.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2109909392489635863",
+      "product": "spark",
+      "url": "https://x.com/gosneyonline/status/2109909392489635863",
+      "author": "gosneyonline",
+      "authorName": "Kevin Gosney",
+      "text": "I still don’t get why Gemini Spark and Muse are still not available in the uk when GrokBot and Claude Cowork is",
+      "postedAt": "2026-10-13T07:29:34.000Z",
+      "topic": "regulation"
+    },
+    {
+      "id": "2109905648838385766",
+      "product": "spark",
+      "url": "https://x.com/Helen_Tech/status/2109905648838385766",
+      "author": "Helen_Tech",
+      "authorName": "おむらまさひで(HelenTech)",
+      "text": "Gemini アプリに「チャット」と「タスク」の切り替えが追加。Gemini Spark がメインのチャット画面に統合",
+      "postedAt": "2026-10-13T07:14:41.000Z",
+      "topic": "launch"
+    },
+    {
+      "id": "2109902759160082479",
+      "product": "dots",
+      "url": "https://x.com/maeta_r/status/2109902759160082479",
+      "author": "maeta_r",
+      "authorName": "前田（まえた）遼介",
+      "text": "今日からはじめたけど、ChatGPT dots すごいな。メール返信も、内容読み取ってカレンダーも自動。前後の新幹線・宿の予定、予約も自動。お客様からフィードバックの連絡がきたら、指示出さずとも提案前のリサーチ、提案書、キービジュアル、ポスター、SNSのデザインも勝手に進めてくれてる。",
+      "postedAt": "2026-10-13T07:03:12.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2109902158673949134",
+      "product": "dots",
+      "url": "https://x.com/scrblanc/status/2109902158673949134",
+      "author": "scrblanc",
+      "authorName": "Blanc",
+      "text": "OPENAI DOTS + OPUS 5.5 + SONNET 5.5 + JEV가 3개의 DOTS로 30일 동안 7인승 OPS 데스크를 운영하며 2,140건의 요청을 $325.23에 처리했습니다… [X 자동번역 표시]",
+      "postedAt": "2026-10-13T07:00:49.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2109890621083464139",
+      "product": "dots",
+      "url": "https://x.com/0xmrmasa88/status/2109890621083464139",
+      "author": "0xmrmasa88",
+      "authorName": "mr.masa d/Acc",
+      "text": "The beginning of AI Agent Optimization and the end of SEO. Meta Muse And ChatGPT Dots Can Shop For You — Now Brands Want In (forbes.com)",
+      "postedAt": "2026-10-13T06:14:58.000Z",
+      "topic": "partnership"
+    },
+    {
+      "id": "2109881121047781430",
+      "product": "grok",
+      "url": "https://x.com/elonmusk/status/2109881121047781430",
+      "author": "elonmusk",
+      "authorName": "Elon Musk",
+      "text": "그록을 시도해 보세요 @Bot (인용: Yashu Sharma — 와 Grok 봇 진짜 너무 좋다. muse, dots, openclaw 테스트해보고 나서 Grok 봇이 다들 압도하는 거 맞아… 사용량도 미쳤어. 컴퓨터 3일 종일 써도 이제 28% 밖에 안 갔어) [X 자동번역 표시]",
+      "postedAt": "2026-10-13T05:37:13.000Z",
+      "metrics": {
+        "replies": 631,
+        "reposts": 308,
+        "likes": 2000,
+        "views": 1000000
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2109867516646637579",
+      "product": "grok",
+      "url": "https://x.com/elonmusk/status/2109867516646637579",
+      "author": "elonmusk",
+      "authorName": "Elon Musk",
+      "text": "그록 @Bot 메모리 전송 (Brian Roemmele의 Memory Transfer 게시물 인용) [X 자동번역 표시]",
+      "postedAt": "2026-10-13T04:43:10.000Z",
+      "metrics": {
+        "replies": 540,
+        "reposts": 356,
+        "likes": 2700,
+        "views": 1250000
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2109853221808435364",
+      "product": "grok",
+      "url": "https://x.com/BrianRoemmele/status/2109853221808435364",
+      "author": "BrianRoemmele",
+      "authorName": "Brian Roemmele",
+      "text": "NEW GROK 봇! AI 메모리 전송! 당신의 기존 AI는 당신을 알고 있습니다. 새로운 AI가 처음부터 시작할 필요는 없습니다. Memory Transfer를 만나보세요. @Grok @Bot으로, Claude나 ChatGPT가 당신에 대해 배운 것을 가져와서… [X 자동번역 표시]",
+      "postedAt": "2026-10-13T03:46:21.000Z",
+      "metrics": {
+        "replies": 115,
+        "reposts": 102,
+        "likes": 737,
+        "views": 790000
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2109846615859372269",
+      "product": "grok",
+      "url": "https://x.com/Texas_Twins_Dad/status/2109846615859372269",
+      "author": "Texas_Twins_Dad",
+      "authorName": "Texas Twins Dad",
+      "text": "가족과 함께 외출 중일 때 Grok Bot이 고객의 버그를 고쳤어요. 제 앱 사용자가 오류에 대해 저에게 이메일을 보냈어요. 제 Grok Bot이 처음부터 끝까지 처리했어요. 버그를 찾아서 고치고, 스스로 배포까지 했어요. [X 자동번역 표시]",
+      "postedAt": "2026-10-13T03:20:06.000Z",
+      "metrics": {
+        "replies": 63,
+        "reposts": 78,
+        "likes": 647,
+        "views": 170000
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2109846222697902111",
+      "product": "grok",
+      "url": "https://x.com/XFreeze/status/2109846222697902111",
+      "author": "XFreeze",
+      "authorName": "X Freeze",
+      "text": "SpaceXSI가 새로운 𝕏 구독 아래에서 𝕏, Grok 및 Cursor 계정을 통합하는 방법에 대한 완전한 가이드를 공식적으로 발표했습니다. 새로운 플랜, 공유 사용 한도, 기존 구독, 환불 또는 전환 방법에 대해 궁금하다면… [X 자동번역 표시]",
+      "postedAt": "2026-10-13T03:18:33.000Z",
+      "topic": "pricing"
+    },
     {
       "id": "2109801466965746137",
       "product": "grok",
