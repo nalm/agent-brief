@@ -1,6 +1,365 @@
 {
-  "updatedAt": "2026-10-13T08:27:22.572Z",
+  "updatedAt": "2026-10-14T00:29:10.243Z",
   "items": [
+    {
+      "id": "2110165518954962989",
+      "product": "muse",
+      "url": "https://x.com/Zhibin992/status/2110165518954962989",
+      "author": "Zhibin992",
+      "authorName": "Zhibin992",
+      "text": "Meta家的Muse Wonder和Muse Wonder Full已发布，据说已经超过Gemini 4 Argon。",
+      "postedAt": "2026-10-14T00:27:19.000Z",
+      "metrics": {
+        "views": 5
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2110165462877155707",
+      "product": "grok",
+      "url": "https://x.com/gnp_sui/status/2110165462877155707",
+      "author": "gnp_sui",
+      "authorName": "GNP",
+      "text": "Tip for grok bot users without money for team plan: connect your team's Google Drive",
+      "postedAt": "2026-10-14T00:27:05.000Z",
+      "topic": "pricing"
+    },
+    {
+      "id": "2110165366714540441",
+      "product": "grok",
+      "url": "https://x.com/denitaPhoenixAI/status/2110165366714540441",
+      "author": "denitaPhoenixAI",
+      "authorName": "Denita Phoenix",
+      "text": "My fav thus far: Grok @bot. Definitely for managing a bot graph and email/calendar automation and marcomm and sales & voice and ease of portability for iOS users.",
+      "postedAt": "2026-10-14T00:26:43.000Z",
+      "metrics": {
+        "views": 3
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2110165259814092809",
+      "product": "grok",
+      "url": "https://x.com/WittySailor/status/2110165259814092809",
+      "author": "WittySailor",
+      "authorName": "WittySailor",
+      "text": "My grok bot accidentally updated a program on my server that improved it and discovered a failing hard drive before hardware diagnostics discovered it.",
+      "postedAt": "2026-10-14T00:26:17.000Z",
+      "metrics": {
+        "views": 2
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2110165194529714205",
+      "product": "grok",
+      "url": "https://x.com/pvandamcom/status/2110165194529714205",
+      "author": "pvandamcom",
+      "authorName": "Peter van Dam",
+      "text": "Mind blown (again). While doing my 13th Cybercab ride I tested the new Grok @bot integration and finished a few email tasks...",
+      "postedAt": "2026-10-14T00:26:02.000Z",
+      "metrics": {
+        "views": 5
+      },
+      "topic": "partnership"
+    },
+    {
+      "id": "2110165181451981001",
+      "product": "grok",
+      "url": "https://x.com/SinghB/status/2110165181451981001",
+      "author": "SinghB",
+      "authorName": "Baljit Ghotra",
+      "text": "I finally graduated to giving control of my google calendar to Grok bot. I named it Chief of Staff. My whole trip is planned...",
+      "postedAt": "2026-10-14T00:25:58.000Z",
+      "metrics": {
+        "views": 3
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2110165084874101075",
+      "product": "grok",
+      "url": "https://x.com/JHartley2/status/2110165084874101075",
+      "author": "JHartley2",
+      "authorName": "Joshua Hartley",
+      "text": "First week of Grok @bot usage was cleaning up 21 years of Gmail across 105,000 emails. Now Bot runs twice daily to tell me what I need to read and labels the rest.",
+      "postedAt": "2026-10-14T00:25:35.000Z",
+      "metrics": {
+        "views": 7
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2110165053572014253",
+      "product": "muse",
+      "url": "https://x.com/hkunimitsu/status/2110165053572014253",
+      "author": "hkunimitsu",
+      "authorName": "國光宏尚 (Hiro Kunimitsu)",
+      "text": "10月12日、Metaが「Muse Wonder」を発表。翌13日にはGoogleが「Gemini 4 Argon」の一般提供を開始。",
+      "postedAt": "2026-10-14T00:25:28.000Z",
+      "metrics": {
+        "likes": 2,
+        "views": 167
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2110164948899033229",
+      "product": "muse",
+      "url": "https://x.com/DeFiMinty/status/2110164948899033229",
+      "author": "DeFiMinty",
+      "authorName": "Minty",
+      "text": "Sadly Muse Wonder is good but the usage is pretty bad on the $50 plan with the standard endpoint. It seems like the goal is to get people on the contributor tier so they can use your data for training.",
+      "postedAt": "2026-10-14T00:25:03.000Z",
+      "metrics": {
+        "likes": 1,
+        "views": 556
+      },
+      "topic": "pricing"
+    },
+    {
+      "id": "2110164846260219909",
+      "product": "muse",
+      "url": "https://x.com/TokenEmerge/status/2110164846260219909",
+      "author": "TokenEmerge",
+      "authorName": "词元涌现",
+      "text": "Meta 正式发布 Muse Wonder 与 Wonder Full，宣称进入真正的 frontier 赛道",
+      "postedAt": "2026-10-14T00:24:38.000Z",
+      "metrics": {
+        "views": 40
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2110164615372185778",
+      "product": "muse",
+      "url": "https://x.com/anchortag_topic/status/2110164615372185778",
+      "author": "anchortag_topic",
+      "authorName": "anchortagTopic",
+      "text": "OpenAIやAnthropicの最先端モデルを上回る高性能AI「Muse Wonder」をMetaが発表",
+      "postedAt": "2026-10-14T00:23:43.000Z",
+      "metrics": {
+        "views": 4
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2110164543137878303",
+      "product": "muse",
+      "url": "https://x.com/ai_joryushi/status/2110164543137878303",
+      "author": "ai_joryushi",
+      "authorName": "ai_joryushi",
+      "text": "海外の検証者Paweł Hurynが、Muse Wonder 1.0を実務の2リポジトリ・105バグで検証。Astra 45.0、Opus 5.5が41.7に対し31.7。",
+      "postedAt": "2026-10-14T00:23:26.000Z",
+      "metrics": {
+        "views": 4
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2110164170335261049",
+      "product": "muse",
+      "url": "https://x.com/InfoMarrueccos/status/2110164170335261049",
+      "author": "InfoMarrueccos",
+      "authorName": "InfoMarruecos",
+      "text": "Meta presenta Muse Wonder y entra en la carrera por los modelos más potentes.",
+      "postedAt": "2026-10-14T00:21:57.000Z",
+      "metrics": {
+        "views": 6
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2110160900393197968",
+      "product": "dots",
+      "url": "https://x.com/nickbaumann_/status/2110160900393197968",
+      "author": "nickbaumann_",
+      "authorName": "Nick",
+      "text": "I'm constantly dictating little notes/reminders to my dot, so I trigger it now via the action button on my iPhone (chatgpt://dots-entry shortcut).",
+      "postedAt": "2026-10-14T00:08:58.000Z",
+      "metrics": {
+        "likes": 4,
+        "views": 297
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2110160673586008537",
+      "product": "dots",
+      "url": "https://x.com/ConnorTalksAI/status/2110160673586008537",
+      "author": "ConnorTalksAI",
+      "authorName": "Connor",
+      "text": "Grok Bot or ChatGPT Dots? Be honest…",
+      "postedAt": "2026-10-14T00:08:04.000Z",
+      "metrics": {
+        "replies": 5,
+        "likes": 4,
+        "views": 117
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2110158661121433774",
+      "product": "spark",
+      "url": "https://x.com/hanimaru_draix/status/2110158661121433774",
+      "author": "hanimaru_draix",
+      "authorName": "hanimaru_draix",
+      "text": "Gemini Sparkが、入力欄のボタン1つに。チャットとタスクの切り替えが簡単になったのは朗報！",
+      "postedAt": "2026-10-14T00:00:04.000Z",
+      "metrics": {
+        "reposts": 1,
+        "likes": 3,
+        "views": 39
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2110157298912162177",
+      "product": "spark",
+      "url": "https://x.com/valuask7/status/2110157298912162177",
+      "author": "valuask7",
+      "authorName": "たくなく@喋る木",
+      "text": "GeminiアプリからGemini Sparkの表記が消え、「チャット」「タスク」って区分になってた。このタスクがいわゆる旧Sparkで、4 Argonも明示的に指定できる。",
+      "postedAt": "2026-10-13T23:54:39.000Z",
+      "metrics": {
+        "views": 54
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2110156192450228348",
+      "product": "spark",
+      "url": "https://x.com/Eniiggman/status/2110156192450228348",
+      "author": "Eniiggman",
+      "authorName": "Enigman",
+      "text": "Отзыв на Gemini 4 Argon в режиме «Задача» (Agent-Spark): пятичасовой лимит ушёл примерно за два часа работы.",
+      "postedAt": "2026-10-13T23:50:15.000Z",
+      "metrics": {
+        "views": 48
+      },
+      "topic": "pricing"
+    },
+    {
+      "id": "2110155223151075608",
+      "product": "dots",
+      "url": "https://x.com/Cayden_X/status/2110155223151075608",
+      "author": "Cayden_X",
+      "authorName": "何事驚慌_",
+      "text": "OpenAI 给 ChatGPT Dots 补上了一个关键闭环：它能借用聊天、Codex 线程与自动化的上下文启动或续接 Codex，也能查看、编辑定时任务。",
+      "postedAt": "2026-10-13T23:46:24.000Z",
+      "metrics": {
+        "views": 11
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2110154935736336390",
+      "product": "dots",
+      "url": "https://x.com/svallejo_tech/status/2110154935736336390",
+      "author": "svallejo_tech",
+      "authorName": "Sebas Vallejo",
+      "text": "I've been using Grok Bot and ChatGPT Dots side by side to run my social media. Both answer fast... Dots can drive my own browser through its extension. Grok Bot can't touch mine.",
+      "postedAt": "2026-10-13T23:45:16.000Z",
+      "metrics": {
+        "views": 15
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2110151114217881621",
+      "product": "dots",
+      "url": "https://x.com/himanshu_v92/status/2110151114217881621",
+      "author": "himanshu_v92",
+      "authorName": "Himanshu V",
+      "text": "I built a Japan trip app with OpenAI Dots... asked Dots to add Wanderlog's features. It did most of them in minutes. What it couldn't do: the data.",
+      "postedAt": "2026-10-13T23:30:04.000Z",
+      "metrics": {
+        "replies": 1,
+        "views": 38
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2110138215214829651",
+      "product": "spark",
+      "url": "https://x.com/sndB0x/status/2110138215214829651",
+      "author": "sndB0x",
+      "authorName": "Donald Duck",
+      "text": "Gemini Spark is still not quite there, even with Argon. Compared to Muse AI.",
+      "postedAt": "2026-10-13T22:38:49.000Z",
+      "metrics": {
+        "views": 54
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2110135046711755098",
+      "product": "spark",
+      "url": "https://x.com/Greasygrind2/status/2110135046711755098",
+      "author": "Greasygrind2",
+      "authorName": "2",
+      "text": "Gemini Sparkゴミだと思ってたけど4 Argonが使えるようになったので可能性を感じている",
+      "postedAt": "2026-10-13T22:26:14.000Z",
+      "metrics": {
+        "likes": 1,
+        "views": 64
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2110133070066270465",
+      "product": "spark",
+      "url": "https://x.com/iamwtru/status/2110133070066270465",
+      "author": "iamwtru",
+      "authorName": "Wataruワタル",
+      "text": "Gemini Spark --> Task / Launch ---> Gemini 4 Argon",
+      "postedAt": "2026-10-13T22:18:22.000Z",
+      "metrics": {
+        "views": 43
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2110113350528946212",
+      "product": "dots",
+      "url": "https://x.com/UnhingedGrumpus/status/2110113350528946212",
+      "author": "UnhingedGrumpus",
+      "authorName": "Karan K",
+      "text": "@OpenAI Dots / Bots need to have a “hard work” option enabled by default. It comes at cost of faster answers - but the quality is much better.",
+      "postedAt": "2026-10-13T21:00:01.000Z",
+      "metrics": {
+        "views": 21
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2110109997749489943",
+      "product": "grok",
+      "url": "https://x.com/lV8QTdVYep83611/status/2110109997749489943",
+      "author": "lV8QTdVYep83611",
+      "authorName": "lV8QTdVYep83611",
+      "text": "Cursor Pro＋X PremiumでGrok Botが使えるか調べてみたところ、Cursor Pro側から使えるとのこと。雰囲気的にはChatGPT Dotsと似ている。",
+      "postedAt": "2026-10-13T20:46:42.000Z",
+      "metrics": {
+        "reposts": 1,
+        "likes": 1,
+        "views": 87
+      },
+      "topic": "pricing"
+    },
+    {
+      "id": "2110096429838487568",
+      "product": "dots",
+      "url": "https://x.com/matt503ea5sf9z5/status/2110096429838487568",
+      "author": "matt503ea5sf9z5",
+      "authorName": "Matt",
+      "text": "I'm actually using the OpenAI Dots. They are great for sending out on research tasks and computer use when I don't want it disrupting my use of my computer.",
+      "postedAt": "2026-10-13T19:52:47.000Z",
+      "metrics": {
+        "views": 76
+      },
+      "topic": "reviews"
+    },
     {
       "id": "2109923560235888776",
       "product": "grok",
