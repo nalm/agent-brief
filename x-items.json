@@ -1,6 +1,211 @@
 {
-  "updatedAt": "2026-10-14T00:29:10.243Z",
+  "updatedAt": "2026-10-14T08:25:35.773Z",
   "items": [
+    {
+      "id": "2110285493179195523",
+      "product": "muse",
+      "url": "https://x.com/PRTIMES_TECH/status/2110285493179195523",
+      "author": "PRTIMES_TECH",
+      "authorName": "PR TIMES Technology",
+      "text": "FastMetal begins offering Meta's frontier model Muse Wonder (Japanese).",
+      "postedAt": "2026-10-14T08:24:03.000Z",
+      "topic": "partnership"
+    },
+    {
+      "id": "2110285479786811721",
+      "product": "muse",
+      "url": "https://x.com/0xKillCoin/status/2110285479786811721",
+      "author": "0xKillCoin",
+      "authorName": "oAdam",
+      "text": "Meta released Muse Wonder; Artificial Analysis index 56 vs Claude Opus 5.5 at 58; after API opened, devs found weak 3D procedural tasks.",
+      "postedAt": "2026-10-14T08:24:00.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2110285070313590936",
+      "product": "muse",
+      "url": "https://x.com/kainotomic/status/2110285070313590936",
+      "author": "kainotomic",
+      "authorName": "Kainotomic",
+      "text": "Meta just introduced Muse Wonder! A smarter AI model built to remember what matters, stay focused on your goals.",
+      "postedAt": "2026-10-14T08:22:22.000Z",
+      "topic": "launch"
+    },
+    {
+      "id": "2110285058741359005",
+      "product": "muse",
+      "url": "https://x.com/erzenkk/status/2110285058741359005",
+      "author": "erzenkk",
+      "authorName": "Erzen",
+      "text": "muse wonder is priced exactly like opus 5.5 and loses to it on most independent benches",
+      "postedAt": "2026-10-14T08:22:19.000Z",
+      "topic": "pricing"
+    },
+    {
+      "id": "2110284633103597677",
+      "product": "grok",
+      "url": "https://x.com/yehon12/status/2110284633103597677",
+      "author": "yehon12",
+      "authorName": "Fromone",
+      "text": "Grok Bot v0.70.2 (10/11) changed a lot: the bot now has its own email address (@mail.grokbot.com), can pay, and searches X without an X connection.",
+      "postedAt": "2026-10-14T08:20:38.000Z",
+      "topic": "launch"
+    },
+    {
+      "id": "2110284488672718970",
+      "product": "grok",
+      "url": "https://x.com/starkov100/status/2110284488672718970",
+      "author": "starkov100",
+      "authorName": "Dmitry Starkov",
+      "text": "Grok's pool (com/imagine/build) was already matching Cursor's in monthly Grok 4.6 usage, so unifying it makes it 2x. Legacy on top has separate Grok Bot + $100 API.",
+      "postedAt": "2026-10-14T08:20:03.000Z",
+      "topic": "pricing"
+    },
+    {
+      "id": "2110284030285599159",
+      "product": "muse",
+      "url": "https://x.com/pixevel/status/2110284030285599159",
+      "author": "pixevel",
+      "authorName": "Pixevel",
+      "text": "On Oct 12 Meta released two frontier models, Muse Wonder and Muse Wonder Full, built for agentic tasks with Active Memory and Active Focus.",
+      "postedAt": "2026-10-14T08:18:14.000Z",
+      "topic": "launch"
+    },
+    {
+      "id": "2110283637950406726",
+      "product": "grok",
+      "url": "https://x.com/astralwave/status/2110283637950406726",
+      "author": "astralwave",
+      "authorName": "Andric",
+      "text": "One major plus Grok Bot has over Claude Projects and Dot is how agentic it is.",
+      "postedAt": "2026-10-14T08:16:41.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2110283555339407576",
+      "product": "grok",
+      "url": "https://x.com/0xNathanWalk/status/2110283555339407576",
+      "author": "0xNathanWalk",
+      "authorName": "Nathan",
+      "text": "Grok Bot Binance Alpha monitoring bot works great; no VPN needed, one-sentence deploy.",
+      "postedAt": "2026-10-14T08:16:21.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2110272343864164741",
+      "product": "spark",
+      "url": "https://x.com/fanxing321/status/2110272343864164741",
+      "author": "fanxing321",
+      "authorName": "FanXing",
+      "text": "In Gemini Web, Argon in Chat mode consumes quota faster than Task mode (formerly Gemini Spark); suspect billing issue.",
+      "postedAt": "2026-10-14T07:31:48.000Z",
+      "metrics": {
+        "views": 52
+      },
+      "topic": "pricing"
+    },
+    {
+      "id": "2110262496309260312",
+      "product": "spark",
+      "url": "https://x.com/slam_n9ne/status/2110262496309260312",
+      "author": "slam_n9ne",
+      "authorName": "Vitaliy Kairov",
+      "text": "Google integrates personal AI agent Spark into main Gemini app, merging chats and tasks; Chat/Tasks toggles replace the separate Spark section, with a Scheduled page.",
+      "postedAt": "2026-10-14T06:52:40.000Z",
+      "topic": "launch"
+    },
+    {
+      "id": "2110261202534518849",
+      "product": "spark",
+      "url": "https://x.com/SuzukuStudio/status/2110261202534518849",
+      "author": "SuzukuStudio",
+      "authorName": "Suzuku Studio",
+      "text": "Tasks (formerly Gemini Spark) burn quota hard; weekly limit separate from Antigravity (Japanese).",
+      "postedAt": "2026-10-14T06:47:32.000Z",
+      "topic": "pricing"
+    },
+    {
+      "id": "2110242446886027532",
+      "product": "spark",
+      "url": "https://x.com/taku_ai_case/status/2110242446886027532",
+      "author": "taku_ai_case",
+      "authorName": "taku",
+      "text": "Gemini Spark update is hot! Quoting article on Spark update with Notebook integration (Japanese).",
+      "postedAt": "2026-10-14T05:33:00.000Z",
+      "topic": "launch"
+    },
+    {
+      "id": "2110236668360003793",
+      "product": "spark",
+      "url": "https://x.com/laopai1990/status/2110236668360003793",
+      "author": "laopai1990",
+      "authorName": "Patrick Laopai",
+      "text": "Google integrated Gemini Spark directly into the app, making automation tasks easier (Chinese).",
+      "postedAt": "2026-10-14T05:10:02.000Z",
+      "topic": "launch"
+    },
+    {
+      "id": "2110225198922563957",
+      "product": "dots",
+      "url": "https://x.com/Gonnector/status/2110225198922563957",
+      "author": "Gonnector",
+      "authorName": "Dylan Ko",
+      "text": "Testing the hot agents dot, Grok Bot, Muse: how often they check email, how carefully, whether realtime voice chat syncs with text chat.",
+      "postedAt": "2026-10-14T04:24:28.000Z",
+      "metrics": {
+        "views": 557
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2110225070098641041",
+      "product": "dots",
+      "url": "https://x.com/_sahani_aditya/status/2110225070098641041",
+      "author": "_sahani_aditya",
+      "authorName": "Aditya Sahani",
+      "text": "Meta Muse. Grok Bot. OpenAI dots. Three products, one shift: AI moving beyond chatbots to agents with memory and tools. Meta bets on memory; Grok gives bots their own computers.",
+      "postedAt": "2026-10-14T04:23:57.000Z",
+      "metrics": {
+        "views": 197
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2110211494508195874",
+      "product": "dots",
+      "url": "https://x.com/humzaakhalid/status/2110211494508195874",
+      "author": "humzaakhalid",
+      "authorName": "Hamza Khalid",
+      "text": "My Oct 2026 business stack: research -> OpenAI Dots, ... ship -> Grok Bots",
+      "postedAt": "2026-10-14T03:30:00.000Z",
+      "metrics": {
+        "views": 910
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2110208334574035124",
+      "product": "dots",
+      "url": "https://x.com/Sou_AIDriven/status/2110208334574035124",
+      "author": "Sou_AIDriven",
+      "authorName": "Sou ChatGPT expert",
+      "text": "Article: for managers with 5 meetings a day, have ChatGPT dots watch your tasks (Japanese).",
+      "postedAt": "2026-10-14T03:17:27.000Z",
+      "metrics": {
+        "views": 2000
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2110207454076338669",
+      "product": "dots",
+      "url": "https://x.com/TechAI1323/status/2110207454076338669",
+      "author": "TechAI1323",
+      "authorName": "AI & Tech Daily",
+      "text": "OpenAI Dots focuses on personal productivity. Google Gemini Agent focuses on enterprise workflows. From answering questions to getting work done.",
+      "postedAt": "2026-10-14T03:13:57.000Z",
+      "topic": "reviews"
+    },
     {
       "id": "2110165518954962989",
       "product": "muse",
@@ -680,15 +885,15 @@
       "url": "https://x.com/SpaceXSI/status/2109783337132843366",
       "author": "SpaceXSI",
       "authorName": "SpaceX Super Intelligence",
-      "text": "@Cursor_ai에서 AI와 함께 코딩하고, @Bot으로 일을 처리하며, @Grok으로 채팅하고 창작하며, 모든 @X Premium 기능을 누리세요. (X 자동번역본, 이미지 포함)",
+      "text": "Code with AI in Cursor, get things done with Bot, chat and create with Grok, and enjoy all X Premium features.",
       "postedAt": "2026-10-12T23:08:40.000Z",
       "metrics": {
-        "replies": 21,
-        "reposts": 45,
-        "likes": 581,
-        "views": 41000
+        "replies": 86,
+        "reposts": 230,
+        "likes": 2300,
+        "views": 290000
       },
-      "topic": "partnership"
+      "topic": "pricing"
     },
     {
       "id": "2109783335296008414",
@@ -696,15 +901,15 @@
       "url": "https://x.com/SpaceXSI/status/2109783335296008414",
       "author": "SpaceXSI",
       "authorName": "SpaceX Super Intelligence",
-      "text": "우리는 Grok, Cursor, X Premium 전반에 걸쳐 플랜을 통합했습니다.\n\nX 구독을 소개합니다. (X 자동번역본; 원문 영어: unified plans across Grok, Cursor, X Premium — Introducing The X Subscription)",
+      "text": "We unified plans across Grok, Cursor, and X Premium. Introducing X Subscription.",
       "postedAt": "2026-10-12T23:08:39.000Z",
       "metrics": {
-        "replies": 411,
-        "reposts": 981,
-        "likes": 4600,
-        "views": 500000
+        "replies": 1400,
+        "reposts": 3700,
+        "likes": 16000,
+        "views": 5320000
       },
-      "topic": "partnership"
+      "topic": "pricing"
     },
     {
       "id": "2109783183688376335",
