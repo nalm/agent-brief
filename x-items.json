@@ -1,6 +1,166 @@
 {
-  "updatedAt": "2026-10-15T00:23:55.882Z",
+  "updatedAt": "2026-10-15T08:24:21.401Z",
   "items": [
+    {
+      "id": "2110647197897531459",
+      "product": "grok",
+      "url": "https://x.com/silvertonbill/status/2110647197897531459",
+      "author": "silvertonbill",
+      "authorName": "William Johnson",
+      "text": "I thought I’d share my grok bot digest, which has been really helpful to keep in the loop about interesting @bot use cases and gives you a daily digest",
+      "postedAt": "2026-10-15T08:22:49.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2110647485714858277",
+      "product": "grok",
+      "url": "https://x.com/grovr_au/status/2110647485714858277",
+      "author": "grovr_au",
+      "authorName": "grovr_au",
+      "text": "been using Grok Voice 3.0 in Grok Bot all day. it's really fast, and it feels more natural and expressive in conversation than before\n\none catch: it sometimes jumps in when i take a brief pause mid-thought. the speed is great, but turn-taking still needs tuning @bot",
+      "postedAt": "2026-10-15T08:22:29.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2110646919223722245",
+      "product": "grok",
+      "url": "https://x.com/IDEric_/status/2110646919223722245",
+      "author": "IDEric_",
+      "authorName": "Eric",
+      "text": "Big Grok Bot update: your bot can now have its own email address, and anything it sends waits for your approval first. It can also search X without you linking an account.\n\nWhat would you hand over to yours first?",
+      "postedAt": "2026-10-15T08:20:14.000Z",
+      "topic": "launch"
+    },
+    {
+      "id": "2110646886231048665",
+      "product": "muse",
+      "url": "https://x.com/HOTHEAD01TH/status/2110646886231048665",
+      "author": "HOTHEAD01TH",
+      "authorName": "𝕏AID ADIL",
+      "text": "Gemini 4 Argon vs Muse Wonder in game development.\n\nSame prompt, two completely different games.",
+      "postedAt": "2026-10-15T08:20:06.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2110643443877704159",
+      "product": "muse",
+      "url": "https://x.com/hellokittyold/status/2110643443877704159",
+      "author": "hellokittyold",
+      "authorName": "老猫- HelloKittyOld",
+      "text": "Muse Wonder 发布两天了，我把官方和几家实测翻完，先说结论：普通用户先别急着掏钱。\n\n1. 这是啥：Meta 第一款敢说\"对标前沿\"的模型，内部代号西瓜。官方称部分基准超过 Claude Opus 5.5 和 GPT-6 Astra。",
+      "postedAt": "2026-10-15T08:06:25.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2110643322301890736",
+      "product": "muse",
+      "url": "https://x.com/passionategkeez/status/2110643322301890736",
+      "author": "passionategkeez",
+      "authorName": "PassionateGeekz.com",
+      "text": "Meta Launches Muse Wonder AI Models to Compete With Leading AI Tools",
+      "postedAt": "2026-10-15T08:05:56.000Z",
+      "topic": "launch"
+    },
+    {
+      "id": "2110636020693893123",
+      "product": "dots",
+      "url": "https://x.com/No_1_1_1_1_1_1/status/2110636020693893123",
+      "author": "No_1_1_1_1_1_1",
+      "authorName": "Carina_",
+      "text": "This is wild.\n\nWas just playing around with ChatGPT Dots and suddenly found myself on an actual phone call with my agent.",
+      "postedAt": "2026-10-15T07:36:55.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2110628311705752035",
+      "product": "spark",
+      "url": "https://x.com/masakiishitani/status/2110628311705752035",
+      "author": "masakiishitani",
+      "authorName": "いしたにまさき",
+      "text": "あれ？Gemini Sparkが消えて、Geminiタスクになってる？？？？",
+      "postedAt": "2026-10-15T07:06:17.000Z",
+      "topic": "launch"
+    },
+    {
+      "id": "2110627193273381128",
+      "product": "muse",
+      "url": "https://x.com/jonaut/status/2110627193273381128",
+      "author": "jonaut",
+      "authorName": "Jonas Appy",
+      "text": "Who is using any centralized agent offerings like Meta's Muse, Grok Bot or OpenAI Dots is surrendering any privacy on personal or professional data shared.\n\nHow can people be so naive?\n\nDATA IS STILL THE NEW OIL",
+      "postedAt": "2026-10-15T07:01:51.000Z",
+      "topic": "regulation"
+    },
+    {
+      "id": "2110625973163159595",
+      "product": "dots",
+      "url": "https://x.com/asahi_ai_x/status/2110625973163159595",
+      "author": "asahi_ai_x",
+      "authorName": "あさひ｜教頭先生のAI活用術",
+      "text": "OpenAIの「ChatGPT dots」が、Codex連携で大進化しました！\nスマホから頼むだけで、Codexが作業を進めてくれます。\n何ができるのかまとめました",
+      "postedAt": "2026-10-15T06:57:00.000Z",
+      "topic": "launch"
+    },
+    {
+      "id": "2110616410221142108",
+      "product": "spark",
+      "url": "https://x.com/abe_belnon/status/2110616410221142108",
+      "author": "abe_belnon",
+      "authorName": "あべむつき｜AI副業YouTuber",
+      "text": "Gemini Sparkが「タスク」になって、何が変わったかがまとまっています\nMac版のフォルダ仕事の依頼文も載っていて、試しやすいです",
+      "postedAt": "2026-10-15T06:19:00.000Z",
+      "topic": "launch"
+    },
+    {
+      "id": "2110615191612522998",
+      "product": "dots",
+      "url": "https://x.com/onefifthblue/status/2110615191612522998",
+      "author": "onefifthblue",
+      "authorName": "五分之1蓝",
+      "text": "为了参加TapTap的GameJam，我让ChatGPT Dots帮我做了一个游戏，当然，方向是我提供的，但所有的开发和美术是Dots自己做的，目前参赛版本已出来，分享给大家体验",
+      "postedAt": "2026-10-15T06:14:09.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2110609038845080005",
+      "product": "spark",
+      "url": "https://x.com/Marco_Paolo_MPB/status/2110609038845080005",
+      "author": "Marco_Paolo_MPB",
+      "authorName": "Marco Paolo Brenna",
+      "text": "Meta Muse, Siri AI avanzata, gli agenti di OpenAI (dots) e Gemini Spark non sono disponibili in Europa. Apple non ha lanciato HomeView nell'UE perché Siri AI è bloccata dal Digital Markets Act.",
+      "postedAt": "2026-10-15T05:49:42.000Z",
+      "topic": "regulation"
+    },
+    {
+      "id": "2110596537613193610",
+      "product": "spark",
+      "url": "https://x.com/SheBuildsAI_/status/2110596537613193610",
+      "author": "SheBuildsAI_",
+      "authorName": "Compound Learning - Tech | Science",
+      "text": "AI stopped waiting for commands—it's running workflows.\n\nI put ChatGPT Work and Gemini Spark head-to-head to build 7 actionable, high-yield workflows you can deploy today.",
+      "postedAt": "2026-10-15T05:00:02.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2110586281252233700",
+      "product": "spark",
+      "url": "https://x.com/pu_tinko/status/2110586281252233700",
+      "author": "pu_tinko",
+      "authorName": "ショウウン",
+      "text": "毎日同じような情報収集や日報作成に時間を取られていませんか？Googleの新機能「Gemini Spark」なら、パソコンを閉じていてもクラウド上で定型業務を自動でこなしてくれます。仕組みの基本と今日すぐ使える設定例をまとめました！ #生成AI",
+      "postedAt": "2026-10-15T04:19:16.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2110581814935068726",
+      "product": "spark",
+      "url": "https://x.com/OHTORRR/status/2110581814935068726",
+      "author": "OHTORRR",
+      "authorName": "オオトリ",
+      "text": "うちの Gemini Spark Argon、一撃で使用量上限24%消費するの笑う",
+      "postedAt": "2026-10-15T04:01:32.000Z",
+      "topic": "pricing"
+    },
     {
       "id": "2110526466215567863",
       "product": "grok",
@@ -1543,192 +1703,6 @@
       "text": "Meta and OpenAI's new AI agents are in direct competition. Here's what each can do, what they cost and who has access.",
       "postedAt": "2026-10-12T00:07:37.000Z",
       "topic": "pricing"
-    },
-    {
-      "id": "2109435221095719394",
-      "product": "dots",
-      "url": "https://x.com/oitamaIoT/status/2109435221095719394",
-      "author": "oitamaIoT",
-      "authorName": "置賜IoT情報交換会（仮）with IoTプロ・コミュニティ山形",
-      "text": "人間より「PC作業がうまい」AI機能がリリース　OpenAI「Dots」が変えるデバイスの未来（1/3 ページ） - ITmedia ビジネスオンライン",
-      "postedAt": "2026-10-12T00:05:22.000Z",
-      "topic": "launch"
-    },
-    {
-      "id": "2109430211872002241",
-      "product": "grok",
-      "url": "https://x.com/tetumemo/status/2109430211872002241",
-      "author": "tetumemo",
-      "authorName": "テツメモ｜AI図解×検証｜Newsletter",
-      "text": "[10/11] AI業界24時間トレンドニュース\n\n・Grok Botが専用メールを取得。外部連絡は人の承認を。\n・ChatGPT Dotsをスマホから作成可能に。\n・Gemini agentが業務横断の自動化へ。\n・AIの購入代行はカード情報と承認を慎重に。",
-      "postedAt": "2026-10-11T23:45:28.000Z",
-      "topic": "launch"
-    },
-    {
-      "id": "2109428934487994664",
-      "product": "grok",
-      "url": "https://x.com/Rasmic/status/2109428934487994664",
-      "author": "Rasmic",
-      "authorName": "Micky",
-      "text": "Grokbot이 내 머신과 네트워크의 다른 머신에 접근해, 비어 있는 머신을 확인하고 Claude 코드 세션에서 /goal을 실행해 구축할 수 있어",
-      "postedAt": "2026-10-11T23:40:23.000Z",
-      "metrics": {
-        "replies": 27,
-        "reposts": 5,
-        "likes": 150,
-        "views": 10000
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2109428834856538146",
-      "product": "dots",
-      "url": "https://x.com/Infocaseworld/status/2109428834856538146",
-      "author": "Infocaseworld",
-      "authorName": "infoCase.world",
-      "text": "Muse火了，OpenAI推出dots正面硬刚#OpenAI #dots #MetaMuse #GPT6 #Astra #AI智能体",
-      "postedAt": "2026-10-11T23:40:00.000Z",
-      "topic": "launch"
-    },
-    {
-      "id": "2109422843058704433",
-      "product": "dots",
-      "url": "https://x.com/Sokichi_Hoshino/status/2109422843058704433",
-      "author": "Sokichi_Hoshino",
-      "authorName": "星野創吉｜CoreGen",
-      "text": "Google Gemini agentとChatGPT dotsどちらを選ぶべきか｜失敗防ぐ４つの確認",
-      "postedAt": "2026-10-11T23:16:11.000Z",
-      "metrics": {
-        "views": 6700
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2109422228945416377",
-      "product": "dots",
-      "url": "https://x.com/Sou_AIDriven/status/2109422228945416377",
-      "author": "Sou_AIDriven",
-      "authorName": "そう｜ChatGPTの専門家",
-      "text": "ChatGPT dotsの専門用語が出ても焦らない｜迷わないためのdots用語10選",
-      "postedAt": "2026-10-11T23:13:45.000Z",
-      "topic": "reviews"
-    },
-    {
-      "id": "2109326308950032501",
-      "product": "grok",
-      "url": "https://x.com/poteto/status/2109326308950032501",
-      "author": "poteto",
-      "authorName": "lauren",
-      "text": "grok 봇을 무엇에 사용할지 잘 모르겠나요? 이 포스트 링크를 보내세요(거의 천 가지 아이디어), 또는 @bot 태그해 아이디어 제안 요청",
-      "postedAt": "2026-10-11T16:52:36.000Z",
-      "metrics": {
-        "replies": 545,
-        "reposts": 114,
-        "likes": 2600,
-        "views": 310000
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2109300300737630603",
-      "product": "grok",
-      "url": "https://x.com/0xShoopy/status/2109300300737630603",
-      "author": "0xShoopy",
-      "authorName": "Shoopy",
-      "text": "SpaceXAI PM (GrokBot team, ex-Cursor): 'cut me out as the meat proxy' — team bot in help channels answers 70-80% of questions before a person sees them; 45-min session builds one live",
-      "postedAt": "2026-10-11T15:09:15.000Z",
-      "topic": "reviews"
-    },
-    {
-      "id": "2109285863238865138",
-      "product": "dots",
-      "url": "https://x.com/aiinsiderbyte/status/2109285863238865138",
-      "author": "aiinsiderbyte",
-      "authorName": "AI INSIDER BYTE",
-      "text": "OpenAI Dots vs. Meta Muse: The Battle of Persistent Cloud Agents",
-      "postedAt": "2026-10-11T14:11:53.000Z",
-      "topic": "reviews"
-    },
-    {
-      "id": "2109231078817042835",
-      "product": "spark",
-      "url": "https://x.com/vivek__p/status/2109231078817042835",
-      "author": "vivek__p",
-      "authorName": "Vivek Patel",
-      "text": "Automated my market research with Gemini Spark. Set up a recurring schedule to track recent indie AI products daily at 9:00 AM. It's in beta.",
-      "postedAt": "2026-10-11T10:34:11.000Z",
-      "topic": "reviews"
-    },
-    {
-      "id": "2109226167832301734",
-      "product": "muse",
-      "url": "https://x.com/lunamoth/status/2109226167832301734",
-      "author": "lunamoth",
-      "authorName": "lunamoth",
-      "text": "OpenAI와 메타 등은 '철저한 프라이버시 보장'을 내세우지만 메타 Muse에서 시스템 취약점, 무단 개인정보 수집, 주소 유출 사고 발생 (The Verge 요약)",
-      "postedAt": "2026-10-11T10:14:40.000Z",
-      "topic": "regulation"
-    },
-    {
-      "id": "2109209865432256615",
-      "product": "muse",
-      "url": "https://x.com/AndroidAuth/status/2109209865432256615",
-      "author": "AndroidAuth",
-      "authorName": "Android Authority",
-      "text": "5 AI apps you should use instead of Meta Muse",
-      "postedAt": "2026-10-11T09:09:53.000Z",
-      "metrics": {
-        "reposts": 3,
-        "likes": 33,
-        "views": 12000
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2109057663938306198",
-      "product": "dots",
-      "url": "https://x.com/itm_business/status/2109057663938306198",
-      "author": "itm_business",
-      "authorName": "ITmedia ビジネスオンライン",
-      "text": "人間より「PC作業がうまい」AI機能がリリース OpenAI「Dots」が変えるデバイスの未来",
-      "postedAt": "2026-10-10T23:05:06.000Z",
-      "topic": "reviews"
-    },
-    {
-      "id": "2109045075355504866",
-      "product": "grok",
-      "url": "https://x.com/minchoi/status/2109045075355504866",
-      "author": "minchoi",
-      "authorName": "Min Choi",
-      "text": "내 신용카드 사진을 Grok Bot한테 줬어. 그 녀석이 내가 일에 필요한 걸 알아내고, 최고의 딜을 찾아서 내 Amazon 카트에 추가했어.",
-      "postedAt": "2026-10-10T22:15:04.000Z",
-      "metrics": {
-        "replies": 157,
-        "reposts": 104,
-        "likes": 535,
-        "views": 1340000
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2108972996450713798",
-      "product": "grok",
-      "url": "https://x.com/silentguyy66/status/2108972996450713798",
-      "author": "silentguyy66",
-      "authorName": "silentguy",
-      "text": "SpaceXAI가 Grok Bot에 대한 무료 55분 워크숍을 공개: Grok Bot 엔지니어가 신뢰 곡선을 안내, 에이전트가 PR 자동 병합 등",
-      "postedAt": "2026-10-10T17:28:39.000Z",
-      "topic": "launch"
-    },
-    {
-      "id": "2108949753119592769",
-      "product": "muse",
-      "url": "https://x.com/Howlsoverbaaz/status/2108949753119592769",
-      "author": "Howlsoverbaaz",
-      "authorName": "Howls over Baaz",
-      "text": "Muse is officially on iPad + new integrations — Canva, QuickBooks, GitHub, Figma, Notion. 6.6 MILLION downloads in month one.",
-      "postedAt": "2026-10-10T15:56:18.000Z",
-      "topic": "launch"
     }
   ]
 }
