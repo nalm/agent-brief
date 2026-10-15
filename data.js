@@ -26,7 +26,7 @@ export const PRODUCTS = [
     name: "Gemini Spark",
     maker: "Google",
     blurb:
-      "Gemini 앱 안의 24시간 개인 에이전트. 5월에 공개됐고 7월부터 Google AI Pro·Ultra 구독자에게 넓혀졌다.",
+      "구글의 24시간 개인 에이전트. 2026년 10월부터 Gemini 메인 채팅의 Task 모드로 통합되고 있으며, 기능은 같고 브랜드만 수렴 중이다.",
   },
 ];
 

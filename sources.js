@@ -306,7 +306,7 @@ export function relevant(product, title, summary, url = "") {
     return hasMeta;
   }
   if (product === "spark") {
-    // Gemini Spark 개인 에이전트만. 기업용 구글 에이전트와 다른 'Spark' 는 뺀다.
+    // Gemini Spark 개인 에이전트만(2026-10부터 메인 채팅 Task 모드로 통합 중). 기업용·다른 Spark 는 뺀다. 이름 필터는 Spark/스파크 유지.
     if (/agent\s?one|gemini\s+enterprise|agentspace|에이전트\s?원|제미나이\s?엔터프라이즈|에이전트스페이스/i.test(text)) return false;
     if (/apache\s+spark|muse\s+spark|spark\s+(plug|mail|ar)\b|amazon\s+spark/i.test(text)) return false;
     const head = `${heading} ${(summary || "").slice(0, 200)}`;
