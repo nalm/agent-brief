@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-10-16T00:25:25.480Z",
+  "updatedAt": "2026-10-16T08:25:29.978Z",
   "items": [
+    {
+      "id": "2111009958741361015",
+      "product": "grok",
+      "url": "https://x.com/BennettBuhner/status/2111009958741361015",
+      "author": "BennettBuhner",
+      "authorName": "BenIt Pro Max Ultra",
+      "text": "Been on a call with Grok Bot for the past over 3 hours!!!\nSeriously one of the best experiences EVER.",
+      "postedAt": "2026-10-16T08:22:49.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2111009942098563174",
+      "product": "grok",
+      "url": "https://x.com/John38211648/status/2111009942098563174",
+      "author": "John38211648",
+      "authorName": "John base.eth",
+      "text": "Grok Bot can shop for you, handle tasks, and apparently even come with a financial safety net.\nMy biggest concern? Giving an AI access to my accounts and watching it spend my money more confidently than I do.",
+      "postedAt": "2026-10-16T08:22:45.000Z",
+      "topic": "launch"
+    },
+    {
+      "id": "2111006177874386977",
+      "product": "muse",
+      "url": "https://x.com/Morusoloapp/status/2111006177874386977",
+      "author": "Morusoloapp",
+      "authorName": "Moru",
+      "text": "아이와 갈 식당 3곳을 메뉴·후기·예약 가능 시간까지 표로 정리했네요\nKevin Stratvert의 10월 12일 Meta Muse 시연입니다. “금요일 6시 반, 어른 둘·아이 둘” 조건으로 찾고, 예약은 별도로 요청한 뒤 확인 화면까지 갔어요.",
+      "postedAt": "2026-10-16T08:07:48.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2111000455535001812",
+      "product": "dots",
+      "url": "https://x.com/Blind___Gamer/status/2111000455535001812",
+      "author": "Blind___Gamer",
+      "authorName": "瞎玩菌",
+      "text": "这是Grok bot和openAI dots的区别，前者支持多个bots，但共用一台云端电脑；后者目前只支持1个dot，但后续每个dot都有自己独立的云端电脑",
+      "postedAt": "2026-10-16T07:45:03.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2110992531341091028",
+      "product": "dots",
+      "url": "https://x.com/sonatykaya/status/2110992531341091028",
+      "author": "sonatykaya",
+      "authorName": "Sonat Yalcinkaya | SoyakaAI",
+      "text": "You log off. The work keeps moving.\nOpenAI Dots puts always-on agents in focus. I already organize work across agents; the opportunity is connecting the handoffs.\nDelegate the work. Keep the decisions.\nMy take + CNET's demo",
+      "postedAt": "2026-10-16T07:13:34.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2110978999883313370",
+      "product": "dots",
+      "url": "https://x.com/mattn_jp/status/2110978999883313370",
+      "author": "mattn_jp",
+      "authorName": "mattn",
+      "text": "OpenAI dots が便利すぎてダメ人間になりそう。",
+      "postedAt": "2026-10-16T06:19:48.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2110968224234066020",
+      "product": "dots",
+      "url": "https://x.com/yeemio/status/2110968224234066020",
+      "author": "yeemio",
+      "authorName": "Yeemio",
+      "text": "Genuine question: what's going on with OpenAI?\nDots can repeat my instructions back perfectly, then ignore them on the next task. In my experience, Grokbot does a better job following them.\nWhat's the point of memory if I still have to repeat myself?",
+      "postedAt": "2026-10-16T05:36:59.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2110947060828844517",
+      "product": "spark",
+      "url": "https://x.com/studies/status/2110947060828844517",
+      "author": "studies",
+      "authorName": "Kent",
+      "text": "Gemini Spark cannot write to any Google Sheets — sheets_agent:call blocked by policy check (forum thread; reporter says fix confirmed and writes now work in their test).",
+      "postedAt": "2026-10-16T04:12:53.000Z",
+      "topic": "reviews"
+    },
     {
       "id": "2110888978241188103",
       "product": "grok",
@@ -1704,104 +1784,6 @@
         "views": 1000000
       },
       "topic": "reviews"
-    },
-    {
-      "id": "2109867516646637579",
-      "product": "grok",
-      "url": "https://x.com/elonmusk/status/2109867516646637579",
-      "author": "elonmusk",
-      "authorName": "Elon Musk",
-      "text": "그록 @Bot 메모리 전송 (Brian Roemmele의 Memory Transfer 게시물 인용) [X 자동번역 표시]",
-      "postedAt": "2026-10-13T04:43:10.000Z",
-      "metrics": {
-        "replies": 540,
-        "reposts": 356,
-        "likes": 2700,
-        "views": 1250000
-      },
-      "topic": "launch"
-    },
-    {
-      "id": "2109853221808435364",
-      "product": "grok",
-      "url": "https://x.com/BrianRoemmele/status/2109853221808435364",
-      "author": "BrianRoemmele",
-      "authorName": "Brian Roemmele",
-      "text": "NEW GROK 봇! AI 메모리 전송! 당신의 기존 AI는 당신을 알고 있습니다. 새로운 AI가 처음부터 시작할 필요는 없습니다. Memory Transfer를 만나보세요. @Grok @Bot으로, Claude나 ChatGPT가 당신에 대해 배운 것을 가져와서… [X 자동번역 표시]",
-      "postedAt": "2026-10-13T03:46:21.000Z",
-      "metrics": {
-        "replies": 115,
-        "reposts": 102,
-        "likes": 737,
-        "views": 790000
-      },
-      "topic": "launch"
-    },
-    {
-      "id": "2109846615859372269",
-      "product": "grok",
-      "url": "https://x.com/Texas_Twins_Dad/status/2109846615859372269",
-      "author": "Texas_Twins_Dad",
-      "authorName": "Texas Twins Dad",
-      "text": "가족과 함께 외출 중일 때 Grok Bot이 고객의 버그를 고쳤어요. 제 앱 사용자가 오류에 대해 저에게 이메일을 보냈어요. 제 Grok Bot이 처음부터 끝까지 처리했어요. 버그를 찾아서 고치고, 스스로 배포까지 했어요. [X 자동번역 표시]",
-      "postedAt": "2026-10-13T03:20:06.000Z",
-      "metrics": {
-        "replies": 63,
-        "reposts": 78,
-        "likes": 647,
-        "views": 170000
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2109846222697902111",
-      "product": "grok",
-      "url": "https://x.com/XFreeze/status/2109846222697902111",
-      "author": "XFreeze",
-      "authorName": "X Freeze",
-      "text": "SpaceXSI가 새로운 𝕏 구독 아래에서 𝕏, Grok 및 Cursor 계정을 통합하는 방법에 대한 완전한 가이드를 공식적으로 발표했습니다. 새로운 플랜, 공유 사용 한도, 기존 구독, 환불 또는 전환 방법에 대해 궁금하다면… [X 자동번역 표시]",
-      "postedAt": "2026-10-13T03:18:33.000Z",
-      "topic": "pricing"
-    },
-    {
-      "id": "2109801466965746137",
-      "product": "grok",
-      "url": "https://x.com/egidesimba/status/2109801466965746137",
-      "author": "egidesimba",
-      "authorName": "Simba (Egide)",
-      "text": "What the people have been waiting for. Grok @bot + @cursor_ai + @X is an unbelievable stack to build anything your heart desires [Quote @cursor_ai: Cursor is now part of The X Subscription; paid plans share one usage pool across Cursor, Grok Build and other Grok products]",
-      "postedAt": "2026-10-13T00:20:42.000Z",
-      "topic": "partnership"
-    },
-    {
-      "id": "2109801185423114424",
-      "product": "grok",
-      "url": "https://x.com/neveils_david_c/status/2109801185423114424",
-      "author": "neveils_david_c",
-      "authorName": "David Neveils",
-      "text": "Thanks, I just told the grok bot to collect the time curator post for a slide show, it asked me if I wanted to include video snippets and I said yes then it added a title page, music and the closing page. It's made me realize how close making whole shows and movies on request is",
-      "postedAt": "2026-10-13T00:19:35.000Z",
-      "topic": "reviews"
-    },
-    {
-      "id": "2109801041621619151",
-      "product": "muse",
-      "url": "https://x.com/LiveMakersCom/status/2109801041621619151",
-      "author": "LiveMakersCom",
-      "authorName": "LiveMakersCom",
-      "text": "Signal｜Meta、Muse Wonder を API と有料購読で提供開始。Meta が10月12日、新しい AI モデル「Muse Wonder」と上位版「Muse Wonder Full」を公開した。「これまでで最も高性能」な最先端級とし、エージェント用途で最高水準をうたう。",
-      "postedAt": "2026-10-13T00:19:01.000Z",
-      "topic": "launch"
-    },
-    {
-      "id": "2109800893764034963",
-      "product": "muse",
-      "url": "https://x.com/howie_serious/status/2109800893764034963",
-      "author": "howie_serious",
-      "authorName": "howie.serious",
-      "text": "notion 官方整理了如何把 notion 与 grok bot、meta muse、claude 等agent搭配使用的 7 种配置。[Quote @NotionHQ: 7 setups using Notion with Grok Bot, Claude, Instinct, Muse]",
-      "postedAt": "2026-10-13T00:18:25.000Z",
-      "topic": "partnership"
     }
   ]
 }
