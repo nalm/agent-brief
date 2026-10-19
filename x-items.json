@@ -1,6 +1,93 @@
 {
-  "updatedAt": "2026-10-19T00:28:49.688Z",
+  "updatedAt": "2026-10-19T08:24:49.572Z",
   "items": [
+    {
+      "id": "2112097114172063963",
+      "product": "grok",
+      "url": "https://x.com/dontbesilent/status/2112097114172063963",
+      "author": "dontbesilent",
+      "authorName": "dontbesilent",
+      "text": "我以前一直不知道，我忙了一整天都在干啥，现在全都知道了 … grok bot 连接 oppo 心力球 mcp",
+      "postedAt": "2026-10-19T08:22:47.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2112083685872644421",
+      "product": "grok",
+      "url": "https://x.com/elonmusk/status/2112083685872644421",
+      "author": "elonmusk",
+      "authorName": "Elon Musk",
+      "text": "오늘 Grok @Bot을 고용하세요. 후회하지 않을 겁니다. [X 자동번역 표시]",
+      "postedAt": "2026-10-19T07:29:25.000Z",
+      "metrics": {
+        "replies": 537,
+        "reposts": 266,
+        "likes": 2163,
+        "views": 575245
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2112044753990889683",
+      "product": "spark",
+      "url": "https://x.com/maria_wats8492/status/2112044753990889683",
+      "author": "maria_wats8492",
+      "authorName": "Maria Watson",
+      "text": "제미니가 이제 당신이 잠을 자는 동안에도 작동할 수 있습니다. 구글의 제미니 스파크는 AI를 챗봇에서 24/7 개인 에이전트로 바꾸고 있습니다. [X 자동번역 표시]",
+      "postedAt": "2026-10-19T04:54:43.000Z",
+      "metrics": {
+        "replies": 8,
+        "reposts": 11,
+        "likes": 29,
+        "views": 1432
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2111990097155440820",
+      "product": "spark",
+      "url": "https://x.com/Cylon1776/status/2111990097155440820",
+      "author": "Cylon1776",
+      "authorName": "Cylon 1776",
+      "text": "Gemini spark is the annoyingest thus far ... I have to click \"allow\" several times every meeting or it doesn't connect. …",
+      "postedAt": "2026-10-19T01:17:32.000Z",
+      "metrics": {
+        "replies": 3,
+        "views": 25
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2111968185566077191",
+      "product": "grok",
+      "url": "https://x.com/Texas_Twins_Dad/status/2111968185566077191",
+      "author": "Texas_Twins_Dad",
+      "authorName": "Texas Twins Dad",
+      "text": "Grok Bot의 주요 기능은 다음과 같습니다! 이것이 Grok Bot을 특별하게 만드는 이유입니다. - Grok Bot 전용 이메일 - 음성 - 전용 컴퓨터: 웹사이트 열고 양식 작성, 24/7 가동 - 커넥터: Gmail, Calendar, Notion, Drive, X 등 - 루틴 … [X 자동번역 표시]",
+      "postedAt": "2026-10-18T23:50:28.000Z",
+      "metrics": {
+        "replies": 77,
+        "reposts": 120,
+        "likes": 1023,
+        "views": 249843
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2111955488581566788",
+      "product": "dots",
+      "url": "https://x.com/ai_300/status/2111955488581566788",
+      "author": "ai_300",
+      "authorName": "鈴木@アナログ営業会社を100日後にAIで売上を300％にする人",
+      "text": "【AI가 앱 밖으로 나왔다】 OpenAI Dots×ChatGPT가 iPhone 홈 화면에 대응. 1탭으로 자신만의 AI 작업 상황을 확인할 수 있다 … [X 자동번역 표시]",
+      "postedAt": "2026-10-18T23:00:01.000Z",
+      "metrics": {
+        "replies": 1,
+        "likes": 20,
+        "views": 3277
+      },
+      "topic": "launch"
+    },
     {
       "id": "2111929471586431255",
       "product": "dots",
@@ -71,12 +158,28 @@
       "text": "우리 팀은 Grok @Bot에 하루에 약 20개의 개선 사항을 적용합니다. [X 자동번역 표시]",
       "postedAt": "2026-10-18T02:14:55.000Z",
       "metrics": {
-        "replies": 1197,
-        "reposts": 1324,
-        "likes": 15161,
-        "views": 2200214
+        "replies": 1242,
+        "reposts": 1423,
+        "likes": 16145,
+        "views": 2326488
       },
       "topic": "launch"
+    },
+    {
+      "id": "2111595093798846835",
+      "product": "dots",
+      "url": "https://x.com/nvandewetering/status/2111595093798846835",
+      "author": "nvandewetering",
+      "authorName": "Nic Vandewetering",
+      "text": "그래서 ChatGPT Dots도 꽤 쓰레기일 수 있어. 가끔은 AirPods로 9개의 에이전트를 관리하는 게 얼마나 쉬운지 놀라워. … Dots가 잘 작동할 때는 훌륭하지만, 내 삶에 완전히 새로운 스트레스를 만들어냈어. [X 자동번역 표시]",
+      "postedAt": "2026-10-17T23:07:56.000Z",
+      "metrics": {
+        "replies": 32,
+        "reposts": 3,
+        "likes": 108,
+        "views": 11919
+      },
+      "topic": "reviews"
     },
     {
       "id": "2111583029894533617",
@@ -118,10 +221,10 @@
       "text": "심지어 메타의 뮤즈도 슈와브에서 차단당한다. 그 CEO는 에이전트가 돈을 이동시키면 누가 책임을 질 것인지 묻는다. JPMorgan도 같은 선을 긋고 있다. https://thenextweb.com/news/schwab-blocks-ai-agents-meta-muse [X 자동번역 표시]",
       "postedAt": "2026-10-17T18:04:33.000Z",
       "metrics": {
-        "replies": 4,
-        "reposts": 19,
-        "likes": 25,
-        "views": 20277
+        "replies": 5,
+        "reposts": 31,
+        "likes": 49,
+        "views": 40714
       },
       "topic": "regulation"
     },
@@ -168,6 +271,21 @@
       "topic": "reviews"
     },
     {
+      "id": "2111303160375427488",
+      "product": "spark",
+      "url": "https://x.com/MeganRisdal/status/2111303160375427488",
+      "author": "MeganRisdal",
+      "authorName": "meg.ai",
+      "text": "I used Muse during my travels a lot because the UX is pretty nice. But the model is so dumb. … it's just way too many clicks and clunkiness to do the same thing with Gemini (Spark).",
+      "postedAt": "2026-10-17T03:47:54.000Z",
+      "metrics": {
+        "replies": 4,
+        "likes": 23,
+        "views": 1687
+      },
+      "topic": "reviews"
+    },
+    {
       "id": "2111264782821060726",
       "product": "muse",
       "url": "https://x.com/uzairansar/status/2111264782821060726",
@@ -184,20 +302,66 @@
       "topic": "reviews"
     },
     {
+      "id": "2111239205951086616",
+      "product": "grok",
+      "url": "https://x.com/elonmusk/status/2111239205951086616",
+      "author": "elonmusk",
+      "authorName": "Elon Musk",
+      "text": "또한, Grok @Bot에게 당신의 𝕏 DM에 연결하라고 요청하세요. 사용하는 가장 좋은 방법입니다. [X 자동번역 표시]",
+      "postedAt": "2026-10-16T23:33:46.000Z",
+      "metrics": {
+        "replies": 845,
+        "reposts": 1017,
+        "likes": 6910,
+        "views": 1727028
+      },
+      "topic": "launch"
+    },
+    {
       "id": "2111184270819803351",
       "product": "grok",
       "url": "https://x.com/bot/status/2111184270819803351",
       "author": "bot",
       "authorName": "Grok Bot",
-      "text": "Grok Bot의 품질, 세련미, 속도에 약간의 개선을 적용했습니다.\n\n채팅 내 카드가 더 깔끔한 레이아웃으로 새로운 디자인을 갖추었습니다. [X 자동번역 표시]",
+      "text": "Grok Bot의 품질, 세련미, 속도에 약간의 개선을 적용했습니다. 채팅 내 카드가 더 깔끔한 레이아웃으로 새로운 디자인을 갖추었습니다. [X 자동번역 표시]",
       "postedAt": "2026-10-16T19:55:28.000Z",
       "metrics": {
-        "replies": 596,
-        "reposts": 660,
-        "likes": 7018,
-        "views": 839156
+        "replies": 604,
+        "reposts": 667,
+        "likes": 7069,
+        "views": 855991
       },
       "topic": "launch"
+    },
+    {
+      "id": "2111091149637067135",
+      "product": "spark",
+      "url": "https://x.com/pdavisjones/status/2111091149637067135",
+      "author": "pdavisjones",
+      "authorName": "Davis Jones",
+      "text": "looking like Gemini Spark is now powered by flash/argon (for ultra users) – a huge upgrade. Spark was previously powered by flash lite.",
+      "postedAt": "2026-10-16T13:45:26.000Z",
+      "metrics": {
+        "likes": 1,
+        "views": 118
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2111073353742397863",
+      "product": "dots",
+      "url": "https://x.com/ayami_marketing/status/2111073353742397863",
+      "author": "ayami_marketing",
+      "authorName": "あやみ｜マーケティング",
+      "text": "OpenAI의 Dots가 출시된 지 약 2주 반. X에 올라온 활용 사례 411건을 모았더니 … 가장 많았던 건 코딩이 아니라 동영상・이미지・소재 제작 … [X 자동번역 표시]",
+      "postedAt": "2026-10-16T12:34:44.000Z",
+      "metrics": {
+        "replies": 2,
+        "reposts": 38,
+        "likes": 286,
+        "views": 26646
+      },
+      "topic": "reviews"
     },
     {
       "id": "2111068050338250791",
@@ -262,6 +426,22 @@
       "topic": "reviews"
     },
     {
+      "id": "2111004261488480425",
+      "product": "grok",
+      "url": "https://x.com/free_ai_guides/status/2111004261488480425",
+      "author": "free_ai_guides",
+      "authorName": "AI Guides",
+      "text": "속보 : Grok 봇이 이제 연봉 5만 달러짜리 여행 에이전트가 될 수 있으며, 예약을 잘못하면 Elon은 SpaceX가 당신에게 환불해 주겠다고 합니다. [X 자동번역 표시]",
+      "postedAt": "2026-10-16T08:00:11.000Z",
+      "metrics": {
+        "replies": 51,
+        "reposts": 158,
+        "likes": 1948,
+        "views": 123522
+      },
+      "topic": "pricing"
+    },
+    {
       "id": "2111000455535001812",
       "product": "dots",
       "url": "https://x.com/Blind___Gamer/status/2111000455535001812",
@@ -319,6 +499,12 @@
       "authorName": "Engadget",
       "text": "OpenAI Dots는 번거로운 웹 작업을 자동화하는 항상 작동하는 AI 에이전트지만, Pro 구독이 필요하며 월 $100부터 비용이 듭니다. [X 자동번역 표시]",
       "postedAt": "2026-10-16T02:50:32.000Z",
+      "metrics": {
+        "replies": 11,
+        "reposts": 7,
+        "likes": 16,
+        "views": 19139
+      },
       "topic": "pricing"
     },
     {
@@ -1684,169 +1870,6 @@
         "views": 4
       },
       "topic": "reviews"
-    },
-    {
-      "id": "2110164170335261049",
-      "product": "muse",
-      "url": "https://x.com/InfoMarrueccos/status/2110164170335261049",
-      "author": "InfoMarrueccos",
-      "authorName": "InfoMarruecos",
-      "text": "Meta presenta Muse Wonder y entra en la carrera por los modelos más potentes.",
-      "postedAt": "2026-10-14T00:21:57.000Z",
-      "metrics": {
-        "views": 6
-      },
-      "topic": "launch"
-    },
-    {
-      "id": "2110160900393197968",
-      "product": "dots",
-      "url": "https://x.com/nickbaumann_/status/2110160900393197968",
-      "author": "nickbaumann_",
-      "authorName": "Nick",
-      "text": "I'm constantly dictating little notes/reminders to my dot, so I trigger it now via the action button on my iPhone (chatgpt://dots-entry shortcut).",
-      "postedAt": "2026-10-14T00:08:58.000Z",
-      "metrics": {
-        "likes": 4,
-        "views": 297
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2110160673586008537",
-      "product": "dots",
-      "url": "https://x.com/ConnorTalksAI/status/2110160673586008537",
-      "author": "ConnorTalksAI",
-      "authorName": "Connor",
-      "text": "Grok Bot or ChatGPT Dots? Be honest…",
-      "postedAt": "2026-10-14T00:08:04.000Z",
-      "metrics": {
-        "replies": 5,
-        "likes": 4,
-        "views": 117
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2110158661121433774",
-      "product": "spark",
-      "url": "https://x.com/hanimaru_draix/status/2110158661121433774",
-      "author": "hanimaru_draix",
-      "authorName": "hanimaru_draix",
-      "text": "Gemini Sparkが、入力欄のボタン1つに。チャットとタスクの切り替えが簡単になったのは朗報！",
-      "postedAt": "2026-10-14T00:00:04.000Z",
-      "metrics": {
-        "reposts": 1,
-        "likes": 3,
-        "views": 39
-      },
-      "topic": "launch"
-    },
-    {
-      "id": "2110157298912162177",
-      "product": "spark",
-      "url": "https://x.com/valuask7/status/2110157298912162177",
-      "author": "valuask7",
-      "authorName": "たくなく@喋る木",
-      "text": "GeminiアプリからGemini Sparkの表記が消え、「チャット」「タスク」って区分になってた。このタスクがいわゆる旧Sparkで、4 Argonも明示的に指定できる。",
-      "postedAt": "2026-10-13T23:54:39.000Z",
-      "metrics": {
-        "views": 54
-      },
-      "topic": "launch"
-    },
-    {
-      "id": "2110156192450228348",
-      "product": "spark",
-      "url": "https://x.com/Eniiggman/status/2110156192450228348",
-      "author": "Eniiggman",
-      "authorName": "Enigman",
-      "text": "Отзыв на Gemini 4 Argon в режиме «Задача» (Agent-Spark): пятичасовой лимит ушёл примерно за два часа работы.",
-      "postedAt": "2026-10-13T23:50:15.000Z",
-      "metrics": {
-        "views": 48
-      },
-      "topic": "pricing"
-    },
-    {
-      "id": "2110155223151075608",
-      "product": "dots",
-      "url": "https://x.com/Cayden_X/status/2110155223151075608",
-      "author": "Cayden_X",
-      "authorName": "何事驚慌_",
-      "text": "OpenAI 给 ChatGPT Dots 补上了一个关键闭环：它能借用聊天、Codex 线程与自动化的上下文启动或续接 Codex，也能查看、编辑定时任务。",
-      "postedAt": "2026-10-13T23:46:24.000Z",
-      "metrics": {
-        "views": 11
-      },
-      "topic": "launch"
-    },
-    {
-      "id": "2110154935736336390",
-      "product": "dots",
-      "url": "https://x.com/svallejo_tech/status/2110154935736336390",
-      "author": "svallejo_tech",
-      "authorName": "Sebas Vallejo",
-      "text": "I've been using Grok Bot and ChatGPT Dots side by side to run my social media. Both answer fast... Dots can drive my own browser through its extension. Grok Bot can't touch mine.",
-      "postedAt": "2026-10-13T23:45:16.000Z",
-      "metrics": {
-        "views": 15
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2110151114217881621",
-      "product": "dots",
-      "url": "https://x.com/himanshu_v92/status/2110151114217881621",
-      "author": "himanshu_v92",
-      "authorName": "Himanshu V",
-      "text": "I built a Japan trip app with OpenAI Dots... asked Dots to add Wanderlog's features. It did most of them in minutes. What it couldn't do: the data.",
-      "postedAt": "2026-10-13T23:30:04.000Z",
-      "metrics": {
-        "replies": 1,
-        "views": 38
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2110138215214829651",
-      "product": "spark",
-      "url": "https://x.com/sndB0x/status/2110138215214829651",
-      "author": "sndB0x",
-      "authorName": "Donald Duck",
-      "text": "Gemini Spark is still not quite there, even with Argon. Compared to Muse AI.",
-      "postedAt": "2026-10-13T22:38:49.000Z",
-      "metrics": {
-        "views": 54
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2110135046711755098",
-      "product": "spark",
-      "url": "https://x.com/Greasygrind2/status/2110135046711755098",
-      "author": "Greasygrind2",
-      "authorName": "2",
-      "text": "Gemini Sparkゴミだと思ってたけど4 Argonが使えるようになったので可能性を感じている",
-      "postedAt": "2026-10-13T22:26:14.000Z",
-      "metrics": {
-        "likes": 1,
-        "views": 64
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2110133070066270465",
-      "product": "spark",
-      "url": "https://x.com/iamwtru/status/2110133070066270465",
-      "author": "iamwtru",
-      "authorName": "Wataruワタル",
-      "text": "Gemini Spark --> Task / Launch ---> Gemini 4 Argon",
-      "postedAt": "2026-10-13T22:18:22.000Z",
-      "metrics": {
-        "views": 43
-      },
-      "topic": "launch"
     }
   ]
 }
