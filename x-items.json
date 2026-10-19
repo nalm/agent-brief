@@ -1,6 +1,236 @@
 {
-  "updatedAt": "2026-10-16T08:25:29.978Z",
+  "updatedAt": "2026-10-19T00:28:49.688Z",
   "items": [
+    {
+      "id": "2111929471586431255",
+      "product": "dots",
+      "url": "https://x.com/bitsbbit/status/2111929471586431255",
+      "author": "bitsbbit",
+      "authorName": "ビジネス+IT（公式）",
+      "text": "【神機能】ChatGPT Dotsが色々スゴい…指示ナシで「曜日間違い」まで指摘する実力",
+      "postedAt": "2026-10-18T21:16:38.000Z",
+      "metrics": {
+        "views": 119
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2111837226006921640",
+      "product": "grok",
+      "url": "https://x.com/Argona0x/status/2111837226006921640",
+      "author": "Argona0x",
+      "authorName": "Argona",
+      "text": "젠장. Karpathy의 두 번째 뇌 패턴이 이제 Grok Bot에서 실행되네: 매번 채팅마다 AI에게 삶을 처음부터 설명하는 걸 멈춰, 스스로 작성되는 위키를 유지해\n\n한 그룹 채팅에 세 개의 봇, 각자 고유한 메모리:\n\n리더는 네가 떨어뜨리는 모든 링크, PDF, 음성 노트를 가져와서 절대 편집하지 않음 [X 자동번역 표시]",
+      "postedAt": "2026-10-18T15:10:05.000Z",
+      "metrics": {
+        "replies": 82,
+        "reposts": 145,
+        "likes": 1896,
+        "views": 161852
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2111831351540490401",
+      "product": "muse",
+      "url": "https://x.com/StockSavvyShay/status/2111831351540490401",
+      "author": "StockSavvyShay",
+      "authorName": "Shay Boloor",
+      "text": "$META Muse Spark와 $GOOGL Gemini는 AI 작업당 약 0.40달러에 불과한 반면, Anthropic Opus 5는 2.34달러로 지능 비용에서 거의 6배의 격차를 보여줍니다.\n\nGoogle과 Meta의 장점은 클라우드, 광고, 상거래를 통해 AI를 수익화할 수 있어 구독에 전적으로 의존하지 않고 모델 가격을 공격적으로 [X 자동번역 표시]",
+      "postedAt": "2026-10-18T14:46:44.000Z",
+      "metrics": {
+        "replies": 59,
+        "reposts": 67,
+        "likes": 434,
+        "views": 49253
+      },
+      "topic": "pricing"
+    },
+    {
+      "id": "2111706819735482488",
+      "product": "grok",
+      "url": "https://x.com/Toby_AgwaB/status/2111706819735482488",
+      "author": "Toby_AgwaB",
+      "authorName": "김크립토",
+      "text": "저는 Grok Bot이\n1. 빠르다\n2. Bot을 여러개 만들 수 있다\n3. 모바일 된다.\n4. 상위 모델 못지 않게 똑똑하다. (일론발 opus 5.5 쓴다는 말도 있던데 폼 보면 진짜인거 같기도)\n5. VM있음\n\n때문에 씁니다.",
+      "postedAt": "2026-10-18T06:31:54.000Z",
+      "metrics": {
+        "replies": 15,
+        "reposts": 10,
+        "likes": 61,
+        "views": 2222
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2111642151138546118",
+      "product": "grok",
+      "url": "https://x.com/elonmusk/status/2111642151138546118",
+      "author": "elonmusk",
+      "authorName": "Elon Musk",
+      "text": "우리 팀은 Grok @Bot에 하루에 약 20개의 개선 사항을 적용합니다. [X 자동번역 표시]",
+      "postedAt": "2026-10-18T02:14:55.000Z",
+      "metrics": {
+        "replies": 1197,
+        "reposts": 1324,
+        "likes": 15161,
+        "views": 2200214
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2111583029894533617",
+      "product": "spark",
+      "url": "https://x.com/hiroki_kohki/status/2111583029894533617",
+      "author": "hiroki_kohki",
+      "authorName": "廣木雄一郎／株式会社廣起 CEO",
+      "text": "Gemini Sparkが「タスク」に進化し、ついにMacのローカルフォルダを直接触れるように！\n\nチャットのすぐ隣から「このフォルダの資料読んでおいて」と頼めるのはめちゃくちゃ便利。\nAIへの仕事の頼み方がガラリと変わりそうです",
+      "postedAt": "2026-10-17T22:20:00.000Z",
+      "metrics": {
+        "reposts": 1,
+        "likes": 4,
+        "views": 605
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2111537352640278560",
+      "product": "muse",
+      "url": "https://x.com/ConnorTalksAI/status/2111537352640278560",
+      "author": "ConnorTalksAI",
+      "authorName": "Connor",
+      "text": "그록 봇, 메타 뮤즈, 아니면 챗GPT 점들?\n\n솔직히 말해봐… [X 자동번역 표시]",
+      "postedAt": "2026-10-17T19:18:29.000Z",
+      "metrics": {
+        "replies": 121,
+        "reposts": 18,
+        "likes": 214,
+        "views": 34515
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2111518746280165579",
+      "product": "muse",
+      "url": "https://x.com/thenextweb/status/2111518746280165579",
+      "author": "thenextweb",
+      "authorName": "TNW",
+      "text": "심지어 메타의 뮤즈도 슈와브에서 차단당한다. 그 CEO는 에이전트가 돈을 이동시키면 누가 책임을 질 것인지 묻는다. JPMorgan도 같은 선을 긋고 있다. https://thenextweb.com/news/schwab-blocks-ai-agents-meta-muse [X 자동번역 표시]",
+      "postedAt": "2026-10-17T18:04:33.000Z",
+      "metrics": {
+        "replies": 4,
+        "reposts": 19,
+        "likes": 25,
+        "views": 20277
+      },
+      "topic": "regulation"
+    },
+    {
+      "id": "2111493552207454579",
+      "product": "spark",
+      "url": "https://x.com/COCOLO_UE/status/2111493552207454579",
+      "author": "COCOLO_UE",
+      "authorName": "ぺい（無職）",
+      "text": "Gemini Spark、日本も対応始まってたんやね\nしかも3ヵ月も前...\n理論上は画面を1タップでオンライン注文ができちゃう、ふと今回使ったが手が非常に汚れてる中で役に立った？笑\n一発でマックのLセットのUberを注文通せたが、バックグラウンドでぐるぐるせわしなく動いてる様子で、3分以上は時間かかった",
+      "postedAt": "2026-10-17T16:24:27.000Z",
+      "metrics": {
+        "views": 40
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2111481504237039981",
+      "product": "muse",
+      "url": "https://x.com/VaibhavSisinty/status/2111481504237039981",
+      "author": "VaibhavSisinty",
+      "authorName": "Vaibhav Sisinty",
+      "text": "2026 메타 커넥트에서 내 폰을 버려두고 메타의 새로운 AI 안경과 하루 종일 보냈습니다.\n\n또한 메타의 웨어러블 부문 부사장 알렉스 하임엘과 자리에 앉았습니다. 그 사람은 3대의 폰과 23켤레의 스마트 안경에 걸쳐 개인 AI 에이전트를 운영합니다. [X 자동번역 표시]",
+      "postedAt": "2026-10-17T15:36:34.000Z",
+      "metrics": {
+        "replies": 62,
+        "reposts": 78,
+        "likes": 208,
+        "views": 228847
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2111381707576524885",
+      "product": "dots",
+      "url": "https://x.com/analyticsinme/status/2111381707576524885",
+      "author": "analyticsinme",
+      "authorName": "Analytics Insight",
+      "text": "Meta Muse vs OpenAI Dots: Should You Trust AI to Handle Everyday Tasks? \n\nFrom booking trips to managing projects, AI agents promise to save time. But how much access should they get? Learn how Meta Muse and OpenAI Dots",
+      "postedAt": "2026-10-17T09:00:01.000Z",
+      "metrics": {
+        "views": 144
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2111264782821060726",
+      "product": "muse",
+      "url": "https://x.com/uzairansar/status/2111264782821060726",
+      "author": "uzairansar",
+      "authorName": "Alex Finn",
+      "text": "봇들의 메모리를 Obsidian 볼트로 옮겼어요. 그래서 에이전트를 전환할 때 처음부터 다시 시작해야 하는 상황이 아니게 됐죠.\n\nGrok Bot, Meta Muse, ChatGPT dots, Hermes bots. 이 모든 걸 각각 제 프로젝트, 선호도, 그리고 이미 설명한 모든 것에 대해 가르칠 필요 없이 시도해보는 걸 좋아해요. [X 자동번역 표시]",
+      "postedAt": "2026-10-17T01:15:24.000Z",
+      "metrics": {
+        "replies": 109,
+        "reposts": 26,
+        "likes": 626,
+        "views": 131539
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2111184270819803351",
+      "product": "grok",
+      "url": "https://x.com/bot/status/2111184270819803351",
+      "author": "bot",
+      "authorName": "Grok Bot",
+      "text": "Grok Bot의 품질, 세련미, 속도에 약간의 개선을 적용했습니다.\n\n채팅 내 카드가 더 깔끔한 레이아웃으로 새로운 디자인을 갖추었습니다. [X 자동번역 표시]",
+      "postedAt": "2026-10-16T19:55:28.000Z",
+      "metrics": {
+        "replies": 596,
+        "reposts": 660,
+        "likes": 7018,
+        "views": 839156
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2111068050338250791",
+      "product": "grok",
+      "url": "https://x.com/KSimback/status/2111068050338250791",
+      "author": "KSimback",
+      "authorName": "Kevin Simback",
+      "text": "152 days\n\nThat's the gap between the Hermes Agent launch and the Grok Bot launch\n\nIn the 60 days since we got: Instinct, Muse, Dots, Hark, Fo, and more\n\nMost of them are hard to tell apart\n\nSo this isn't a product race anymore, it's a distribution race, and the biggest digital",
+      "postedAt": "2026-10-16T12:13:39.000Z",
+      "metrics": {
+        "replies": 15,
+        "reposts": 5,
+        "likes": 38,
+        "views": 3287
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2111064623646675100",
+      "product": "dots",
+      "url": "https://x.com/Kappaemmedev/status/2111064623646675100",
+      "author": "Kappaemmedev",
+      "authorName": "Kappaemme",
+      "text": "Dots 사용자 여러분, 솔직히 말씀해 주세요 \n\n지금까지 실제로 가치가 있나요?\n\n아니면 Grok Bot가 여전히 더 나은 선택인가요?\n\n좋아하는 점과 부족한 점을 알려주세요 [X 자동번역 표시]",
+      "postedAt": "2026-10-16T12:00:02.000Z",
+      "metrics": {
+        "replies": 94,
+        "reposts": 2,
+        "likes": 63,
+        "views": 37976
+      },
+      "topic": "reviews"
+    },
     {
       "id": "2111009958741361015",
       "product": "grok",
@@ -80,6 +310,16 @@
       "text": "Gemini Spark cannot write to any Google Sheets — sheets_agent:call blocked by policy check (forum thread; reporter says fix confirmed and writes now work in their test).",
       "postedAt": "2026-10-16T04:12:53.000Z",
       "topic": "reviews"
+    },
+    {
+      "id": "2110926337510703314",
+      "product": "dots",
+      "url": "https://x.com/engadget/status/2110926337510703314",
+      "author": "engadget",
+      "authorName": "Engadget",
+      "text": "OpenAI Dots는 번거로운 웹 작업을 자동화하는 항상 작동하는 AI 에이전트지만, Pro 구독이 필요하며 월 $100부터 비용이 듭니다. [X 자동번역 표시]",
+      "postedAt": "2026-10-16T02:50:32.000Z",
+      "topic": "pricing"
     },
     {
       "id": "2110888978241188103",
@@ -1607,183 +1847,6 @@
         "views": 43
       },
       "topic": "launch"
-    },
-    {
-      "id": "2110113350528946212",
-      "product": "dots",
-      "url": "https://x.com/UnhingedGrumpus/status/2110113350528946212",
-      "author": "UnhingedGrumpus",
-      "authorName": "Karan K",
-      "text": "@OpenAI Dots / Bots need to have a “hard work” option enabled by default. It comes at cost of faster answers - but the quality is much better.",
-      "postedAt": "2026-10-13T21:00:01.000Z",
-      "metrics": {
-        "views": 21
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2110109997749489943",
-      "product": "grok",
-      "url": "https://x.com/lV8QTdVYep83611/status/2110109997749489943",
-      "author": "lV8QTdVYep83611",
-      "authorName": "lV8QTdVYep83611",
-      "text": "Cursor Pro＋X PremiumでGrok Botが使えるか調べてみたところ、Cursor Pro側から使えるとのこと。雰囲気的にはChatGPT Dotsと似ている。",
-      "postedAt": "2026-10-13T20:46:42.000Z",
-      "metrics": {
-        "reposts": 1,
-        "likes": 1,
-        "views": 87
-      },
-      "topic": "pricing"
-    },
-    {
-      "id": "2110096429838487568",
-      "product": "dots",
-      "url": "https://x.com/matt503ea5sf9z5/status/2110096429838487568",
-      "author": "matt503ea5sf9z5",
-      "authorName": "Matt",
-      "text": "I'm actually using the OpenAI Dots. They are great for sending out on research tasks and computer use when I don't want it disrupting my use of my computer.",
-      "postedAt": "2026-10-13T19:52:47.000Z",
-      "metrics": {
-        "views": 76
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2109923560235888776",
-      "product": "grok",
-      "url": "https://x.com/BjarteBakke/status/2109923560235888776",
-      "author": "BjarteBakke",
-      "authorName": "Bjarte Austrheim Bakke",
-      "text": "Why is it not possible to delete individual messages on Grok Bot? That seems like an obvious thing to fix @elonmusk. @bot cannot delete them either, the only current solution is to delete a whole agent. @SpaceXSI Oh, and Grok Bot is INCREDIBLE.",
-      "postedAt": "2026-10-13T08:25:51.000Z",
-      "topic": "reviews"
-    },
-    {
-      "id": "2109923454547906990",
-      "product": "grok",
-      "url": "https://x.com/JulienDoclot/status/2109923454547906990",
-      "author": "JulienDoclot",
-      "authorName": "Julien Doclot",
-      "text": "L'unification de @Cursor, @Grok, Grok @Bot et @X est lancée. Un seul compte, un seul abonnement et des quotas d'IA partagés entre les différentes plateformes. Pour ceux qui utilisent déjà Grok Bot et Cursor quotidiennement, c'est une évolution intéressante.",
-      "postedAt": "2026-10-13T08:25:26.000Z",
-      "topic": "pricing"
-    },
-    {
-      "id": "2109921936004571351",
-      "product": "muse",
-      "url": "https://x.com/GNT_fr/status/2109921936004571351",
-      "author": "GNT_fr",
-      "authorName": "Génération-NT",
-      "text": "Modèle IA de pointe : Meta fait des étincelles avec Muse Wonder",
-      "postedAt": "2026-10-13T08:19:24.000Z",
-      "topic": "launch"
-    },
-    {
-      "id": "2109921762653655347",
-      "product": "muse",
-      "url": "https://x.com/RootNationIT/status/2109921762653655347",
-      "author": "RootNationIT",
-      "authorName": "Root Nation IT",
-      "text": "Meta Muse Wonder presenta i suoi modelli di intelligenza artificiale più potenti: cosa possono fare e chi può accedervi.",
-      "postedAt": "2026-10-13T08:18:43.000Z",
-      "topic": "launch"
-    },
-    {
-      "id": "2109921480872194302",
-      "product": "muse",
-      "url": "https://x.com/IsmayilovSarvin/status/2109921480872194302",
-      "author": "IsmayilovSarvin",
-      "authorName": "Sarvin Ismayilov",
-      "text": "AI xəbərləri, 13 oktyabr 1) Meta Muse Wonder modelini buraxdı: söhbətlər arası yaddaş və çətin tapşırıqda dayanmadan iş.",
-      "postedAt": "2026-10-13T08:17:36.000Z",
-      "topic": "launch"
-    },
-    {
-      "id": "2109917082213380333",
-      "product": "spark",
-      "url": "https://x.com/Tesla_Optimus_K/status/2109917082213380333",
-      "author": "Tesla_Optimus_K",
-      "authorName": "Tesla_Optimus",
-      "text": "Gemini Spark will run tasks if you pay for it. Google's agentic assistant Spark — the I/O May thing — can sit in Gmail, Docs, Calendar and Chrome and do background tasks. You need AI Pro or Ultra. Not in the EEA, UK, Switzerland, or Nigeria. Keep activity has to be on.",
-      "postedAt": "2026-10-13T08:00:07.000Z",
-      "topic": "pricing"
-    },
-    {
-      "id": "2109910891407843419",
-      "product": "dots",
-      "url": "https://x.com/benfromdallas/status/2109910891407843419",
-      "author": "benfromdallas",
-      "authorName": "Ben!",
-      "text": "Funny experience with @OpenAI dots tonight. 2 hours ago I told it to push some agents along a long plan document as it completes milestones, ping me if it needs some decision made. I just called the dot and asked how that build was going and give me an update. It said oh yeah…",
-      "postedAt": "2026-10-13T07:35:31.000Z",
-      "topic": "reviews"
-    },
-    {
-      "id": "2109909392489635863",
-      "product": "spark",
-      "url": "https://x.com/gosneyonline/status/2109909392489635863",
-      "author": "gosneyonline",
-      "authorName": "Kevin Gosney",
-      "text": "I still don’t get why Gemini Spark and Muse are still not available in the uk when GrokBot and Claude Cowork is",
-      "postedAt": "2026-10-13T07:29:34.000Z",
-      "topic": "regulation"
-    },
-    {
-      "id": "2109905648838385766",
-      "product": "spark",
-      "url": "https://x.com/Helen_Tech/status/2109905648838385766",
-      "author": "Helen_Tech",
-      "authorName": "おむらまさひで(HelenTech)",
-      "text": "Gemini アプリに「チャット」と「タスク」の切り替えが追加。Gemini Spark がメインのチャット画面に統合",
-      "postedAt": "2026-10-13T07:14:41.000Z",
-      "topic": "launch"
-    },
-    {
-      "id": "2109902759160082479",
-      "product": "dots",
-      "url": "https://x.com/maeta_r/status/2109902759160082479",
-      "author": "maeta_r",
-      "authorName": "前田（まえた）遼介",
-      "text": "今日からはじめたけど、ChatGPT dots すごいな。メール返信も、内容読み取ってカレンダーも自動。前後の新幹線・宿の予定、予約も自動。お客様からフィードバックの連絡がきたら、指示出さずとも提案前のリサーチ、提案書、キービジュアル、ポスター、SNSのデザインも勝手に進めてくれてる。",
-      "postedAt": "2026-10-13T07:03:12.000Z",
-      "topic": "reviews"
-    },
-    {
-      "id": "2109902158673949134",
-      "product": "dots",
-      "url": "https://x.com/scrblanc/status/2109902158673949134",
-      "author": "scrblanc",
-      "authorName": "Blanc",
-      "text": "OPENAI DOTS + OPUS 5.5 + SONNET 5.5 + JEV가 3개의 DOTS로 30일 동안 7인승 OPS 데스크를 운영하며 2,140건의 요청을 $325.23에 처리했습니다… [X 자동번역 표시]",
-      "postedAt": "2026-10-13T07:00:49.000Z",
-      "topic": "reviews"
-    },
-    {
-      "id": "2109890621083464139",
-      "product": "dots",
-      "url": "https://x.com/0xmrmasa88/status/2109890621083464139",
-      "author": "0xmrmasa88",
-      "authorName": "mr.masa d/Acc",
-      "text": "The beginning of AI Agent Optimization and the end of SEO. Meta Muse And ChatGPT Dots Can Shop For You — Now Brands Want In (forbes.com)",
-      "postedAt": "2026-10-13T06:14:58.000Z",
-      "topic": "partnership"
-    },
-    {
-      "id": "2109881121047781430",
-      "product": "grok",
-      "url": "https://x.com/elonmusk/status/2109881121047781430",
-      "author": "elonmusk",
-      "authorName": "Elon Musk",
-      "text": "그록을 시도해 보세요 @Bot (인용: Yashu Sharma — 와 Grok 봇 진짜 너무 좋다. muse, dots, openclaw 테스트해보고 나서 Grok 봇이 다들 압도하는 거 맞아… 사용량도 미쳤어. 컴퓨터 3일 종일 써도 이제 28% 밖에 안 갔어) [X 자동번역 표시]",
-      "postedAt": "2026-10-13T05:37:13.000Z",
-      "metrics": {
-        "replies": 631,
-        "reposts": 308,
-        "likes": 2000,
-        "views": 1000000
-      },
-      "topic": "reviews"
     }
   ]
 }
