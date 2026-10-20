@@ -1,6 +1,162 @@
 {
-  "updatedAt": "2026-10-20T00:26:43.201Z",
+  "updatedAt": "2026-10-20T08:19:53.522Z",
   "items": [
+    {
+      "id": "2112458437384647163",
+      "product": "grok",
+      "url": "https://x.com/AuditorHQ/status/2112458437384647163",
+      "author": "AuditorHQ",
+      "authorName": "The Auditor",
+      "text": "whatever you tell your grok bot to handle can end up training grok if one box is on\nit was already on for us. default\nsettings → privacy and safety → grok. 10 sec",
+      "postedAt": "2026-10-20T08:18:33.000Z",
+      "metrics": {
+        "likes": 3
+      },
+      "topic": "regulation"
+    },
+    {
+      "id": "2112458425515098233",
+      "product": "grok",
+      "url": "https://x.com/georgek5555/status/2112458425515098233",
+      "author": "georgek5555",
+      "authorName": "黒宮丈治 𝙶𝙴𝙾𝚁𝙶𝙴 𝙺𝚄𝚁𝙾𝙼𝙸𝚈𝙰",
+      "text": "いまのところDotsは社長室、Grok Botは秘書課という感じでやっています。Claudeも参戦してくれたらいいんだけどな。Tagはちょっと違うから。あとDotsは早く複数ボットつくれるようになってほしい。",
+      "postedAt": "2026-10-20T08:18:30.000Z",
+      "metrics": {
+        "likes": 2
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2112458250159317048",
+      "product": "grok",
+      "url": "https://x.com/tayyare1/status/2112458250159317048",
+      "author": "tayyare1",
+      "authorName": "tayyare79",
+      "text": "Aynen öyle. Tek mesaj yazdım, bu videoyu Grok Bot baştan sona kendisi hazırladı\n\nEN: Exactly. One message from my phone, and Grok Bot made this whole Turkish promo end to end: script, voice, edit.",
+      "postedAt": "2026-10-20T08:17:49.000Z",
+      "metrics": {
+        "likes": 2
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2112458076565733458",
+      "product": "grok",
+      "url": "https://x.com/iOSRXWY/status/2112458076565733458",
+      "author": "iOSRXWY",
+      "authorName": "iOS宝藏",
+      "text": "Mac 端的Grok bot 更新到最新版后，切换会话窗口查看，依旧是会卡死！现在打开后几秒内就会无任何响应，甚至反馈页面都无法都响应，只能使用网页端的 bot。",
+      "postedAt": "2026-10-20T08:17:07.000Z",
+      "metrics": {
+        "likes": 5
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2112458050359480759",
+      "product": "muse",
+      "url": "https://x.com/Dealotronic/status/2112458050359480759",
+      "author": "Dealotronic",
+      "authorName": "Dealotronic",
+      "text": "Meta Muse a donné l'adresse d'un vendeur à un inconnu sur Marketplace, puis lui a répondu « je suis là ». Personne n'est descendu.",
+      "postedAt": "2026-10-20T08:17:01.000Z",
+      "metrics": {
+        "likes": 3
+      },
+      "topic": "regulation"
+    },
+    {
+      "id": "2112457689259536386",
+      "product": "muse",
+      "url": "https://x.com/tsseu12284921/status/2112457689259536386",
+      "author": "tsseu12284921",
+      "authorName": "Easton Downs",
+      "text": "$META muse is a cute tool, but how do they monetize? This is costing a fortune and very few users are going to pay.",
+      "postedAt": "2026-10-20T08:15:35.000Z",
+      "metrics": {
+        "likes": 6
+      },
+      "topic": "pricing"
+    },
+    {
+      "id": "2112454128899371334",
+      "product": "muse",
+      "url": "https://x.com/dijitopyatr/status/2112454128899371334",
+      "author": "dijitopyatr",
+      "authorName": "Dijitopya",
+      "text": "Meta’nın Muse Spark Open modeli, kodlama ve çok adımlı görevler için geliştirildi. Model, özel bir Mac Studio kurulumu üzerinde yerel çalışabiliyor.",
+      "postedAt": "2026-10-20T08:01:26.000Z",
+      "metrics": {
+        "likes": 8
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2112449208204812430",
+      "product": "dots",
+      "url": "https://x.com/InzaTechMedia/status/2112449208204812430",
+      "author": "InzaTechMedia",
+      "authorName": "Inzaghi's Media",
+      "text": "2. OpenAI Dots \n- Filosofi: \"AI Coworker\" (Rekan Kerja Digital).\n- Otak: Ditenagai oleh GPT-6 Astra.\n- Kelebihan: Always-on (bekerja terus walau aplikasi ditutup) di Komputer Cloud sendiri. Sangat kuat untuk Coding, Riset Proaktif, dan Integrasi 4.000+ Work App (Slack, Teams).",
+      "postedAt": "2026-10-20T07:41:53.000Z",
+      "metrics": {
+        "likes": 19
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2112449201028407673",
+      "product": "dots",
+      "url": "https://x.com/InzaTechMedia/status/2112449201028407673",
+      "author": "InzaTechMedia",
+      "authorName": "Inzaghi's Media",
+      "text": "2. OpenAI Dots \n\n Rilis : 29 September 2026 (17 Rabi'ul Akhir 1448 H)\n\nOpenAI Dots adalah agen AI yang selalu aktif, bekerja untuk pengguna, memahami preferensi, dan menggunakan komputer cloud miliknya. Dots ditenagai oleh GPT-6 Astra.",
+      "postedAt": "2026-10-20T07:41:51.000Z",
+      "metrics": {
+        "likes": 16
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2112438675225395564",
+      "product": "dots",
+      "url": "https://x.com/sachiAi_comp/status/2112438675225395564",
+      "author": "sachiAi_comp",
+      "authorName": "サチ/推しはClaude",
+      "text": "ChatGPT dots、変だと思ったら作り直す前に、障害情報のページを見ればいいんだ！助かりすぎる…！\n\nワタシも次はリセットの前に開いてみる",
+      "postedAt": "2026-10-20T07:00:02.000Z",
+      "metrics": {
+        "likes": 110
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2112406288948695210",
+      "product": "spark",
+      "url": "https://x.com/pawel7/status/2112406288948695210",
+      "author": "pawel7",
+      "authorName": "Antiochus",
+      "text": "Both Gemini Spark and xAI’s Grok Bot tackle the same fundamental shift: moving away from a chatbot tab you have to babysit toward an always-on digital teammate that works asynchronously in the cloud while your devices are closed.\nHowever, they are built on completely different",
+      "postedAt": "2026-10-20T04:51:20.000Z",
+      "metrics": {
+        "likes": 72
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2112365074652508598",
+      "product": "spark",
+      "url": "https://x.com/_Cpupadhyay/status/2112365074652508598",
+      "author": "_Cpupadhyay",
+      "authorName": "Chandra Prakash Upadhyay",
+      "text": "Really gemini spark is as better as cowork and chatgpt work?????",
+      "postedAt": "2026-10-20T02:07:34.000Z",
+      "metrics": {
+        "likes": 45
+      },
+      "topic": "reviews"
+    },
     {
       "id": "2112299456255381600",
       "product": "grok",
@@ -1773,144 +1929,6 @@
       "text": "Grok's pool (com/imagine/build) was already matching Cursor's in monthly Grok 4.6 usage, so unifying it makes it 2x. Legacy on top has separate Grok Bot + $100 API.",
       "postedAt": "2026-10-14T08:20:03.000Z",
       "topic": "pricing"
-    },
-    {
-      "id": "2110284030285599159",
-      "product": "muse",
-      "url": "https://x.com/pixevel/status/2110284030285599159",
-      "author": "pixevel",
-      "authorName": "Pixevel",
-      "text": "On Oct 12 Meta released two frontier models, Muse Wonder and Muse Wonder Full, built for agentic tasks with Active Memory and Active Focus.",
-      "postedAt": "2026-10-14T08:18:14.000Z",
-      "topic": "launch"
-    },
-    {
-      "id": "2110283637950406726",
-      "product": "grok",
-      "url": "https://x.com/astralwave/status/2110283637950406726",
-      "author": "astralwave",
-      "authorName": "Andric",
-      "text": "One major plus Grok Bot has over Claude Projects and Dot is how agentic it is.",
-      "postedAt": "2026-10-14T08:16:41.000Z",
-      "topic": "reviews"
-    },
-    {
-      "id": "2110283555339407576",
-      "product": "grok",
-      "url": "https://x.com/0xNathanWalk/status/2110283555339407576",
-      "author": "0xNathanWalk",
-      "authorName": "Nathan",
-      "text": "Grok Bot Binance Alpha monitoring bot works great; no VPN needed, one-sentence deploy.",
-      "postedAt": "2026-10-14T08:16:21.000Z",
-      "topic": "reviews"
-    },
-    {
-      "id": "2110272343864164741",
-      "product": "spark",
-      "url": "https://x.com/fanxing321/status/2110272343864164741",
-      "author": "fanxing321",
-      "authorName": "FanXing",
-      "text": "In Gemini Web, Argon in Chat mode consumes quota faster than Task mode (formerly Gemini Spark); suspect billing issue.",
-      "postedAt": "2026-10-14T07:31:48.000Z",
-      "metrics": {
-        "views": 52
-      },
-      "topic": "pricing"
-    },
-    {
-      "id": "2110262496309260312",
-      "product": "spark",
-      "url": "https://x.com/slam_n9ne/status/2110262496309260312",
-      "author": "slam_n9ne",
-      "authorName": "Vitaliy Kairov",
-      "text": "Google integrates personal AI agent Spark into main Gemini app, merging chats and tasks; Chat/Tasks toggles replace the separate Spark section, with a Scheduled page.",
-      "postedAt": "2026-10-14T06:52:40.000Z",
-      "topic": "launch"
-    },
-    {
-      "id": "2110261202534518849",
-      "product": "spark",
-      "url": "https://x.com/SuzukuStudio/status/2110261202534518849",
-      "author": "SuzukuStudio",
-      "authorName": "Suzuku Studio",
-      "text": "Tasks (formerly Gemini Spark) burn quota hard; weekly limit separate from Antigravity (Japanese).",
-      "postedAt": "2026-10-14T06:47:32.000Z",
-      "topic": "pricing"
-    },
-    {
-      "id": "2110251324549779800",
-      "product": "muse",
-      "url": "https://x.com/Zklnbp/status/2110251324549779800",
-      "author": "Zklnbp",
-      "authorName": "Zk",
-      "text": "Meta 首个前沿模型 Muse Wonder 发布 2 天，口碑吵成两半：看完这 3 点，再决定要不要掏钱 10 月 12 日，Meta 发布了 Muse Wonder 和更强的 Muse Wonder Full，主打长时间运行的 Agent 任务，还带「主动记忆」。有人说它找不到能难住的题，也有人实测后直呼「被榜单骗了」。",
-      "postedAt": "2026-10-14T06:08:17.000Z",
-      "metrics": {
-        "replies": 1,
-        "likes": 1,
-        "views": 149
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2110246820811284987",
-      "product": "muse",
-      "url": "https://x.com/kristi23478/status/2110246820811284987",
-      "author": "kristi23478",
-      "authorName": "Kristi Britton",
-      "text": "Meta dropped Muse Wonder and Muse Wonder Full for Code subscribers. Company says they stack up against top OpenAI and Anthropic models and will feed the Muse agent later. Meta is sprinting again in the model race #Meta #AI",
-      "postedAt": "2026-10-14T05:50:23.000Z",
-      "metrics": {
-        "likes": 1,
-        "views": 38
-      },
-      "topic": "launch"
-    },
-    {
-      "id": "2110242446886027532",
-      "product": "spark",
-      "url": "https://x.com/taku_ai_case/status/2110242446886027532",
-      "author": "taku_ai_case",
-      "authorName": "taku",
-      "text": "Gemini Spark update is hot! Quoting article on Spark update with Notebook integration (Japanese).",
-      "postedAt": "2026-10-14T05:33:00.000Z",
-      "topic": "launch"
-    },
-    {
-      "id": "2110236668360003793",
-      "product": "spark",
-      "url": "https://x.com/laopai1990/status/2110236668360003793",
-      "author": "laopai1990",
-      "authorName": "Patrick Laopai",
-      "text": "Google integrated Gemini Spark directly into the app, making automation tasks easier (Chinese).",
-      "postedAt": "2026-10-14T05:10:02.000Z",
-      "topic": "launch"
-    },
-    {
-      "id": "2110225198922563957",
-      "product": "dots",
-      "url": "https://x.com/Gonnector/status/2110225198922563957",
-      "author": "Gonnector",
-      "authorName": "Dylan Ko",
-      "text": "Testing the hot agents dot, Grok Bot, Muse: how often they check email, how carefully, whether realtime voice chat syncs with text chat.",
-      "postedAt": "2026-10-14T04:24:28.000Z",
-      "metrics": {
-        "views": 557
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2110225070098641041",
-      "product": "dots",
-      "url": "https://x.com/_sahani_aditya/status/2110225070098641041",
-      "author": "_sahani_aditya",
-      "authorName": "Aditya Sahani",
-      "text": "Meta Muse. Grok Bot. OpenAI dots. Three products, one shift: AI moving beyond chatbots to agents with memory and tools. Meta bets on memory; Grok gives bots their own computers.",
-      "postedAt": "2026-10-14T04:23:57.000Z",
-      "metrics": {
-        "views": 197
-      },
-      "topic": "reviews"
     }
   ]
 }
