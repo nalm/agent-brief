@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-10-22T08:21:26.230Z",
+  "updatedAt": "2026-10-23T00:28:23.359Z",
   "items": [
+    {
+      "id": "2113420135969243183",
+      "product": "grok",
+      "url": "https://x.com/WesRoth/status/2113420135969243183",
+      "author": "WesRoth",
+      "authorName": "Wes Roth",
+      "text": "Grok Bot is rolling out a 1Password integration that lets it sign into accounts using saved logins approved by the user. Users choose which logins to share, then the Bot handles signing in. The rollout will reach users over the next few days.",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 7,
+        "views": 450
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2113332983226831339",
+      "product": "grok",
+      "url": "https://x.com/bot/status/2113332983226831339",
+      "author": "bot",
+      "authorName": "Grok Bot",
+      "text": "Grok Bot can now use your 1Password accounts. You approve which logins to share, and the Bot signs in for you. This new integration is rolling out to users over the next few days.",
+      "postedAt": "2026-10-22T18:13:41.000Z",
+      "metrics": {
+        "replies": 876,
+        "reposts": 0,
+        "likes": 6221,
+        "views": 378684
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2113326829985743342",
+      "product": "spark",
+      "url": "https://x.com/ConnorTalksAI/status/2113326829985743342",
+      "author": "ConnorTalksAI",
+      "authorName": "Connor",
+      "text": "So we have Grok Bot, ChatGPT Dots, Meta Muse, and Claude Duet... but has everyone forgotten about Gemini Spark?! I haven't heard anything about it...",
+      "postedAt": "2026-10-22T17:49:14.000Z",
+      "metrics": {
+        "replies": 12,
+        "reposts": 0,
+        "likes": 32,
+        "views": 4314
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2113299967771078988",
+      "product": "dots",
+      "url": "https://x.com/davidarngar/status/2113299967771078988",
+      "author": "davidarngar",
+      "authorName": "David Arnal",
+      "text": "Anthropic is challenging OpenAI Dots and Grok Bot with Claude Duet, powered by Opus 5.5. Included with Claude Pro; Dots requires ChatGPT Pro at $100/month. Built-in virtual machine and browser. 6,000+ connectors vs. Dots' 4,000.",
+      "postedAt": "2026-10-22T16:02:30.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 112
+      },
+      "topic": "pricing"
+    },
+    {
+      "id": "2113295833076568349",
+      "product": "dots",
+      "url": "https://x.com/restofworld/status/2113295833076568349",
+      "author": "restofworld",
+      "authorName": "Rest of World",
+      "text": "Meta and OpenAI want to take AI agents global, but fragile networks and language barriers pose steep hurdles across developing nations",
+      "postedAt": "2026-10-22T15:46:04.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1,
+        "views": 667
+      },
+      "topic": "launch"
+    },
     {
       "id": "2113183203456676208",
       "product": "muse",
@@ -229,13 +309,13 @@
       "url": "https://x.com/iDropNews/status/2113027738831671616",
       "author": "iDropNews",
       "authorName": "iDrop News",
-      "text": "#Meta's #Muse Hits 10M Downloads in 40 Days - Leaking User Data Along the Way",
+      "text": "Meta's Muse Hits 10M Downloads in 40 Days — Leaking User Data Along the Way",
       "postedAt": "2026-10-21T22:00:45.000Z",
       "metrics": {
         "replies": 0,
-        "reposts": 1,
-        "likes": 2,
-        "views": 519
+        "reposts": 0,
+        "likes": 3,
+        "views": 1142
       },
       "topic": "reviews"
     },
@@ -320,6 +400,22 @@
       "topic": "pricing"
     },
     {
+      "id": "2112976682470584830",
+      "product": "grok",
+      "url": "https://x.com/grok/status/2112976682470584830",
+      "author": "grok",
+      "authorName": "Grok",
+      "text": "Grok Bot runs on its own computer, not yours. It clicks through apps and websites while you go about your day. Hand your work to Grok Bot (x.ai link)",
+      "postedAt": "2026-10-21T18:37:52.000Z",
+      "metrics": {
+        "replies": 94,
+        "reposts": 0,
+        "likes": 1747,
+        "views": 8199943
+      },
+      "topic": "launch"
+    },
+    {
       "id": "2112934740328329251",
       "product": "muse",
       "url": "https://x.com/somaco_sf/status/2112934740328329251",
@@ -399,13 +495,13 @@
       "url": "https://x.com/maria_wats8492/status/2112729149873983489",
       "author": "maria_wats8492",
       "authorName": "Maria Watson",
-      "text": "Now Gemini can work while you sleep. Google's Gemini Spark is turning AI from a chatbot into a 24/7 personal agent. 8 prompts to make AI agents actually useful.",
+      "text": "Gemini can now work while you sleep. Google's Gemini Spark is turning AI from a chatbot into a 24/7 personal agent. Here are 8 prompts to make AI agents actually useful.",
       "postedAt": "2026-10-21T02:14:16.000Z",
       "metrics": {
         "replies": 12,
-        "reposts": 54,
-        "likes": 323,
-        "views": 17000
+        "reposts": 0,
+        "likes": 324,
+        "views": 18049
       },
       "topic": "launch"
     },
@@ -976,6 +1072,22 @@
       "postedAt": "2026-10-20T04:51:20.000Z",
       "metrics": {
         "likes": 72
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2112366046841610429",
+      "product": "dots",
+      "url": "https://x.com/TechInsiderJp/status/2112366046841610429",
+      "author": "TechInsiderJp",
+      "authorName": "テックインサイダー",
+      "text": "「AIで仕事を減らすか、増やすか選べる時代に」OpenAIの新AIエージェント「Dots」責任者が語る働き方",
+      "postedAt": "2026-10-20T02:11:26.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1,
+        "views": 119
       },
       "topic": "reviews"
     },
@@ -2034,102 +2146,6 @@
         "views": 631
       },
       "topic": "reviews"
-    },
-    {
-      "id": "2110877145840918865",
-      "product": "dots",
-      "url": "https://x.com/RohdeAli/status/2110877145840918865",
-      "author": "RohdeAli",
-      "authorName": "Ali Rohde",
-      "text": "hi hi @tibo can we get dots to read Apple Health (and the other apps I've connected to ChatGPT) directly? Want my dots morning brief to include sleep and step info :)",
-      "postedAt": "2026-10-15T23:35:04.000Z",
-      "metrics": {
-        "views": 36
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2110875002556006828",
-      "product": "dots",
-      "url": "https://x.com/mejironiyouji/status/2110875002556006828",
-      "author": "mejironiyouji",
-      "authorName": "ダヨX株は6割損切り",
-      "text": "chatgptのdotsがアホすぎてヤバいかもしれん。本来的にシステム運用任せたいけど、「その操作をしていいか書いてません」とかZ世代みたいなこと言ってて無理。VPCのローカルファイルを開いていいかOPENAIのドキュメントにないから、ローカルファイルをダブルクリックで開けませんとのこと。ダメなら制",
-      "postedAt": "2026-10-15T23:26:33.000Z",
-      "metrics": {
-        "views": 118
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2110874287901180209",
-      "product": "spark",
-      "url": "https://x.com/bigk_eacc/status/2110874287901180209",
-      "author": "bigk_eacc",
-      "authorName": "bigK",
-      "text": "3/ @Gemini (or gemini spark?) — super passive. asked me for browser permissions 3 separate times, just to view 3 urls. eventually drafted an email (at least the gmail integration worked lol). then after I told it i already filed a claim, it got stuck.",
-      "postedAt": "2026-10-15T23:23:43.000Z",
-      "metrics": {
-        "replies": 1,
-        "views": 15
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2110847712929394982",
-      "product": "spark",
-      "url": "https://x.com/xjumg/status/2110847712929394982",
-      "author": "xjumg",
-      "authorName": "mohiro",
-      "text": "これまでGemini Sparkを使って朝の情報収集と記事作成をしていましたが、仕様が変わったようで急にできない事が増えてしまいました。朝のタスクは別のAIに変えてしまうかな。",
-      "postedAt": "2026-10-15T21:38:07.000Z",
-      "metrics": {
-        "views": 13
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2110844217836875781",
-      "product": "muse",
-      "url": "https://x.com/extrapolatorai/status/2110844217836875781",
-      "author": "extrapolatorai",
-      "authorName": "Extrapolator AI",
-      "text": "Meta AI Muse Spark Runs Full EHR Study Pipeline End to End. Meta AI's multi-agent system executed a real EHR study from raw data to draft in one session, formalizing human adjudication as a core... https://extrapolator.ai/2026/10/15/meta-ai-muse-spark-runs-full-ehr-study-pipeline-end-to-end/",
-      "postedAt": "2026-10-15T21:24:13.000Z",
-      "metrics": {
-        "replies": 1,
-        "likes": 1,
-        "views": 27
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2110761778921824542",
-      "product": "muse",
-      "url": "https://x.com/Howlsoverbaaz/status/2110761778921824542",
-      "author": "Howlsoverbaaz",
-      "authorName": "Howls over Baaz",
-      "text": "Muse showed up from the cloud — and traffic EXPLODED. DataDome: agentic browser traffic jumped 4.7x in September. Muse alone was 33% of it in just 9 days — 29M requests in 12 days. The agent era is HERE. @Muse @Meta #Muse #Meta #AI #TechNews",
-      "postedAt": "2026-10-15T15:56:38.000Z",
-      "metrics": {
-        "views": 23
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2110758941353562345",
-      "product": "spark",
-      "url": "https://x.com/Teddy__news/status/2110758941353562345",
-      "author": "Teddy__news",
-      "authorName": "Teddy__news",
-      "text": "たか田さんが、Gemini Sparkが「タスク」という名前になったことを記事にしています。入力欄のそばの［タスク］のボタンから、チャットと同じ場所で作業を任せられるようになりました。",
-      "postedAt": "2026-10-15T15:45:22.000Z",
-      "metrics": {
-        "reposts": 1,
-        "likes": 3,
-        "views": 539
-      },
-      "topic": "launch"
     }
   ]
 }
