@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T00:28:23.359Z",
+  "updatedAt": "2026-10-23T08:22:04.185Z",
   "items": [
     {
       "id": "2113420135969243183",
@@ -7,15 +7,62 @@
       "url": "https://x.com/WesRoth/status/2113420135969243183",
       "author": "WesRoth",
       "authorName": "Wes Roth",
-      "text": "Grok Bot is rolling out a 1Password integration that lets it sign into accounts using saved logins approved by the user. Users choose which logins to share, then the Bot handles signing in. The rollout will reach users over the next few days.",
+      "text": "Grok Bot is rolling out a 1Password integration that lets it sign into accounts using saved logins approved by the user.\n\nUsers choose which logins to share, then the Bot handles signing in. The rollout will reach users over the next few days.",
       "postedAt": "2026-10-23T00:00:00.000Z",
       "metrics": {
-        "replies": 2,
-        "reposts": 0,
-        "likes": 7,
-        "views": 450
+        "replies": 8,
+        "reposts": 50,
+        "likes": 1800
+      },
+      "topic": "partnership"
+    },
+    {
+      "id": "2113393684209176718",
+      "product": "grok",
+      "url": "https://x.com/bot/status/2113393684209176718",
+      "author": "bot",
+      "authorName": "Grok Bot",
+      "text": "Grok Bot can now use Calendar, Reminders, Contacts, and other apps on your phone.\n\nRolling out now on iOS and Android.",
+      "postedAt": "2026-10-22T22:14:53.000Z",
+      "metrics": {
+        "replies": 2900,
+        "reposts": 1400,
+        "likes": 10000,
+        "views": 1450000
       },
       "topic": "launch"
+    },
+    {
+      "id": "2113367190162280566",
+      "product": "muse",
+      "url": "https://x.com/Benzinga/status/2113367190162280566",
+      "author": "Benzinga",
+      "authorName": "Benzinga",
+      "text": "Meta’s ($META) Muse app has topped 10M U.S. downloads in just 40 days, becoming only the third non-gaming app to ever hit that milestone.",
+      "postedAt": "2026-10-22T20:29:37.000Z",
+      "metrics": {
+        "replies": 4,
+        "reposts": 1,
+        "likes": 3,
+        "views": 4500
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2113366778940449041",
+      "product": "muse",
+      "url": "https://x.com/verge/status/2113366778940449041",
+      "author": "verge",
+      "authorName": "The Verge",
+      "text": "Meta has given new URLs to shared Muse ‘artifacts’ after security researchers reported that public links could be easy to find.",
+      "postedAt": "2026-10-22T20:27:59.000Z",
+      "metrics": {
+        "replies": 7,
+        "reposts": 2,
+        "likes": 29,
+        "views": 14000
+      },
+      "topic": "regulation"
     },
     {
       "id": "2113332983226831339",
@@ -23,13 +70,27 @@
       "url": "https://x.com/bot/status/2113332983226831339",
       "author": "bot",
       "authorName": "Grok Bot",
-      "text": "Grok Bot can now use your 1Password accounts. You approve which logins to share, and the Bot signs in for you. This new integration is rolling out to users over the next few days.",
+      "text": "Grok Bot can now use your 1Password account.\n\nApprove the logins you want to share, and Bot signs in for you. This new integration is rolling out to users over the next few days.",
       "postedAt": "2026-10-22T18:13:41.000Z",
       "metrics": {
-        "replies": 876,
-        "reposts": 0,
-        "likes": 6221,
-        "views": 378684
+        "replies": 1000,
+        "reposts": 838,
+        "likes": 8000,
+        "views": 630000
+      },
+      "topic": "partnership"
+    },
+    {
+      "id": "2113328063379562581",
+      "product": "dots",
+      "url": "https://x.com/heyneighbor/status/2113328063379562581",
+      "author": "heyneighbor",
+      "authorName": "McBain",
+      "text": "@ChatGPT dots:\n\n• Oct 15: GPT-Live-1.1 brings new voices and better accents to voice in dots\n• Oct 16: add your dot as a widget to jump into a chat or start a call with one tap\n• Oct 18: dots are coming to the EU \"in the future\" (OpenAI's @thsottiaux)",
+      "postedAt": "2026-10-22T17:54:08.000Z",
+      "metrics": {
+        "replies": 1,
+        "likes": 815
       },
       "topic": "launch"
     },
@@ -259,6 +320,16 @@
       "topic": "reviews"
     },
     {
+      "id": "2113102005455442159",
+      "product": "spark",
+      "url": "https://x.com/FullStackNate/status/2113102005455442159",
+      "author": "FullStackNate",
+      "authorName": "Nathan",
+      "text": "Google has Gemini Spark. It’s just hidden away and is ass because it has next to no connectors.",
+      "postedAt": "2026-10-22T02:55:52.000Z",
+      "topic": "reviews"
+    },
+    {
       "id": "2113061782021624200",
       "product": "grok",
       "url": "https://x.com/tutao0123/status/2113061782021624200",
@@ -320,6 +391,22 @@
       "topic": "reviews"
     },
     {
+      "id": "2113016243607269483",
+      "product": "muse",
+      "url": "https://x.com/TechCrunch/status/2113016243607269483",
+      "author": "TechCrunch",
+      "authorName": "TechCrunch",
+      "text": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "postedAt": "2026-10-21T21:15:05.000Z",
+      "metrics": {
+        "replies": 24,
+        "reposts": 21,
+        "likes": 78,
+        "views": 20000
+      },
+      "topic": "reviews"
+    },
+    {
       "id": "2113010364178964616",
       "product": "grok",
       "url": "https://x.com/elonmusk/status/2113010364178964616",
@@ -368,18 +455,34 @@
       "topic": "launch"
     },
     {
+      "id": "2112993042533593423",
+      "product": "spark",
+      "url": "https://x.com/signulll/status/2112993042533593423",
+      "author": "signulll",
+      "authorName": "signüll",
+      "text": "pretty much every major ai company now has a personal agent product except google:\n\nmeta → muse\nanthropic → duet\nopenai → dots\nspacex → bots\n\nslowly but surely the competition is shifting from who has the smartest model to who owns the persistent relationship with the user.",
+      "postedAt": "2026-10-21T19:42:53.000Z",
+      "metrics": {
+        "replies": 214,
+        "reposts": 153,
+        "likes": 2300,
+        "views": 110000
+      },
+      "topic": "reviews"
+    },
+    {
       "id": "2112992872857252082",
       "product": "grok",
       "url": "https://x.com/bot/status/2112992872857252082",
       "author": "bot",
       "authorName": "Grok Bot",
-      "text": "Grok Bot can now make reports, memos, and dashboards. Ask Bot for a page, then edit it together or have Bot keep it up to date.",
+      "text": "Grok Bot can now make reports, memos, and dashboards.\n\nAsk Bot for a page, then edit it together or have Bot keep it up to date.",
       "postedAt": "2026-10-21T19:42:13.000Z",
       "metrics": {
-        "replies": 1100,
-        "reposts": 855,
-        "likes": 7400,
-        "views": 1200000
+        "replies": 1400,
+        "reposts": 1000,
+        "likes": 8800,
+        "views": 1890000
       },
       "topic": "launch"
     },
@@ -495,15 +598,15 @@
       "url": "https://x.com/maria_wats8492/status/2112729149873983489",
       "author": "maria_wats8492",
       "authorName": "Maria Watson",
-      "text": "Gemini can now work while you sleep. Google's Gemini Spark is turning AI from a chatbot into a 24/7 personal agent. Here are 8 prompts to make AI agents actually useful.",
+      "text": "GEMINI CAN NOW WORK WHILE YOU SLEEP.\n\nGoogle’s Gemini Spark is turning AI from a chatbot into a 24/7 personal agent.\n\nHere are 8 prompts to make an AI agent actually useful.",
       "postedAt": "2026-10-21T02:14:16.000Z",
       "metrics": {
         "replies": 12,
-        "reposts": 0,
-        "likes": 324,
-        "views": 18049
+        "reposts": 54,
+        "likes": 323,
+        "views": 18000
       },
-      "topic": "launch"
+      "topic": "reviews"
     },
     {
       "id": "2112697573202972976",
@@ -811,13 +914,13 @@
       "url": "https://x.com/verge/status/2112607390302679286",
       "author": "verge",
       "authorName": "The Verge",
-      "text": "Security firm found Muse chats involving a marketing firm's revenue, workplace calendars, loan applications, etc. (X auto-translated render)",
+      "text": "A security firm discovered Muse chats containing a marketing company’s revenue, a workplace’s calendar, a loan application, and more.",
       "postedAt": "2026-10-20T18:10:26.000Z",
       "metrics": {
-        "replies": 21,
-        "reposts": 37,
-        "likes": 174,
-        "views": 52360
+        "replies": 22,
+        "reposts": 38,
+        "likes": 175,
+        "views": 53000
       },
       "topic": "regulation"
     },
@@ -1189,13 +1292,13 @@
       "url": "https://x.com/bot/status/2112252507762368684",
       "author": "bot",
       "authorName": "Grok Bot",
-      "text": "Grok Bot is now one step closer. Set it up on iPhone Action Button and press to talk to Bot.",
+      "text": "Grok Bot is now one step closer.\n\nSet it up with the Action Button on iPhone and press the button to talk to Bot.",
       "postedAt": "2026-10-19T18:40:16.000Z",
       "metrics": {
         "replies": 2300,
         "reposts": 1900,
         "likes": 17000,
-        "views": 2450000
+        "views": 2560000
       },
       "topic": "launch"
     },
@@ -2051,101 +2154,6 @@
         "views": 7
       },
       "topic": "pricing"
-    },
-    {
-      "id": "2110888006479421612",
-      "product": "grok",
-      "url": "https://x.com/vienothm/status/2110888006479421612",
-      "author": "vienothm",
-      "authorName": "𝐕𝐈𝐍☆༻",
-      "text": "i've only just started using @bot since the x subscription and i cant even believe how good it is. perfect blend of intelligence, speed and just doing the thing. and doing it well. everything i've wished for since openclaw came out. sky is the limit from here. well done.",
-      "postedAt": "2026-10-16T00:18:13.000Z",
-      "metrics": {
-        "views": 10
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2110886336622149682",
-      "product": "dots",
-      "url": "https://x.com/SatyKrish/status/2110886336622149682",
-      "author": "SatyKrish",
-      "authorName": "Sathish Krishnan",
-      "text": "@OpenAI Dots helped me get substantial work done early on. As work accumulated, continuity got worse: lost project context, trouble locating outputs, voice requests failing while text worked. Can the team investigate? Happy to share examples privately.",
-      "postedAt": "2026-10-16T00:11:35.000Z",
-      "metrics": {
-        "views": 8
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2110883727752454520",
-      "product": "dots",
-      "url": "https://x.com/WaitSpin/status/2110883727752454520",
-      "author": "WaitSpin",
-      "authorName": "WaitSpin",
-      "text": "OpenAI's GPT-Live-1.1 voice update adds new voices in French, German, Hindi, Mexican Spanish, Korean, and Japanese across Voice in ChatGPT, Codex, and dots, with the company describing better accents and less \"checking...\" For developers building voice-driven workflows, that",
-      "postedAt": "2026-10-16T00:01:13.000Z",
-      "metrics": {
-        "views": 11
-      },
-      "topic": "launch"
-    },
-    {
-      "id": "2110883142685065277",
-      "product": "dots",
-      "url": "https://x.com/MatoToushi/status/2110883142685065277",
-      "author": "MatoToushi",
-      "authorName": "まと｜AI×デザイン",
-      "text": "もともとdotsはChatGPTの契約内で使えるし、Grokbotはいらないかなぁくらいでしたが現時点ではけっこうやれることに差があるんだなとみなさんのコメント見てわかりました！",
-      "postedAt": "2026-10-15T23:58:54.000Z",
-      "metrics": {
-        "views": 15
-      },
-      "topic": "pricing"
-    },
-    {
-      "id": "2110881440384880904",
-      "product": "dots",
-      "url": "https://x.com/YourGoldDwarf/status/2110881440384880904",
-      "author": "YourGoldDwarf",
-      "authorName": "The Gold Dwarf - e/acc",
-      "text": "@reach_vb @tibo @OpenAI sorry to say but the Dots approval system is absolute dogshit. It denies my own custom rules as too dangerous and broad (they're not) and treats stuff is innocent as retries of already permitted actions as dangerous. I can't be the manual approval guy of",
-      "postedAt": "2026-10-15T23:52:08.000Z",
-      "metrics": {
-        "views": 11
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2110878842349056329",
-      "product": "dots",
-      "url": "https://x.com/tayyare1/status/2110878842349056329",
-      "author": "tayyare1",
-      "authorName": "tayyare79",
-      "text": "I dont understand, how got grokbot permissions in EU and @openai Dots dont have. I cant compare it without VPN u cant use Dots here.",
-      "postedAt": "2026-10-15T23:41:48.000Z",
-      "metrics": {
-        "likes": 2,
-        "views": 22
-      },
-      "topic": "regulation"
-    },
-    {
-      "id": "2110878404979667188",
-      "product": "dots",
-      "url": "https://x.com/seanclarke911/status/2110878404979667188",
-      "author": "seanclarke911",
-      "authorName": "Sean Clarke",
-      "text": "Anyone else having issues with Chat GPT right now? Dots still working but not chat @OpenAI AND NO I DONT WISH TO TAKE A BREAK. It's Friday LFG",
-      "postedAt": "2026-10-15T23:40:04.000Z",
-      "metrics": {
-        "replies": 4,
-        "reposts": 2,
-        "likes": 5,
-        "views": 631
-      },
-      "topic": "reviews"
     }
   ]
 }
