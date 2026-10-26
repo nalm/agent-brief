@@ -1,6 +1,102 @@
 {
-  "updatedAt": "2026-10-23T08:22:04.185Z",
+  "updatedAt": "2026-10-26T00:22:18.808Z",
   "items": [
+    {
+      "id": "2114398971263410285",
+      "product": "dots",
+      "url": "https://x.com/harshitgirdhar7/status/2114398971263410285",
+      "author": "harshitgirdhar7",
+      "authorName": "harshit girdhar",
+      "text": "why are chatgpt dots consuming so so much usage now - looks like their one month extra usage is over\nnow i will shift back to grok bot",
+      "postedAt": "2026-10-25T16:49:33.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1,
+        "views": 27
+      },
+      "topic": "pricing"
+    },
+    {
+      "id": "2114365361068138990",
+      "product": "grok",
+      "url": "https://x.com/elonmusk/status/2114365361068138990",
+      "author": "elonmusk",
+      "authorName": "Elon Musk",
+      "text": "Grok @Bot can now call someone or a business for you, make a request on your behalf, take notes on the response and send you a note summarizing the conversation!",
+      "postedAt": "2026-10-25T14:35:59.000Z",
+      "metrics": {
+        "replies": 1753,
+        "reposts": 1650,
+        "likes": 13126,
+        "views": 1998519
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2114288790198276495",
+      "product": "grok",
+      "url": "https://x.com/Similarweb/status/2114288790198276495",
+      "author": "Similarweb",
+      "authorName": "Similarweb",
+      "text": "Age demographics split: Grok Bot vs. Muse from Meta.\n\nMuse is much stronger among users aged 18–34, whereas Grok Bot leads by almost 10% in the 35–44 age group.\n\n>>",
+      "postedAt": "2026-10-25T09:31:43.000Z",
+      "metrics": {
+        "replies": 26,
+        "reposts": 23,
+        "likes": 156,
+        "views": 118789
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2113935110475272687",
+      "product": "muse",
+      "url": "https://x.com/techamericaofcl/status/2113935110475272687",
+      "author": "techamericaofcl",
+      "authorName": "TechAmerica",
+      "text": "Meta’s Muse AI app reached an estimated 10.2 million U.S. downloads within 40 days, according to Sensor Tower. The assistant also recorded 2.5 million daily active users and stronger early retention than rival AI apps.\n\nRead more:\n\nhttps://techamerica.ai/apps/meta-muse-downloads-top-10m-in-the-us-in-the-first-40-days",
+      "postedAt": "2026-10-24T10:06:20.000Z",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 0,
+        "views": 38
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2113875807940849882",
+      "product": "spark",
+      "url": "https://x.com/maria_wats8492/status/2113875807940849882",
+      "author": "maria_wats8492",
+      "authorName": "Maria Watson",
+      "text": "GEMINI CAN NOW WORK WHILE YOU SLEEP.\n\nGoogle’s Gemini Spark is turning AI from a chatbot into a 24/7 personal agent.\n\nHere are 8 prompts to make an AI agent actually useful.",
+      "postedAt": "2026-10-24T06:10:41.000Z",
+      "metrics": {
+        "replies": 15,
+        "reposts": 42,
+        "likes": 152,
+        "views": 7543
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2113428704504549648",
+      "product": "muse",
+      "url": "https://x.com/planetofgori/status/2113428704504549648",
+      "author": "planetofgori",
+      "authorName": "g.O.R.i（ゴリミー管理人）",
+      "text": "Meta「Muse」日本上陸、メルカリやチケットぴあとも連携するAIエージェント \nhttps://gori.me/facebook/facebook-news/171704",
+      "postedAt": "2026-10-23T00:34:03.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 4,
+        "views": 2411
+      },
+      "topic": "launch"
+    },
     {
       "id": "2113420135969243183",
       "product": "grok",
@@ -22,13 +118,13 @@
       "url": "https://x.com/bot/status/2113393684209176718",
       "author": "bot",
       "authorName": "Grok Bot",
-      "text": "Grok Bot can now use Calendar, Reminders, Contacts, and other apps on your phone.\n\nRolling out now on iOS and Android.",
+      "text": "Grok Bot can now use Calendar, Reminders, Contacts, and more apps on your phone.\n\nRolling out now on iOS and Android.",
       "postedAt": "2026-10-22T22:14:53.000Z",
       "metrics": {
-        "replies": 2900,
-        "reposts": 1400,
-        "likes": 10000,
-        "views": 1450000
+        "replies": 3836,
+        "reposts": 1999,
+        "likes": 14305,
+        "views": 2963269
       },
       "topic": "launch"
     },
@@ -57,10 +153,10 @@
       "text": "Meta has given new URLs to shared Muse ‘artifacts’ after security researchers reported that public links could be easy to find.",
       "postedAt": "2026-10-22T20:27:59.000Z",
       "metrics": {
-        "replies": 7,
-        "reposts": 2,
-        "likes": 29,
-        "views": 14000
+        "replies": 9,
+        "reposts": 3,
+        "likes": 32,
+        "views": 16981
       },
       "topic": "regulation"
     },
@@ -70,13 +166,13 @@
       "url": "https://x.com/bot/status/2113332983226831339",
       "author": "bot",
       "authorName": "Grok Bot",
-      "text": "Grok Bot can now use your 1Password account.\n\nApprove the logins you want to share, and Bot signs in for you. This new integration is rolling out to users over the next few days.",
+      "text": "Grok Bot can now use your 1Password account.\n\nApprove the logins you want to share, and your Bot signs in for you. This new integration is rolling out to users over the next few days.",
       "postedAt": "2026-10-22T18:13:41.000Z",
       "metrics": {
-        "replies": 1000,
-        "reposts": 838,
-        "likes": 8000,
-        "views": 630000
+        "replies": 1272,
+        "reposts": 1032,
+        "likes": 9919,
+        "views": 1152903
       },
       "topic": "partnership"
     },
@@ -109,6 +205,22 @@
         "views": 4314
       },
       "topic": "reviews"
+    },
+    {
+      "id": "2113309455127564451",
+      "product": "dots",
+      "url": "https://x.com/androidcentral/status/2113309455127564451",
+      "author": "androidcentral",
+      "authorName": "Android Central",
+      "text": "1Password is launching a way for AI agents to sign in without seeing your passwords. You approve the login, then 1Password fills it in. \n\nMuse and Grok Bot support is rolling out, with ChatGPT Dots and Claude Duet coming soon.",
+      "postedAt": "2026-10-22T16:40:12.000Z",
+      "metrics": {
+        "replies": 4,
+        "reposts": 10,
+        "likes": 55,
+        "views": 10196
+      },
+      "topic": "partnership"
     },
     {
       "id": "2113299967771078988",
@@ -2061,99 +2173,6 @@
         "views": 10
       },
       "topic": "reviews"
-    },
-    {
-      "id": "2110888698535690427",
-      "product": "grok",
-      "url": "https://x.com/XPeterKappes/status/2110888698535690427",
-      "author": "XPeterKappes",
-      "authorName": "Peter Kappes",
-      "text": "Were you on Grok Heavy before? Curious if the Ultra has more usage with GrokBot than SuperGrok Heavy.",
-      "postedAt": "2026-10-16T00:20:58.000Z",
-      "metrics": {
-        "views": 4
-      },
-      "topic": "pricing"
-    },
-    {
-      "id": "2110888582915448938",
-      "product": "grok",
-      "url": "https://x.com/alexhvnsen/status/2110888582915448938",
-      "author": "alexhvnsen",
-      "authorName": "Alex Hansen",
-      "text": "GROK BOT IS COOKED! My agents have been looping nonstop for 20 hours. We're building the best tools you can give ANY Hermes agent (local or remote) to make it better than Grok bot in every way. I'm taking the best features of Grok bot and Codex computer use and bringing them",
-      "postedAt": "2026-10-16T00:20:31.000Z",
-      "metrics": {
-        "views": 6
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2110888236948262976",
-      "product": "grok",
-      "url": "https://x.com/eclictik/status/2110888236948262976",
-      "author": "eclictik",
-      "authorName": "Arthur",
-      "text": "Got more then 32,000€ back from the state (from different administrations and insurance) thanks to @bot and close so many administrative files which weren't finalized for years. And that without counting that it now pilots my Claude and Stitch through Cli",
-      "postedAt": "2026-10-16T00:19:08.000Z",
-      "metrics": {
-        "views": 3
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2110888155184550087",
-      "product": "grok",
-      "url": "https://x.com/nkrstev/status/2110888155184550087",
-      "author": "nkrstev",
-      "authorName": "Nikola Krstev",
-      "text": "At Facebook YOU are the product. Not THE customer. I am very happy with GrokBot. Best SI tool of the year 2026.",
-      "postedAt": "2026-10-16T00:18:49.000Z",
-      "metrics": {
-        "likes": 1,
-        "views": 6
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2110888132388278650",
-      "product": "muse",
-      "url": "https://x.com/delx369/status/2110888132388278650",
-      "author": "delx369",
-      "authorName": "David Batista",
-      "text": "Meta's Muse Wonder is in Cursor at 46.1% on CursorBench (default effort), highest of any Muse model, for $4/M in and $20/M out.",
-      "postedAt": "2026-10-16T00:18:43.000Z",
-      "metrics": {
-        "views": 6
-      },
-      "topic": "pricing"
-    },
-    {
-      "id": "2110888062964339146",
-      "product": "grok",
-      "url": "https://x.com/taehwannoh/status/2110888062964339146",
-      "author": "taehwannoh",
-      "authorName": "Taehwan Noh",
-      "text": "@bot Grok 봇에서 X 구독 게시물에 접근할 수 있도록 지원해 주세요.",
-      "postedAt": "2026-10-16T00:18:27.000Z",
-      "metrics": {
-        "views": 26
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2110888042349379797",
-      "product": "grok",
-      "url": "https://x.com/createtruespace/status/2110888042349379797",
-      "author": "createtruespace",
-      "authorName": "xnovelonx",
-      "text": "LIGHTNING SPEED GROWTH @grok Congrats @bot \"Never seen anything grow as fast as @Grok @Bot! And there is no free tier, which means people are deriving real value in excess of what they pay. As the saying goes, you get what you pay for.\" —Elon Musk https://x.com/elonmusk/status/2110866513955868924",
-      "postedAt": "2026-10-16T00:18:22.000Z",
-      "metrics": {
-        "replies": 1,
-        "views": 7
-      },
-      "topic": "pricing"
     }
   ]
 }
