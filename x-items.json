@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-10-27T08:29:26.311Z",
+  "updatedAt": "2026-10-28T00:22:38.042Z",
   "items": [
+    {
+      "id": "2115131497657078253",
+      "product": "muse",
+      "url": "https://x.com/tinkerlog/status/2115131497657078253",
+      "author": "tinkerlog",
+      "authorName": "Tinker",
+      "text": "Wired ran six AI agents through one day of tasks. Only two caught a calendar clash.\n\nYou can try six of them today. Here is what each costs:\n\n1. Muse, from Meta: free, and at the top of app download charts since its September release.\n2. Instinct: free, but you need an invite\n…",
+      "postedAt": "2026-10-27T17:20:20.000Z",
+      "topic": "pricing"
+    },
+    {
+      "id": "2115106302162763995",
+      "product": "dots",
+      "url": "https://x.com/beeper/status/2115106302162763995",
+      "author": "beeper",
+      "authorName": "Beeper",
+      "text": "Let the week of releases continue - we've added support for @ChatGPT Dots to Beeper",
+      "postedAt": "2026-10-27T15:40:13.000Z",
+      "metrics": {
+        "replies": 9,
+        "reposts": 8,
+        "likes": 55,
+        "views": 4000
+      },
+      "topic": "partnership"
+    },
+    {
+      "id": "2115049432941293920",
+      "product": "muse",
+      "url": "https://x.com/noel_ai_lab/status/2115049432941293920",
+      "author": "noel_ai_lab",
+      "authorName": "のえる｜AI構築者",
+      "text": "【完全版】MetaのAI「Muse」動画生成の検証まとめ\n前編の記事で、MetaのAI「Muse」に動画を作らせた話を書きました。\n最初に試したことは、こちらにまとめています。…",
+      "postedAt": "2026-10-27T11:54:15.000Z",
+      "metrics": {
+        "replies": 1,
+        "reposts": 9,
+        "likes": 108,
+        "views": 15000
+      },
+      "topic": "reviews"
+    },
     {
       "id": "2114992005444931962",
       "product": "muse",
@@ -14,6 +56,22 @@
         "views": 16
       },
       "topic": "reviews"
+    },
+    {
+      "id": "2114987811896258748",
+      "product": "muse",
+      "url": "https://x.com/hq1thegioi/status/2114987811896258748",
+      "author": "hq1thegioi",
+      "authorName": "Phạm Hồng Quân",
+      "text": "Nvidia hợp tác với Meta phát triển tác tử AI Muse, đầu tư 3 tỉ USD https://1thegioi.vn/nvidia-hop-tac-voi-meta-phat-trien-tac-tu-ai-muse-dau-tu-3-ti-usd-260492.html #Nvidia #Meta #Muse",
+      "postedAt": "2026-10-27T07:49:23.000Z",
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 1,
+        "views": 24
+      },
+      "topic": "partnership"
     },
     {
       "id": "2114961960764854570",
@@ -73,6 +131,16 @@
         "views": 256262
       },
       "topic": "reviews"
+    },
+    {
+      "id": "2114902977677042084",
+      "product": "spark",
+      "url": "https://x.com/swagerbaap/status/2114902977677042084",
+      "author": "swagerbaap",
+      "authorName": "AI Tool Notes",
+      "text": "Task automation is easier to try when it is visible. Gemini moved Spark to a home-screen Task button and reorganized chat and task history. Use the clearer entry point to test it on routine online work.",
+      "postedAt": "2026-10-27T02:12:17.000Z",
+      "topic": "launch"
     },
     {
       "id": "2114878537153061021",
@@ -274,6 +342,16 @@
       "topic": "pricing"
     },
     {
+      "id": "2114380318870585494",
+      "product": "spark",
+      "url": "https://x.com/AfnadX/status/2114380318870585494",
+      "author": "AfnadX",
+      "authorName": "Afnad Alam",
+      "text": "Gemini Flash in Task (Gemini Spark) routing to a new Version?? It's eating similar quota as Argon, and the outputs are way better, can anyone else confirm?",
+      "postedAt": "2026-10-25T15:35:25.000Z",
+      "topic": "reviews"
+    },
+    {
       "id": "2114365361068138990",
       "product": "grok",
       "url": "https://x.com/elonmusk/status/2114365361068138990",
@@ -330,6 +408,16 @@
         "views": 2248
       },
       "topic": "launch"
+    },
+    {
+      "id": "2114311207155069274",
+      "product": "spark",
+      "url": "https://x.com/Gante393/status/2114311207155069274",
+      "author": "Gante393",
+      "authorName": "Gante393",
+      "text": "@GeminiApp 看看你们做的啥东西，我正在使用gemini spark里的远端浏览器，然后不小心点了一下右上角的最小化窗口，然后就变成这样了，我什么都操作不了，我叫gemini帮我重新打开，他也跟我说我的命令只能在浏览器内操作，快给我火速修复！！",
+      "postedAt": "2026-10-25T11:00:48.000Z",
+      "topic": "reviews"
     },
     {
       "id": "2114288790198276495",
@@ -2107,115 +2195,6 @@
       "postedAt": "2026-10-18T21:16:38.000Z",
       "metrics": {
         "views": 119
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2111856925134516689",
-      "product": "dots",
-      "url": "https://x.com/DjohnAgentIncom/status/2111856925134516689",
-      "author": "DjohnAgentIncom",
-      "authorName": "DjohnAgentIncom",
-      "text": "OpenAI Dots: How to Set Up an Always-On Agent Without Losing Control\nOpenAI’s new agent gets its own cloud browser, so you sign in to your tools once and it stays signed in. Here’s how to set one up safely.\n\nDots launched at DevDay on Sep 29. Each one has its own cloud computer",
-      "postedAt": "2026-10-18T16:28:22.000Z",
-      "metrics": {
-        "likes": 1,
-        "views": 68
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2111846675517964380",
-      "product": "grok",
-      "url": "https://x.com/0x_rody/status/2111846675517964380",
-      "author": "0x_rody",
-      "authorName": "rody",
-      "text": "일론 머스크의 Grok Bot은 월 10만 달러 규모의 소프트웨어 에이전시처럼 당신의 전체 워크플로우를 실행할 수 있어요. 여기 정확한 설정 방법이 있어요 (15분)… [X 자동번역 표시]",
-      "postedAt": "2026-10-18T15:47:38.000Z",
-      "metrics": {
-        "replies": 28,
-        "reposts": 51,
-        "likes": 356,
-        "views": 51670
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2111837226006921640",
-      "product": "grok",
-      "url": "https://x.com/Argona0x/status/2111837226006921640",
-      "author": "Argona0x",
-      "authorName": "Argona",
-      "text": "젠장. Karpathy의 두 번째 뇌 패턴이 이제 Grok Bot에서 실행되네: 매번 채팅마다 AI에게 삶을 처음부터 설명하는 걸 멈춰, 스스로 작성되는 위키를 유지해\n\n한 그룹 채팅에 세 개의 봇, 각자 고유한 메모리:\n\n리더는 네가 떨어뜨리는 모든 링크, PDF, 음성 노트를 가져와서 절대 편집하지 않음 [X 자동번역 표시]",
-      "postedAt": "2026-10-18T15:10:05.000Z",
-      "metrics": {
-        "replies": 82,
-        "reposts": 145,
-        "likes": 1896,
-        "views": 161852
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2111831351540490401",
-      "product": "muse",
-      "url": "https://x.com/StockSavvyShay/status/2111831351540490401",
-      "author": "StockSavvyShay",
-      "authorName": "Shay Boloor",
-      "text": "$META Muse Spark와 $GOOGL Gemini는 AI 작업당 약 0.40달러에 불과한 반면, Anthropic Opus 5는 2.34달러로 지능 비용에서 거의 6배의 격차를 보여줍니다.\n\nGoogle과 Meta의 장점은 클라우드, 광고, 상거래를 통해 AI를 수익화할 수 있어 구독에 전적으로 의존하지 않고 모델 가격을 공격적으로 [X 자동번역 표시]",
-      "postedAt": "2026-10-18T14:46:44.000Z",
-      "metrics": {
-        "replies": 59,
-        "reposts": 67,
-        "likes": 434,
-        "views": 49253
-      },
-      "topic": "pricing"
-    },
-    {
-      "id": "2111819557497135464",
-      "product": "grok",
-      "url": "https://x.com/AnatoliKopadze/status/2111819557497135464",
-      "author": "AnatoliKopadze",
-      "authorName": "Anatoli Kopadze",
-      "text": "침대에 눕기 전에 이걸 Grok Bot에 넣어달라고 간청하는 거예요… 하룻밤 사이에 전체 시장을 조사해서 아무도 모르는 스타트업 아이디어를 당신에게 줍니다. [X 자동번역 표시]",
-      "postedAt": "2026-10-18T13:59:52.000Z",
-      "metrics": {
-        "replies": 87,
-        "reposts": 188,
-        "likes": 1753,
-        "views": 209645
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2111738385614442517",
-      "product": "muse",
-      "url": "https://x.com/MuralistRNow/status/2111738385614442517",
-      "author": "MuralistRNow",
-      "authorName": "MuralistRNow",
-      "text": "Few people gave me a Meta @Muse invite. But the problem is, I can't use it, since it's not available in India. Sad bruh!",
-      "postedAt": "2026-10-18T08:37:19.000Z",
-      "metrics": {
-        "replies": 8,
-        "likes": 5,
-        "views": 370
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2111725189834678304",
-      "product": "spark",
-      "url": "https://x.com/swqtjn/status/2111725189834678304",
-      "author": "swqtjn",
-      "authorName": "swqtjn",
-      "text": "DeepSeek v4.1-1017  vs. Gemini spark (quick simulation game)\n\nsame exact prompt\nDeepSeek: 13 mins | Cost: ~$0.00\nGemini: 10 mins | Cost: ~$0.00\n\nOBVIOUSLY spark performed so ass\n\nshould try argon instead",
-      "postedAt": "2026-10-18T07:44:53.000Z",
-      "metrics": {
-        "replies": 6,
-        "reposts": 6,
-        "likes": 14,
-        "views": 455
       },
       "topic": "reviews"
     }
