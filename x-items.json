@@ -1,6 +1,332 @@
 {
-  "updatedAt": "2026-11-02T00:24:55.521Z",
+  "updatedAt": "2026-11-02T08:26:08.509Z",
   "items": [
+    {
+      "id": "2117170600833896861",
+      "product": "grok",
+      "url": "https://x.com/matchaman11/status/2117170600833896861",
+      "author": "matchaman11",
+      "authorName": "Anil Chandra Naidu Matcha",
+      "text": "I am making Grokbot unlimited for everyone \n\nIntroducing Open-duet \n\nFree, open-source alternative to Grok bot\n\nWorks with any provider\n\nNo limits, No subscriptions, No filters\n\nEnjoy unlimited from here :- https://github.com/Anil-matcha/open-duet",
+      "postedAt": "2026-11-02T08:23:01.000Z",
+      "topic": "launch"
+    },
+    {
+      "id": "2117170479014596975",
+      "product": "grok",
+      "url": "https://x.com/NobodyOrc/status/2117170479014596975",
+      "author": "NobodyOrc",
+      "authorName": "Nobody｜AI增长",
+      "text": "中间缺一档确实难受。马斯克刚说 Grok Bot 的服务成本远高于收入，加 50 刀档可能不在近期计划里。\n现阶段只能把重活拆给别的工具，我现在喜欢claude的project功能，Grok Bot 留给最值的那部分。",
+      "postedAt": "2026-11-02T08:22:31.000Z",
+      "topic": "pricing"
+    },
+    {
+      "id": "2117170373246537753",
+      "product": "grok",
+      "url": "https://x.com/makneidinger/status/2117170373246537753",
+      "author": "makneidinger",
+      "authorName": "Mario Kneidinger",
+      "text": "What? No way. I just used my whole weekend to migrate from Grok Bot to Hermes and now there is an importer... feels bad man \n\nBut great work. Will help me getting customers migrated.",
+      "postedAt": "2026-11-02T08:22:06.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2117170320759247124",
+      "product": "grok",
+      "url": "https://x.com/lixinbao_X/status/2117170320759247124",
+      "author": "lixinbao_X",
+      "authorName": "Simbao",
+      "text": "刚刚突然搞了个Grok bot又把我的这周额度变成了 72%。\n\n之前周日的时候，都说我的额度用光了，突然又多了 30%的额度出来。\n\n看来肯定是后台出bug统计错了。我看我的评论区也有很多人像我一样遇到了这样的问题，\n\n大家说是不是后台出bug了？",
+      "postedAt": "2026-11-02T08:21:54.000Z",
+      "topic": "pricing"
+    },
+    {
+      "id": "2117167057091371447",
+      "product": "grok",
+      "url": "https://x.com/Damian__web/status/2117167057091371447",
+      "author": "Damian__web",
+      "authorName": "Damian",
+      "text": "your agent can post a bounty when it gets stuck, and other agents get paid to finish the job\n\ntermix just opened a small demo of that flow",
+      "postedAt": "2026-11-02T08:08:56.000Z",
+      "metrics": {
+        "replies": 11,
+        "reposts": 4,
+        "likes": 24,
+        "views": 494
+      },
+      "topic": "partnership"
+    },
+    {
+      "id": "2117163182435492343",
+      "product": "muse",
+      "url": "https://x.com/li9292/status/2117163182435492343",
+      "author": "li9292",
+      "authorName": "李韭二",
+      "text": "我靠！\n我他妈还在古法手搓\n有人已把\n免费无限token \nMeta Muse  接入了画布",
+      "postedAt": "2026-11-02T07:53:32.000Z",
+      "metrics": {
+        "replies": 3,
+        "reposts": 3,
+        "views": 161
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2117162439271997504",
+      "product": "dots",
+      "url": "https://x.com/TigerBR_L/status/2117162439271997504",
+      "author": "TigerBR_L",
+      "authorName": "rong",
+      "text": "ChatGPT Dots我去试试，我之前按年订阅了grok bot",
+      "postedAt": "2026-11-02T07:50:35.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2117161275394609205",
+      "product": "muse",
+      "url": "https://x.com/detox_kashi/status/2117161275394609205",
+      "author": "detox_kashi",
+      "authorName": "Eiji Akaishi",
+      "text": "Xの「有益AI tips」を保存して終わりにしない。Meta Museに爆速試作から記録まで任せる仕組みとは\nXのAI系の発信は、有益なものが本当に多いです。一方で、とにかく量が多い。情報過多です。...",
+      "postedAt": "2026-11-02T07:45:57.000Z",
+      "metrics": {
+        "replies": 1,
+        "reposts": 4,
+        "views": 240
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2117161019298722017",
+      "product": "grok",
+      "url": "https://x.com/Meta888_hk/status/2117161019298722017",
+      "author": "Meta888_hk",
+      "authorName": "beyond5188",
+      "text": "除了领老马创作者工资，他的 Grok Bot 也能为你打工\n\n你是否在每个月花钱养 Grok，有没有想过，让 Grok 自己出去赚钱？\n\n以前，我们用 Grok 写文章、剪视频、看盘、写代码，干得越多，越觉得订阅费花得值。但说到底，还是我们掏钱，它干活。\n\n现在，玩法可能要反过来了。\n\n最近 TermiX @termix_ai",
+      "postedAt": "2026-11-02T07:44:56.000Z",
+      "metrics": {
+        "replies": 62,
+        "likes": 58,
+        "views": 1159
+      },
+      "topic": "partnership"
+    },
+    {
+      "id": "2117157231947137494",
+      "product": "grok",
+      "url": "https://x.com/miyatti/status/2117157231947137494",
+      "author": "miyatti",
+      "authorName": "miyatti | 生成AIエバンジェリスト / CPO",
+      "text": "ほぼ自分用のメモの図解なのだけど、現時点でのGrokBot/Muse/Dotsなどパーソナルエージェント系の仕組みの図解。Grok Botを第一秘書にして、Museを第二秘書、Dotsは補欠wその先に常駐MacのClaude CodeとCodexがいる、という構成です。秘書は複数いるけど、部下と台帳は共通。",
+      "postedAt": "2026-11-02T07:29:53.000Z",
+      "metrics": {
+        "replies": 4,
+        "reposts": 2,
+        "likes": 20,
+        "views": 1118
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2117143388273435000",
+      "product": "dots",
+      "url": "https://x.com/minpeter/status/2117143388273435000",
+      "author": "minpeter",
+      "authorName": "Woonggi Min",
+      "text": "Anyone else find ChatGPT Dots nearly unusable on Linux? Both app and web, even typing is painfully slow. Meanwhile Codex chat in the same app window runs perfectly.",
+      "postedAt": "2026-11-02T06:34:53.000Z",
+      "metrics": {
+        "replies": 2,
+        "reposts": 2,
+        "views": 123
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2117135098135056586",
+      "product": "grok",
+      "url": "https://x.com/ajdgs/status/2117135098135056586",
+      "author": "ajdgs",
+      "authorName": "mùmù",
+      "text": "鉴于Grok bot的额度减少，老马说提供 Grok Bot 的成本相对于收入来说高得不可持续。我准备把Grok bot的工作转移到ChatGPT dots，毕竟一个是额度减少，一个是不消耗额度。。。",
+      "postedAt": "2026-11-02T06:01:56.000Z",
+      "topic": "pricing"
+    },
+    {
+      "id": "2117130835346571482",
+      "product": "dots",
+      "url": "https://x.com/luismeta/status/2117130835346571482",
+      "author": "luismeta",
+      "authorName": "Luis",
+      "text": "I moved my Grok Bot workflow into ChatGPT dots. \n\nThe useful part was bringing the workflow with me, not starting over.",
+      "postedAt": "2026-11-02T05:45:00.000Z",
+      "metrics": {
+        "replies": 7,
+        "reposts": 2,
+        "likes": 12,
+        "views": 360
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2117130288736378954",
+      "product": "muse",
+      "url": "https://x.com/iam__jonny/status/2117130288736378954",
+      "author": "iam__jonny",
+      "authorName": "じょにぃ｜9月から無職",
+      "text": "Muse、かなり使い勝手がいい。\n\n使ってみた感覚では、ChatGPT Dotsよりレスポンスが軽快。調べもの、メールや予定の整理、資料作成まで、幅広く代わりに動いてくれる。\n\n使い方は、この3ステップ。\n\n① Gmailやカレンダーなどをつなぐ\n② やってほしいことを普通の言葉で頼む\n③",
+      "postedAt": "2026-11-02T05:42:49.000Z",
+      "topic": "reviews"
+    },
+    {
+      "id": "2117116457767272825",
+      "product": "muse",
+      "url": "https://x.com/optionscjp/status/2117116457767272825",
+      "author": "optionscjp",
+      "authorName": "Options selling with Christian",
+      "text": "I can't imagine how many people downloaded Meta Muse tonight. The first thing I noticed weeks ago was how crazy efficient its compute is compared to grok bot. A few heavy tasks will burn through your grok bot usage quickly, whereas Muse has a $15/mo plan...",
+      "postedAt": "2026-11-02T04:47:52.000Z",
+      "metrics": {
+        "replies": 18,
+        "reposts": 9,
+        "likes": 91,
+        "views": 7374
+      },
+      "topic": "pricing"
+    },
+    {
+      "id": "2117108099517476992",
+      "product": "dots",
+      "url": "https://x.com/Ldataengineer/status/2117108099517476992",
+      "author": "Ldataengineer",
+      "authorName": "Gul Saeed Khattak",
+      "text": "The Open-Source Answer to Claude Duet and OpenAI Dots\n\nYou ask a chatbot for something. It answers. Then it stops and waits.\n\nBut real work doesn't fit in one question. A price you want to watch every day. A research job that takes half",
+      "postedAt": "2026-11-02T04:14:39.000Z",
+      "metrics": {
+        "views": 79
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2117105405343986097",
+      "product": "dots",
+      "url": "https://x.com/auraelianus/status/2117105405343986097",
+      "author": "auraelianus",
+      "authorName": "Capitano",
+      "text": "I haad to switch to openai dots, cause 200 dollar plan finished in 3 days",
+      "postedAt": "2026-11-02T04:03:57.000Z",
+      "metrics": {
+        "views": 10
+      },
+      "topic": "pricing"
+    },
+    {
+      "id": "2117104596602511705",
+      "product": "muse",
+      "url": "https://x.com/WillBiddy_/status/2117104596602511705",
+      "author": "WillBiddy_",
+      "authorName": "Will Biddy",
+      "text": "I see these people viewing this as concerning for $META Muse. This is exactly why Meta is positioned to win. It will take time to monetize these agents, but Meta is the only company that can offer huge amounts of tokens...",
+      "postedAt": "2026-11-02T04:00:44.000Z",
+      "metrics": {
+        "replies": 1,
+        "reposts": 3,
+        "likes": 23,
+        "views": 1555
+      },
+      "topic": "pricing"
+    },
+    {
+      "id": "2117100321763721653",
+      "product": "muse",
+      "url": "https://x.com/kagami_kami_m/status/2117100321763721653",
+      "author": "kagami_kami_m",
+      "authorName": "カガミカミ水鏡",
+      "text": "Article about installing RustXNG, a lightweight fast search server for 170 sites, into Muse to strengthen its search capability. Writing and banner were also done by Muse.",
+      "postedAt": "2026-11-02T03:43:45.000Z",
+      "metrics": {
+        "replies": 2,
+        "reposts": 7,
+        "likes": 57,
+        "views": 4699
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2117096710031774180",
+      "product": "muse",
+      "url": "https://x.com/irabukht/status/2117096710031774180",
+      "author": "irabukht",
+      "authorName": "Ira Bodnar",
+      "text": "Connector stores to be on: 1/ ChatGPT -> 8,495 apps, +1,020 in last 7 days; 2/ Claude -> 8,478 connectors, +708 in last 7 days; 3/ Google Connected Apps Store -> opened in Gemini and AI Mode on Oct 30, only 52 apps so far; 4/ Meta Muse -> 63 connectors...",
+      "postedAt": "2026-11-02T03:29:24.000Z",
+      "metrics": {
+        "replies": 13,
+        "reposts": 10,
+        "likes": 168,
+        "views": 15189
+      },
+      "topic": "partnership"
+    },
+    {
+      "id": "2117091935362162967",
+      "product": "muse",
+      "url": "https://x.com/nemhiyo/status/2117091935362162967",
+      "author": "nemhiyo",
+      "authorName": "ねむプロ",
+      "text": "I asked Muse today for recommended low-cost AI agents. 1. If you want to try a real personal agent for free first -> Meta Muse. Free agent functionality is rare. Usage-limited; paid plans add usage, not features.",
+      "postedAt": "2026-11-02T03:10:25.000Z",
+      "metrics": {
+        "replies": 1,
+        "reposts": 2,
+        "likes": 41,
+        "views": 5810
+      },
+      "topic": "pricing"
+    },
+    {
+      "id": "2117089712498458862",
+      "product": "dots",
+      "url": "https://x.com/xmattgentry/status/2117089712498458862",
+      "author": "xmattgentry",
+      "authorName": "Matt",
+      "text": "@OpenAI Dots is awful, I don’t understand… everything I’ve tried to use it for has failed. Just hours of failures. People actually find this usable?",
+      "postedAt": "2026-11-02T03:01:35.000Z",
+      "metrics": {
+        "views": 11
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2117064545806192645",
+      "product": "spark",
+      "url": "https://x.com/KynvXD/status/2117064545806192645",
+      "author": "KynvXD",
+      "authorName": "Влади́мKuo☭",
+      "text": "Gemini spark沙箱不给联网的",
+      "postedAt": "2026-11-02T01:21:35.000Z",
+      "metrics": {
+        "views": 1900
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2117051929746436160",
+      "product": "muse",
+      "url": "https://x.com/ConnorTalksAI/status/2117051929746436160",
+      "author": "ConnorTalksAI",
+      "authorName": "Connor",
+      "text": "Meta Muse or Grok Bot? Be honest...",
+      "postedAt": "2026-11-02T00:31:27.000Z",
+      "metrics": {
+        "replies": 66,
+        "reposts": 1,
+        "likes": 43,
+        "views": 10035
+      },
+      "topic": "reviews"
+    },
     {
       "id": "2117049735328501819",
       "product": "grok",
@@ -230,6 +556,22 @@
       "topic": "reviews"
     },
     {
+      "id": "2116638925318144223",
+      "product": "dots",
+      "url": "https://x.com/yousefrol/status/2116638925318144223",
+      "author": "yousefrol",
+      "authorName": "Yousef Rol",
+      "text": "Before I start work and right after I finish (usually before sleep), I call OpenAI Dot and dump everything in my head, have it explain my thoughts and restate my 'intent'. Tomorrow it explains it back, keeps tracking my projects, runs agent security work on top...",
+      "postedAt": "2026-10-31T21:10:19.000Z",
+      "metrics": {
+        "replies": 8,
+        "reposts": 8,
+        "likes": 205,
+        "views": 35475
+      },
+      "topic": "reviews"
+    },
+    {
       "id": "2116576229319233596",
       "product": "grok",
       "url": "https://x.com/poteto/status/2116576229319233596",
@@ -262,6 +604,22 @@
       "topic": "reviews"
     },
     {
+      "id": "2116360006161637798",
+      "product": "spark",
+      "url": "https://x.com/niaoshu/status/2116360006161637798",
+      "author": "niaoshu",
+      "authorName": "鸟叔本鸟",
+      "text": "New way to register for Muse, no waitlist! 1. Get a free 1-year Gemini Pro via Google student verification. 2. In Gemini Pro click 'Tasks' (i.e. activate the Google cloud computer Gemini spark), using a pure US network, register Muse with it, no waiting. 3. Link a bank card...",
+      "postedAt": "2026-10-31T02:42:00.000Z",
+      "metrics": {
+        "replies": 33,
+        "reposts": 9,
+        "likes": 98,
+        "views": 23163
+      },
+      "topic": "reviews"
+    },
+    {
       "id": "2116211790241734979",
       "product": "dots",
       "url": "https://x.com/ConnorTalksAI/status/2116211790241734979",
@@ -276,6 +634,22 @@
         "views": 26632
       },
       "topic": "reviews"
+    },
+    {
+      "id": "2116159858043134347",
+      "product": "spark",
+      "url": "https://x.com/ayesha3920/status/2116159858043134347",
+      "author": "ayesha3920",
+      "authorName": "Ayesha Tabassum",
+      "text": "GEMINI CAN NOW WORK WHILE YOU SLEEP.\n\nGoogle’s Gemini Spark is turning AI from a chatbot into a 24/7 personal agent.\n\nHere are 8 prompts to make an AI agent actually useful.",
+      "postedAt": "2026-10-30T13:26:41.000Z",
+      "metrics": {
+        "replies": 13,
+        "reposts": 29,
+        "likes": 46,
+        "views": 864
+      },
+      "topic": "launch"
     },
     {
       "id": "2116082347603046595",
@@ -1800,391 +2174,6 @@
         "views": 7577
       },
       "topic": "launch"
-    },
-    {
-      "id": "2113717946019397910",
-      "product": "grok",
-      "url": "https://x.com/bot/status/2113717946019397910",
-      "author": "bot",
-      "authorName": "Grok Bot",
-      "text": "Grok Bot can now save your logins, cards, and contact information.\n\nAdd them once, and Bot securely remembers them for the future.",
-      "postedAt": "2026-10-23T19:43:23.000Z",
-      "metrics": {
-        "replies": 1484,
-        "reposts": 1188,
-        "likes": 9010,
-        "views": 2049343
-      },
-      "topic": "launch"
-    },
-    {
-      "id": "2113626690429607964",
-      "product": "dots",
-      "url": "https://x.com/hatsunama/status/2113626690429607964",
-      "author": "hatsunama",
-      "authorName": "Hatsu",
-      "text": "ChatGPT Dots were supposed to be amazing. They are not \n#ai #ainews #news #chatgpt #dot",
-      "postedAt": "2026-10-23T13:40:46.000Z",
-      "metrics": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 3,
-        "views": 242
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2113591766184317130",
-      "product": "grok",
-      "url": "https://x.com/cu30rry_/status/2113591766184317130",
-      "author": "cu30rry_",
-      "authorName": "kaito",
-      "text": "至高の Grok Bot 10選\n\n「個人的にこれは絶対入れたほうが良い！」というものを厳選しました\n\n定期的に更新はしていきます！\n\n1. dr eggbot by @poteto ... (thread-style list of 10 Grok Bots; text truncated in this file, see URL)",
-      "postedAt": "2026-10-23T11:22:00.000Z",
-      "metrics": {
-        "replies": 74,
-        "reposts": 146,
-        "likes": 1361,
-        "views": 158279
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2113573619066654948",
-      "product": "spark",
-      "url": "https://x.com/SidharthVijay_/status/2113573619066654948",
-      "author": "SidharthVijay_",
-      "authorName": "SidharthVijay",
-      "text": "Everyone has AI agent.\n\nWhy always Gemini being late in the party ",
-      "postedAt": "2026-10-23T10:09:53.000Z",
-      "metrics": {
-        "replies": 60,
-        "reposts": 34,
-        "likes": 688,
-        "views": 19627
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2113428704504549648",
-      "product": "muse",
-      "url": "https://x.com/planetofgori/status/2113428704504549648",
-      "author": "planetofgori",
-      "authorName": "g.O.R.i（ゴリミー管理人）",
-      "text": "Meta「Muse」日本上陸、メルカリやチケットぴあとも連携するAIエージェント \nhttps://gori.me/facebook/facebook-news/171704",
-      "postedAt": "2026-10-23T00:34:03.000Z",
-      "metrics": {
-        "replies": 0,
-        "reposts": 2,
-        "likes": 4,
-        "views": 2411
-      },
-      "topic": "launch"
-    },
-    {
-      "id": "2113420135969243183",
-      "product": "grok",
-      "url": "https://x.com/WesRoth/status/2113420135969243183",
-      "author": "WesRoth",
-      "authorName": "Wes Roth",
-      "text": "Grok Bot is rolling out a 1Password integration that lets it sign into accounts using saved logins approved by the user.\n\nUsers choose which logins to share, then the Bot handles signing in. The rollout will reach users over the next few days.",
-      "postedAt": "2026-10-23T00:00:00.000Z",
-      "metrics": {
-        "replies": 8,
-        "reposts": 50,
-        "likes": 1800
-      },
-      "topic": "partnership"
-    },
-    {
-      "id": "2113393684209176718",
-      "product": "grok",
-      "url": "https://x.com/bot/status/2113393684209176718",
-      "author": "bot",
-      "authorName": "Grok Bot",
-      "text": "Grok Bot can now use Calendar, Reminders, Contacts, and more apps on your phone.\n\nRolling out now on iOS and Android.",
-      "postedAt": "2026-10-22T22:14:53.000Z",
-      "metrics": {
-        "replies": 3836,
-        "reposts": 1999,
-        "likes": 14305,
-        "views": 2963269
-      },
-      "topic": "launch"
-    },
-    {
-      "id": "2113367190162280566",
-      "product": "muse",
-      "url": "https://x.com/Benzinga/status/2113367190162280566",
-      "author": "Benzinga",
-      "authorName": "Benzinga",
-      "text": "Meta’s ($META) Muse app has topped 10M U.S. downloads in just 40 days, becoming only the third non-gaming app to ever hit that milestone.",
-      "postedAt": "2026-10-22T20:29:37.000Z",
-      "metrics": {
-        "replies": 4,
-        "reposts": 1,
-        "likes": 3,
-        "views": 4500
-      },
-      "topic": "launch"
-    },
-    {
-      "id": "2113366778940449041",
-      "product": "muse",
-      "url": "https://x.com/verge/status/2113366778940449041",
-      "author": "verge",
-      "authorName": "The Verge",
-      "text": "Meta has given new URLs to shared Muse ‘artifacts’ after security researchers reported that public links could be easy to find.",
-      "postedAt": "2026-10-22T20:27:59.000Z",
-      "metrics": {
-        "replies": 9,
-        "reposts": 3,
-        "likes": 32,
-        "views": 16981
-      },
-      "topic": "regulation"
-    },
-    {
-      "id": "2113332983226831339",
-      "product": "grok",
-      "url": "https://x.com/bot/status/2113332983226831339",
-      "author": "bot",
-      "authorName": "Grok Bot",
-      "text": "Grok Bot can now use your 1Password account.\n\nApprove the logins you want to share, and your Bot signs in for you. This new integration is rolling out to users over the next few days.",
-      "postedAt": "2026-10-22T18:13:41.000Z",
-      "metrics": {
-        "replies": 1272,
-        "reposts": 1032,
-        "likes": 9919,
-        "views": 1152903
-      },
-      "topic": "partnership"
-    },
-    {
-      "id": "2113328063379562581",
-      "product": "dots",
-      "url": "https://x.com/heyneighbor/status/2113328063379562581",
-      "author": "heyneighbor",
-      "authorName": "McBain",
-      "text": "@ChatGPT dots:\n\n• Oct 15: GPT-Live-1.1 brings new voices and better accents to voice in dots\n• Oct 16: add your dot as a widget to jump into a chat or start a call with one tap\n• Oct 18: dots are coming to the EU \"in the future\" (OpenAI's @thsottiaux)",
-      "postedAt": "2026-10-22T17:54:08.000Z",
-      "metrics": {
-        "replies": 1,
-        "likes": 815
-      },
-      "topic": "launch"
-    },
-    {
-      "id": "2113326829985743342",
-      "product": "spark",
-      "url": "https://x.com/ConnorTalksAI/status/2113326829985743342",
-      "author": "ConnorTalksAI",
-      "authorName": "Connor",
-      "text": "So we have Grok Bot, ChatGPT Dots, Meta Muse, and Claude Duet... but has everyone forgotten about Gemini Spark?! I haven't heard anything about it...",
-      "postedAt": "2026-10-22T17:49:14.000Z",
-      "metrics": {
-        "replies": 12,
-        "reposts": 0,
-        "likes": 32,
-        "views": 4314
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2113309455127564451",
-      "product": "dots",
-      "url": "https://x.com/androidcentral/status/2113309455127564451",
-      "author": "androidcentral",
-      "authorName": "Android Central",
-      "text": "1Password is launching a way for AI agents to sign in without seeing your passwords. You approve the login, then 1Password fills it in. \n\nMuse and Grok Bot support is rolling out, with ChatGPT Dots and Claude Duet coming soon.",
-      "postedAt": "2026-10-22T16:40:12.000Z",
-      "metrics": {
-        "replies": 4,
-        "reposts": 10,
-        "likes": 55,
-        "views": 10196
-      },
-      "topic": "partnership"
-    },
-    {
-      "id": "2113299967771078988",
-      "product": "dots",
-      "url": "https://x.com/davidarngar/status/2113299967771078988",
-      "author": "davidarngar",
-      "authorName": "David Arnal",
-      "text": "Anthropic is challenging OpenAI Dots and Grok Bot with Claude Duet, powered by Opus 5.5. Included with Claude Pro; Dots requires ChatGPT Pro at $100/month. Built-in virtual machine and browser. 6,000+ connectors vs. Dots' 4,000.",
-      "postedAt": "2026-10-22T16:02:30.000Z",
-      "metrics": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 112
-      },
-      "topic": "pricing"
-    },
-    {
-      "id": "2113295833076568349",
-      "product": "dots",
-      "url": "https://x.com/restofworld/status/2113295833076568349",
-      "author": "restofworld",
-      "authorName": "Rest of World",
-      "text": "Meta and OpenAI want to take AI agents global, but fragile networks and language barriers pose steep hurdles across developing nations",
-      "postedAt": "2026-10-22T15:46:04.000Z",
-      "metrics": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 1,
-        "views": 667
-      },
-      "topic": "launch"
-    },
-    {
-      "id": "2113183203456676208",
-      "product": "muse",
-      "url": "https://x.com/daniel_koss/status/2113183203456676208",
-      "author": "daniel_koss",
-      "authorName": "Daniel Koss",
-      "text": "$NBIS CEO said private agents are the current hot wave in AI; obviously $META Muse but another 2-3 startups, Nebius clients growing fast",
-      "postedAt": "2026-10-22T08:18:31.000Z",
-      "metrics": {
-        "replies": 1,
-        "reposts": 6,
-        "views": 715
-      },
-      "topic": "partnership"
-    },
-    {
-      "id": "2113182849809461635",
-      "product": "muse",
-      "url": "https://x.com/shogole/status/2113182849809461635",
-      "author": "shogole",
-      "authorName": "Madimetja Shogole",
-      "text": "@gregisenberg So sad that Meta Muse is not yet opened for other parts of the world, like South Africa.",
-      "postedAt": "2026-10-22T08:17:07.000Z",
-      "topic": "launch"
-    },
-    {
-      "id": "2113182574314963433",
-      "product": "muse",
-      "url": "https://x.com/BlogNTMedia/status/2113182574314963433",
-      "author": "BlogNTMedia",
-      "authorName": "BlogNT \\ Media",
-      "text": "Meta's Muse agent exceeds 10 million users; Zuckerberg gave a figure on its purchases in Q3 results: average order value, daily use, profitability goal",
-      "postedAt": "2026-10-22T08:16:01.000Z",
-      "metrics": {
-        "views": 9
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2113182520145506454",
-      "product": "muse",
-      "url": "https://x.com/BrightLabsMedia/status/2113182520145506454",
-      "author": "BrightLabsMedia",
-      "authorName": "One Bright Lab",
-      "text": "$META Muse Numbers from Q3 Call: In ~6 weeks since launch >10M people set up Muse agents (US+Canada), ~25% use it daily (2x Threads...)",
-      "postedAt": "2026-10-22T08:15:48.000Z",
-      "topic": "reviews"
-    },
-    {
-      "id": "2113182518535131251",
-      "product": "muse",
-      "url": "https://x.com/UndercodeUpdate/status/2113182518535131251",
-      "author": "UndercodeUpdate",
-      "authorName": "UNDERCODE TESTING",
-      "text": "Meta's Muse AI Security Breakdown: Analyzing Predictable URL Leakage and Passive DNS Exposure",
-      "postedAt": "2026-10-22T08:15:48.000Z",
-      "topic": "regulation"
-    },
-    {
-      "id": "2113182131812007941",
-      "product": "muse",
-      "url": "https://x.com/SagSmart/status/2113182131812007941",
-      "author": "SagSmart",
-      "authorName": "Smart Analytics Global (SAG)",
-      "text": "Meta Muse surpasses 10M downloads, signalling growing momentum for personal AI agents...",
-      "postedAt": "2026-10-22T08:14:15.000Z",
-      "metrics": {
-        "views": 5
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2113181557259423810",
-      "product": "dots",
-      "url": "https://x.com/hsylife/status/2113181557259423810",
-      "author": "hsylife",
-      "authorName": "Yuta Hoshino",
-      "text": "@ChatGPT Please add in-chat search to ChatGPT dots. Scrolling through a long thread to find a message by eye is really hard.",
-      "postedAt": "2026-10-22T08:11:58.000Z",
-      "metrics": {
-        "views": 27
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2113178198926307761",
-      "product": "dots",
-      "url": "https://x.com/CodeByPoonam/status/2113178198926307761",
-      "author": "CodeByPoonam",
-      "authorName": "Poonam Soni",
-      "text": "Anthropic just launched the OpenAI Dots competition. Claude Duet is here; an AI agent that doesn't just wait for your prompts...",
-      "postedAt": "2026-10-22T07:58:38.000Z",
-      "topic": "launch"
-    },
-    {
-      "id": "2113178061881667992",
-      "product": "dots",
-      "url": "https://x.com/quicktop/status/2113178061881667992",
-      "author": "quicktop",
-      "authorName": "阿正老師",
-      "text": "Grok Bot vs ChatGPT Dot comparison (cloud computer, local permissions, memory, voice), plus Gemini Spark/Task Taiwan support",
-      "postedAt": "2026-10-22T07:58:05.000Z",
-      "topic": "reviews"
-    },
-    {
-      "id": "2113177054736724221",
-      "product": "grok",
-      "url": "https://x.com/tirthaexe/status/2113177054736724221",
-      "author": "tirthaexe",
-      "authorName": "Tirtha Sarker",
-      "text": "Anthropic launched Claude Duet... how does it stack up against Grok Bot, OpenAI Dots (GPT-6 Astra) and Meta Muse? 1. Price: Duet $20/mo, Grok Bot $30, Dots $100. Muse is mostly free.",
-      "postedAt": "2026-10-22T07:54:05.000Z",
-      "metrics": {
-        "replies": 7,
-        "reposts": 1,
-        "likes": 13,
-        "views": 178
-      },
-      "topic": "pricing"
-    },
-    {
-      "id": "2113170567063085514",
-      "product": "spark",
-      "url": "https://x.com/sairajsk/status/2113170567063085514",
-      "author": "sairajsk",
-      "authorName": "Sairaj",
-      "text": "@signulll I thought Gemini Spark was supposed to be that but I'm sure they are working on 10 competing projects instead of one focused effort",
-      "postedAt": "2026-10-22T07:28:18.000Z",
-      "metrics": {
-        "views": 15
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2113147812850631138",
-      "product": "spark",
-      "url": "https://x.com/dragono64v/status/2113147812850631138",
-      "author": "dragono64v",
-      "authorName": "dragon",
-      "text": "Claude Duet, Grok Bot, Muse, OpenAI Dot, Gemini Spark, Hark are all out now; anyone want to review and rank them?",
-      "postedAt": "2026-10-22T05:57:53.000Z",
-      "metrics": {
-        "replies": 5,
-        "reposts": 4,
-        "views": 463
-      },
-      "topic": "reviews"
     }
   ]
 }
