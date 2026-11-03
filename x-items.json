@@ -1,6 +1,166 @@
 {
-  "updatedAt": "2026-11-02T08:26:08.509Z",
+  "updatedAt": "2026-11-03T00:20:46.014Z",
   "items": [
+    {
+      "id": "2117411319679000629",
+      "product": "grok",
+      "url": "https://x.com/the_jimmy_jones/status/2117411319679000629",
+      "author": "the_jimmy_jones",
+      "authorName": "Jimmy Jones",
+      "text": "@poteto @bot I was using grok bot and enjoying it but I am working on moving away from it for multiple reasons. 1. Usage cut. I am getting significantly less usage now. 2. Data privacy. The more I have to pay, the less it makes sense to give you all my data for you to train on. 3. Context ...",
+      "postedAt": "2026-11-03T00:19:32.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 2
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2117406927554785603",
+      "product": "muse",
+      "url": "https://x.com/Gramps_bloomers/status/2117406927554785603",
+      "author": "Gramps_bloomers",
+      "authorName": "Renewed Health",
+      "text": "@Texas_Twins_Dad As much as I love Grok @bot -- while my usage was stolen and I was down for a couple days -- I had Meta @Muse renegotiate my auto policy and ended saving me 71% -- WOW -- big win for @muse and big loss for @bot",
+      "postedAt": "2026-11-03T00:02:05.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 7
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2117404367867216225",
+      "product": "dots",
+      "url": "https://x.com/Tec99_net/status/2117404367867216225",
+      "author": "Tec99_net",
+      "authorName": "Tec99",
+      "text": "(Arabic) Overview of 4 top AI agents; 1. OpenAI Dots: works continuously, integrates with 4,000+ apps, can research and analyze data and execute tasks... (truncated)",
+      "postedAt": "2026-11-02T23:51:55.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 16
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2117402093598429642",
+      "product": "grok",
+      "url": "https://x.com/vishalsingh2972/status/2117402093598429642",
+      "author": "vishalsingh2972",
+      "authorName": "Vishal Singh",
+      "text": "Ever wondered why AI assistants like Grok Bot, Muse, OpenAI Dots, Hermes, and Claude Duet sometimes take longer to finish a task than just doing it yourself? Cerebras dug into this with a dinner-booking experiment. Grok Bot took 7+ minutes. A human took 37 seconds. ...",
+      "postedAt": "2026-11-02T23:42:53.000Z",
+      "metrics": {
+        "replies": 5,
+        "reposts": 0,
+        "likes": 6,
+        "views": 371
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2117400957856456739",
+      "product": "muse",
+      "url": "https://x.com/optionscjp/status/2117400957856456739",
+      "author": "optionscjp",
+      "authorName": "Options selling with Christian",
+      "text": "I just upgraded to the $80/mo max Meta Muse plan The value is incredible $META",
+      "postedAt": "2026-11-02T23:38:22.000Z",
+      "metrics": {
+        "replies": 16,
+        "reposts": 4,
+        "likes": 28,
+        "views": 2717
+      },
+      "topic": "pricing"
+    },
+    {
+      "id": "2117378651423691055",
+      "product": "dots",
+      "url": "https://x.com/VanessaDuranta/status/2117378651423691055",
+      "author": "VanessaDuranta",
+      "authorName": "Vanessa",
+      "text": "Ton agent IA refuse de bosser sans 150 $/mois en France ? Vanessa décortique pourquoi OpenAI Dots bloque l'accès et ce qu'il faut vraiment débourser pour l'utiliser. https://youtu.be/C6kAa-yGSHs #OpenAI #AgentsIA",
+      "postedAt": "2026-11-02T22:09:44.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 31
+      },
+      "topic": "pricing"
+    },
+    {
+      "id": "2117370882528292874",
+      "product": "muse",
+      "url": "https://x.com/ai_jitan/status/2117370882528292874",
+      "author": "ai_jitan",
+      "authorName": "えーたん/AI×時短で仕事効率化",
+      "text": "【革命】MetaのAIエージェント「Muse」にGemini Notebookを任せたら、自分専用の秘書が爆誕した 正直、これは革命です…!! MetaのAI秘書「Muse」に、Gemini Notebook（旧NotebookLM）を丸ごと任せられるようになりました。...",
+      "postedAt": "2026-11-02T21:38:51.000Z",
+      "metrics": {
+        "replies": 2,
+        "reposts": 10,
+        "likes": 37,
+        "views": 6811
+      },
+      "topic": "partnership"
+    },
+    {
+      "id": "2117367368204841131",
+      "product": "dots",
+      "url": "https://x.com/JaeHokes/status/2117367368204841131",
+      "author": "JaeHokes",
+      "authorName": "JAE HOKES",
+      "text": "I can add all my emails to @ChatGPT dots plugins but can’t add more than 3 email accounts for @claudeai Duet? Please fix this why is it limited to 3 accounts?",
+      "postedAt": "2026-11-02T21:24:54.000Z",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 0,
+        "views": 51
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2117307240310796441",
+      "product": "grok",
+      "url": "https://x.com/Yumslef/status/2117307240310796441",
+      "author": "Yumslef",
+      "authorName": "Yumslef",
+      "text": "The Grok Bot Org Chart: 12 Agents, 12 Jobs  On November 1, Elon Musk said the cost of serving Grok Bot was \"unsustainably high relative to revenue.\" He gave no numbers and no new limits. He said it in a reply to a user asking for a weekly...",
+      "postedAt": "2026-11-02T17:25:58.000Z",
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 15,
+        "views": 1139
+      },
+      "topic": "pricing"
+    },
+    {
+      "id": "2117279109701406725",
+      "product": "spark",
+      "url": "https://x.com/thumay9700/status/2117279109701406725",
+      "author": "thumay9700",
+      "authorName": "thumay",
+      "text": "@JerryCap @benthompson The Google agent is Gemini Spark. Google is neglecting that product so bad people don’t even know it exists",
+      "postedAt": "2026-11-02T15:34:11.000Z",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 3,
+        "views": 467
+      },
+      "topic": "reviews"
+    },
     {
       "id": "2117170600833896861",
       "product": "grok",
@@ -2020,160 +2180,6 @@
         "views": 43000
       },
       "topic": "pricing"
-    },
-    {
-      "id": "2114178084077498721",
-      "product": "spark",
-      "url": "https://x.com/Prince1253432/status/2114178084077498721",
-      "author": "Prince1253432",
-      "authorName": "prince",
-      "text": "Now Gemini can work while you sleep. Google's Gemini Spark is turning AI from a simple chatbot into a 24/7 personal agent. Here are 8 prompts that make AI agents actually useful.",
-      "postedAt": "2026-10-25T02:11:49.000Z",
-      "metrics": {
-        "replies": 24,
-        "reposts": 106,
-        "likes": 158,
-        "views": 4800
-      },
-      "topic": "launch"
-    },
-    {
-      "id": "2114130913978188286",
-      "product": "grok",
-      "url": "https://x.com/EricSoundMinds/status/2114130913978188286",
-      "author": "EricSoundMinds",
-      "authorName": "Eric Starr | Founder, SoundMinds",
-      "text": "Part of the Grok Bot hot topics series. Grok Bot can now create Pages. Pages are reports, memos, dashboards, trackers or manuals the Bot builds for you to read. How to make one: 1. Subscribe to Premium ($30/mo), the cheapest plan that includes Grok Bot…",
-      "postedAt": "2026-10-24T23:04:23.000Z",
-      "topic": "pricing"
-    },
-    {
-      "id": "2114130259885121777",
-      "product": "muse",
-      "url": "https://x.com/nirox0216/status/2114130259885121777",
-      "author": "nirox0216",
-      "authorName": "NiRox｜美股实盘·出海工具",
-      "text": "《Meta Muse 最全使用教程：注册避坑＋实战玩法＋现存局限，一篇讲透》\n我用了快一个月，这玩意跟 ChatGPT 完全不是一个物种。ChatGPT 是陪你聊天的，Muse 是驻扎在云端的 24 小时数字员工：有长期记忆、有云端浏览器、能连你的邮箱日历、能定时干活、能打电话。这一篇把注册、玩法、坑，一次说完。 …",
-      "postedAt": "2026-10-24T23:01:47.000Z",
-      "metrics": {
-        "replies": 19,
-        "reposts": 4,
-        "likes": 49,
-        "views": 6885
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2114115757856661933",
-      "product": "muse",
-      "url": "https://x.com/Sokichi_Hoshino/status/2114115757856661933",
-      "author": "Sokichi_Hoshino",
-      "authorName": "星野創吉｜CoreGen",
-      "text": "無料で使えるMeta Muse活用事例大全。海外の天才が見つけた先行10事例 — 10月23日、MetaのAIエージェント「Muse」が日本でも使えるようになりました。北米以外では、日本が最初の提供地域です。…",
-      "postedAt": "2026-10-24T22:04:09.000Z",
-      "metrics": {
-        "replies": 8,
-        "reposts": 46,
-        "likes": 324,
-        "views": 90000
-      },
-      "topic": "launch"
-    },
-    {
-      "id": "2114056103373758724",
-      "product": "grok",
-      "url": "https://x.com/alexmichael/status/2114056103373758724",
-      "author": "alexmichael",
-      "authorName": "Alex",
-      "text": "Grok Bot 0.77 looks INSANE \n\n> Calls: your Bot can dial someone, sit on hold, press keys and get transferred while you watch a live transcript\n\n> Messages on Mac: a setup screen under Connect Apps, still switched off\n\n> Tailscale: Grok Bot can join your private tailnet once an admin approves it\n\n> Payments: a screen to connect payment accounts and pick a default, on top of yesterday’s Vault\n\n> Sharing: emails when someone shares a Bot with you, and invites need Premium or Ultra",
-      "postedAt": "2026-10-24T18:07:06.000Z",
-      "metrics": {
-        "replies": 244,
-        "reposts": 190,
-        "likes": 2315,
-        "views": 1368026
-      },
-      "topic": "launch"
-    },
-    {
-      "id": "2114046139347726746",
-      "product": "grok",
-      "url": "https://x.com/BBBang9900/status/2114046139347726746",
-      "author": "BBBang9900",
-      "authorName": "꼬마봇",
-      "text": "Grok Bot 진짜 쓸만하다\n\n예전에는 이렇게 많은 그록봇을 운영하면 사용량이 바로사라졌는데, 개선을 한건지 1달반 만에 사용량이 넉넉하다는 느낌이듬\n\n심지어 업그레이드 많이 되지 비서 역할 잘하지\n코덱스 랑 클로드 둘중하나를 메인 코딩+개발용으로\n\n그록봇을 정말 비서 + 자동화용으로 들고가는게\n현시점 ai 정배인듯",
-      "postedAt": "2026-10-24T17:27:31.000Z",
-      "metrics": {
-        "replies": 15,
-        "reposts": 13,
-        "likes": 58,
-        "views": 2698
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2114045194064871775",
-      "product": "muse",
-      "url": "https://x.com/ivanleomk/status/2114045194064871775",
-      "author": "ivanleomk",
-      "authorName": "Ivan Leo",
-      "text": "One weird thing about Muse is that for some reason it always orders limes when I tell it to buy my groceries, I have no idea why haha.",
-      "postedAt": "2026-10-24T17:23:45.000Z",
-      "metrics": {
-        "replies": 18,
-        "reposts": 1,
-        "likes": 75,
-        "views": 6122
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2113995666401710320",
-      "product": "grok",
-      "url": "https://x.com/alin_zone/status/2113995666401710320",
-      "author": "alin_zone",
-      "authorName": "阿蔺A-Lin",
-      "text": "Notice to all Grok Bot users: never treat the cloud environment like a local hard drive! Otherwise your code, data and collected Skills can be wiped overnight. Reason: Bot's cloud computer Reset, Recover, partial update, or disk …",
-      "postedAt": "2026-10-24T14:06:57.000Z",
-      "metrics": {
-        "replies": 152,
-        "reposts": 114,
-        "likes": 896,
-        "views": 150224
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2113935110475272687",
-      "product": "muse",
-      "url": "https://x.com/techamericaofcl/status/2113935110475272687",
-      "author": "techamericaofcl",
-      "authorName": "TechAmerica",
-      "text": "Meta’s Muse AI app reached an estimated 10.2 million U.S. downloads within 40 days, according to Sensor Tower. The assistant also recorded 2.5 million daily active users and stronger early retention than rival AI apps.\n\nRead more:\n\nhttps://techamerica.ai/apps/meta-muse-downloads-top-10m-in-the-us-in-the-first-40-days",
-      "postedAt": "2026-10-24T10:06:20.000Z",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 0,
-        "views": 38
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2113875807940849882",
-      "product": "spark",
-      "url": "https://x.com/maria_wats8492/status/2113875807940849882",
-      "author": "maria_wats8492",
-      "authorName": "Maria Watson",
-      "text": " GEMINI CAN NOW WORK WHILE YOU SLEEP.\n\nGoogle’s Gemini Spark is turning AI from a chatbot into a 24/7 personal agent.\n\nHere are 8 prompts to make an AI agent actually useful. ",
-      "postedAt": "2026-10-24T06:10:41.000Z",
-      "metrics": {
-        "replies": 15,
-        "reposts": 41,
-        "likes": 154,
-        "views": 7577
-      },
-      "topic": "launch"
     }
   ]
 }
