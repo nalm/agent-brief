@@ -1,6 +1,118 @@
 {
-  "updatedAt": "2026-11-05T08:24:49.532Z",
+  "updatedAt": "2026-11-06T00:33:25.754Z",
   "items": [
+    {
+      "id": "2118498947442327953",
+      "product": "grok",
+      "url": "https://x.com/duval_emil/status/2118498947442327953",
+      "author": "duval_emil",
+      "authorName": "Emil Duval",
+      "text": "I think Grok Bot need to rethink the price model. It's too expensive. Muse is killing it for doing twice as much and not asking to add credits every other day. I paid Grok for the entire anual plan and I can't even do half with six agents with what I do with one Muse. #Grok #too expensive",
+      "postedAt": "2026-11-06T00:21:23.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 8
+      },
+      "topic": "pricing"
+    },
+    {
+      "id": "2118454583454539964",
+      "product": "dots",
+      "url": "https://x.com/pc_watch/status/2118454583454539964",
+      "author": "pc_watch",
+      "authorName": "PC Watch",
+      "text": "「あの件」で話が通じるAI秘書。ChatGPT「dots」の本質は常時稼働ではない https://pc.watch.impress.co.jp/docs/topic/feature/2154157.html #ChatGPT #OpenAI #dots",
+      "postedAt": "2026-11-05T21:25:06.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 9,
+        "likes": 22,
+        "views": 6012
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2118448741703397573",
+      "product": "grok",
+      "url": "https://x.com/linear/status/2118448741703397573",
+      "author": "linear",
+      "authorName": "Linear",
+      "text": "Meet your new Linear Product Ops @bot. Set up Grok Bot in Linear: add the bot, enable Linear's cloud coding agent, and connect GitHub. Get $25 in Linear AI credits to build your next project or automate your workflow. Credits available for the next 30 days.",
+      "postedAt": "2026-11-05T21:01:53.000Z",
+      "metrics": {
+        "replies": 22,
+        "reposts": 24,
+        "likes": 241,
+        "views": 25516
+      },
+      "topic": "partnership"
+    },
+    {
+      "id": "2118438974385541359",
+      "product": "muse",
+      "url": "https://x.com/Muse/status/2118438974385541359",
+      "author": "Muse",
+      "authorName": "Muse",
+      "text": "from la playa to the pyramids, so much for Muse to explore!\nmuse.ai, now in México 🇲🇽",
+      "postedAt": "2026-11-05T20:23:04.000Z",
+      "metrics": {
+        "replies": 48,
+        "reposts": 51,
+        "likes": 353,
+        "views": 41978
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2118432189213762006",
+      "product": "spark",
+      "url": "https://x.com/mehmetakarim/status/2118432189213762006",
+      "author": "mehmetakarim",
+      "authorName": "Mehmet Akar ✦︎ im",
+      "text": "Gemini Spark için beklentiyi arşa çıkarıp finalde elimize bildiğin \"Görev\" sekmesi bırakmaları tam bir Google klasiği. Projeyi kendi ekipleri bile terk etmiş gibi duruyor.\n\nMillet otonom botlarla sektörü domine ederken Google yine bildiğimiz Google: Harika potansiyel, sıfır devamlılık. (şaşırtmadı)",
+      "postedAt": "2026-11-05T19:56:07.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 25
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2118411960337289583",
+      "product": "muse",
+      "url": "https://x.com/Muse/status/2118411960337289583",
+      "author": "Muse",
+      "authorName": "Muse",
+      "text": "Introducing Voice. Talk to your Muse and Muse talks back, so you can go from “what should I cook?” to cooking, just like that ✨",
+      "postedAt": "2026-11-05T18:35:44.000Z",
+      "metrics": {
+        "replies": 105,
+        "reposts": 260,
+        "likes": 1872,
+        "views": 152106
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2118411432161403375",
+      "product": "muse",
+      "url": "https://x.com/alexandr_wang/status/2118411432161403375",
+      "author": "alexandr_wang",
+      "authorName": "Alexandr Wang",
+      "text": "🚨 MUSE FEATURE ALERT 🚨\nmuse voice is out for everyone in the US! you can now phone call and video chat with your muse whenever you need. i personally have a sticky situation today, and asked muse for some advice. sage and calm as always ❤️",
+      "postedAt": "2026-11-05T18:33:38.000Z",
+      "metrics": {
+        "replies": 189,
+        "reposts": 195,
+        "likes": 1262,
+        "views": 123125
+      },
+      "topic": "launch"
+    },
     {
       "id": "2118252956181033448",
       "product": "spark",
@@ -101,6 +213,70 @@
         "reposts": 0,
         "likes": 1,
         "views": 43
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2118103061990384116",
+      "product": "dots",
+      "url": "https://x.com/_samirism/status/2118103061990384116",
+      "author": "_samirism",
+      "authorName": "samir",
+      "text": "lastly, if you have more feedback on dots - you no longer need to yell at @thsottiaux ... you can just tell your dot directly what you want us to build or fix and it will make it to the team let us know what you think",
+      "postedAt": "2026-11-04T22:08:17.000Z",
+      "metrics": {
+        "replies": 109,
+        "reposts": 29,
+        "likes": 615,
+        "views": 38081
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2118103060794974575",
+      "product": "dots",
+      "url": "https://x.com/_samirism/status/2118103060794974575",
+      "author": "_samirism",
+      "authorName": "samir",
+      "text": "improvements for windows users - more reliable task continuation between dots and local threads - significantly improved computer and browser use - more reliable workflows with local MCP tools and plugins",
+      "postedAt": "2026-11-04T22:08:16.000Z",
+      "metrics": {
+        "replies": 12,
+        "reposts": 1,
+        "likes": 225,
+        "views": 34876
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2118103059637358725",
+      "product": "dots",
+      "url": "https://x.com/_samirism/status/2118103059637358725",
+      "author": "_samirism",
+      "authorName": "samir",
+      "text": "we know people love calling their dots - connection times are now much faster. also by popular demand - you can now hang up hands-free. just say “goodbye” to your dot and it’ll end the call.",
+      "postedAt": "2026-11-04T22:08:16.000Z",
+      "metrics": {
+        "replies": 48,
+        "reposts": 12,
+        "likes": 527,
+        "views": 65958
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2118103057980690771",
+      "product": "dots",
+      "url": "https://x.com/_samirism/status/2118103057980690771",
+      "author": "_samirism",
+      "authorName": "samir",
+      "text": "the team has been laser-focused on making dots significantly faster and more reliable.\n\nsome updates in the latest app release…\n\n- you can now reply to your dot inline from a notification on iOS\n- share anything directly to your dot in iOS\n- open your dot from the iPhone Action button\n- faster loading when you tap in from a notification\n- gmail links deeplink to the exact email inside the gmail app",
+      "postedAt": "2026-11-04T22:08:16.000Z",
+      "metrics": {
+        "replies": 585,
+        "reposts": 146,
+        "likes": 2572,
+        "views": 799488
       },
       "topic": "launch"
     },
@@ -270,13 +446,13 @@
       "url": "https://x.com/bot/status/2117736249444507834",
       "author": "bot",
       "authorName": "Grok Bot",
-      "text": "Meet Grok Bot's new shopping experience. Find the best deals, compare products, and let Bot track every order.",
+      "text": "Try the new shopping experience in Grok Bot. Find the best deal, compare items, and have Bot track all your orders.",
       "postedAt": "2026-11-03T21:50:42.000Z",
       "metrics": {
-        "replies": 321,
-        "reposts": 230,
-        "likes": 1900,
-        "views": 130000
+        "replies": 899,
+        "reposts": 597,
+        "likes": 4607,
+        "views": 3307169
       },
       "topic": "launch"
     },
@@ -2056,163 +2232,6 @@
         "views": 5656
       },
       "topic": "partnership"
-    },
-    {
-      "id": "2115049432941293920",
-      "product": "muse",
-      "url": "https://x.com/noel_ai_lab/status/2115049432941293920",
-      "author": "noel_ai_lab",
-      "authorName": "のえる｜AI構築者",
-      "text": "【完全版】MetaのAI「Muse」動画生成の検証まとめ",
-      "postedAt": "2026-10-27T11:54:15.000Z",
-      "metrics": {
-        "replies": 5,
-        "reposts": 24,
-        "likes": 239,
-        "views": 54970
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2115039768514081021",
-      "product": "spark",
-      "url": "https://x.com/daisuki_karasu/status/2115039768514081021",
-      "author": "daisuki_karasu",
-      "authorName": "カラス @自転車好き忖度無し人間",
-      "text": "Gemini Spark can edit video (iOS Gemini app); asked it to finish a 40-second cut and it honestly replied that's difficult…",
-      "postedAt": "2026-10-27T11:15:51.000Z",
-      "topic": "reviews"
-    },
-    {
-      "id": "2115009002136563920",
-      "product": "spark",
-      "url": "https://x.com/Shuton_leon/status/2115009002136563920",
-      "author": "Shuton_leon",
-      "authorName": "书童",
-      "text": "개인 AI 어시스턴트의 문턱 요약: Grok Bot은 30달러부터 시작하고, 사용량은 공유 한도입니다. GPT Dots는 Pro가 필요하고, 100달러부터 시작합니다. Claude Duet은 Pro가 필요하고, 20달러부터 시작하며, 대기열이 있습니다. Gemini Spark도 Pro 레벨이 필요합니다. Muse는 먼저 무료 한도로 …",
-      "postedAt": "2026-10-27T09:13:35.000Z",
-      "metrics": {
-        "replies": 14,
-        "reposts": 1,
-        "likes": 40,
-        "views": 16557
-      },
-      "topic": "pricing"
-    },
-    {
-      "id": "2114992005444931962",
-      "product": "muse",
-      "url": "https://x.com/thinkreviewdev/status/2114992005444931962",
-      "author": "thinkreviewdev",
-      "authorName": "ThinkReview",
-      "text": "AI agents will fail. Whose computer do you let them break?\n\n@Meta isolates Muse in a sandboxed VM, while @grok shares one machine across a whole roster.\n\nRead more: \nhttps://thinkreview.dev/blog/2026-10-27-meta-muse-vs-grok-bot\n\n#AIAgents #AI",
-      "postedAt": "2026-10-27T08:06:03.000Z",
-      "metrics": {
-        "replies": 1,
-        "views": 16
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2114987811896258748",
-      "product": "muse",
-      "url": "https://x.com/hq1thegioi/status/2114987811896258748",
-      "author": "hq1thegioi",
-      "authorName": "Phạm Hồng Quân",
-      "text": "Nvidia hợp tác với Meta phát triển tác tử AI Muse, đầu tư 3 tỉ USD https://1thegioi.vn/nvidia-hop-tac-voi-meta-phat-trien-tac-tu-ai-muse-dau-tu-3-ti-usd-260492.html #Nvidia #Meta #Muse",
-      "postedAt": "2026-10-27T07:49:23.000Z",
-      "metrics": {
-        "replies": 1,
-        "reposts": 1,
-        "likes": 1,
-        "views": 24
-      },
-      "topic": "partnership"
-    },
-    {
-      "id": "2114961960764854570",
-      "product": "muse",
-      "url": "https://x.com/yugyari_s/status/2114961960764854570",
-      "author": "yugyari_s",
-      "authorName": "𝒀𝒖𝒈𝒚𝒂𝒓𝒊",
-      "text": "23日に日本でもローンチしたMetaのMuseを使い倒してみた。非常に良い！タスク整理とスケジュール調整、一之輔さんのチケット発売情報収集とカレンダー登録、当日の演目記録など、とことん私のお世話をしてくれる。\nただしこれはMetaのプロダクト…AIエージェントの使用感チェックとして使うだけで、継続利用は考えていない。\n毎月1万円課金してOpenAI dots使おうか迷ってたけど、これで決心ついた。",
-      "postedAt": "2026-10-27T06:06:40.000Z",
-      "metrics": {
-        "replies": 1,
-        "likes": 3,
-        "views": 215
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2114956622657151132",
-      "product": "dots",
-      "url": "https://x.com/tekno_pusulatr/status/2114956622657151132",
-      "author": "tekno_pusulatr",
-      "authorName": "teknopusula",
-      "text": "OpenAI, bilgisayarınıza doğrudan entegre olan yeni yapay zeka asistanı Dots'u duyurdu!  Takvim, e-posta ve iş akışlarını yönetebilen Dots, Pro aboneler için kullanıma sunuldu. Meta'nın Muse'u ile rekabet kızışıyor. Sizce bu bir devrim mi? #OpenAI #Dots Kaynak: TechCrunch",
-      "postedAt": "2026-10-27T05:45:27.000Z",
-      "metrics": {
-        "replies": 1,
-        "likes": 1,
-        "views": 24
-      },
-      "topic": "launch"
-    },
-    {
-      "id": "2114954360899916234",
-      "product": "dots",
-      "url": "https://x.com/jesterg/status/2114954360899916234",
-      "author": "jesterg",
-      "authorName": "Jesse Gleeson",
-      "text": "As much as I love @bot and @poteto I am struggling with how many paid tokens it uses for things that @OpenAI  Dots do for free.... Running in parallel at the moment, and not losing much with Dots.  Free the @bot  tokens and stay in the competition !",
-      "postedAt": "2026-10-27T05:36:28.000Z",
-      "metrics": {
-        "views": 3
-      },
-      "topic": "pricing"
-    },
-    {
-      "id": "2114935735430119764",
-      "product": "grok",
-      "url": "https://x.com/alx/status/2114935735430119764",
-      "author": "alx",
-      "authorName": "ALX",
-      "text": "방금 Grok @Bot 을 게시했습니다. 스팸 전화 목록에서 내 번호를 제거하고, 공개 사이트에서 내 개인 정보를 제거하는 두 가지입니다. … 설치에 몇 초밖에 걸리지 않았습니다.",
-      "postedAt": "2026-10-27T04:22:27.000Z",
-      "metrics": {
-        "replies": 401,
-        "reposts": 818,
-        "likes": 5853,
-        "views": 831804
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2114913305785696378",
-      "product": "muse",
-      "url": "https://x.com/stockpickerspb/status/2114913305785696378",
-      "author": "stockpickerspb",
-      "authorName": "Alex Invests",
-      "text": "Anyone still using $META Muse? Hype seems to have faded pretty fast.",
-      "postedAt": "2026-10-27T02:53:19.000Z",
-      "metrics": {
-        "replies": 225,
-        "reposts": 7,
-        "likes": 302,
-        "views": 152533
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2114902977677042084",
-      "product": "spark",
-      "url": "https://x.com/swagerbaap/status/2114902977677042084",
-      "author": "swagerbaap",
-      "authorName": "AI Tool Notes",
-      "text": "Task automation is easier to try when it is visible. Gemini moved Spark to a home-screen Task button and reorganized chat and task history. Use the clearer entry point to test it on routine online work.",
-      "postedAt": "2026-10-27T02:12:17.000Z",
-      "topic": "launch"
     }
   ]
 }
