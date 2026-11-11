@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-11-10T08:23:52.887Z",
+  "updatedAt": "2026-11-11T00:22:42.078Z",
   "items": [
+    {
+      "id": "2120302407863439809",
+      "product": "grok",
+      "url": "https://x.com/BrianRoemmele/status/2120302407863439809",
+      "author": "BrianRoemmele",
+      "authorName": "Brian Roemmele",
+      "text": "NOW YOU HAVE A PLACE FOR TO LIST ALL OF YOUR GROK BOTS FOR FREE!\n\nFind your Grok Bot on our main directory at Grok Bot Rocks. Claim it. And follow the steps.\n\nThen you can send folks to your free page of all your Grok Bots.\n\nThis is mine below.\n\nTry it!",
+      "postedAt": "2026-11-10T23:47:42.000Z",
+      "metrics": {
+        "replies": 5,
+        "reposts": 3,
+        "likes": 23,
+        "views": 2748
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2120184557647351976",
+      "product": "dots",
+      "url": "https://x.com/piotrparzyszek_/status/2120184557647351976",
+      "author": "piotrparzyszek_",
+      "authorName": "Piotr Parzyszek",
+      "text": "OpenAI Dots umożliwia od teraz jednemu agentowi równoległe zarządzanie wieloma maszynami i środowiskami operacyjnymi.\n\nModel nie ogranicza się do jednego terminala: potrafi jednocześnie wydawać polecenia na kilku odrębnych serwerach, koordynować transfery danych i reagować na",
+      "postedAt": "2026-11-10T15:59:24.000Z",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 13,
+        "views": 1311
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2120132015253074427",
+      "product": "muse",
+      "url": "https://x.com/MoxxyLabs/status/2120132015253074427",
+      "author": "MoxxyLabs",
+      "authorName": "MoxxyLabs",
+      "text": "Meta Muse Ember (Nov 9): $0.10/$0.50 per 1M tokens.\n\nArtificial Analysis Index, max effort, cost per task:\nEmber: 35.8, $0.136\nClaude Haiku 5.5: 36.2, $0.411\nGPT-6 Luna: 27.8, $0.152\n\nHaiku's score for 1/3 the cost. Muse Spark 1.3 scores 37 at $2.39.",
+      "postedAt": "2026-11-10T12:30:37.000Z",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 1,
+        "views": 24
+      },
+      "topic": "pricing"
+    },
     {
       "id": "2120030721024901194",
       "product": "dots",
@@ -18,6 +66,22 @@
       "topic": "launch"
     },
     {
+      "id": "2120017302238421072",
+      "product": "muse",
+      "url": "https://x.com/glitch_catAI/status/2120017302238421072",
+      "author": "glitch_catAI",
+      "authorName": "Priya",
+      "text": "🚨 Meta Muse Ember  leak :  can launch today \n\n>It’s built for the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long documents.\n>It costs $0.10 per million input tokens and $0.50 per million output tokens, with a 1M-token context window",
+      "postedAt": "2026-11-10T04:54:47.000Z",
+      "metrics": {
+        "replies": 4,
+        "reposts": 1,
+        "likes": 13,
+        "views": 522
+      },
+      "topic": "launch"
+    },
+    {
       "id": "2119991219426312635",
       "product": "muse",
       "url": "https://x.com/ai_official_JP/status/2119991219426312635",
@@ -29,9 +93,25 @@
         "replies": 0,
         "reposts": 0,
         "likes": 0,
-        "views": 85
+        "views": 101
       },
       "topic": "launch"
+    },
+    {
+      "id": "2119978397174767617",
+      "product": "muse",
+      "url": "https://x.com/nxtday/status/2119978397174767617",
+      "author": "nxtday",
+      "authorName": "NXTDAY",
+      "text": "Meta just brought Muse Ember to Google Cloud, along with Muse Wonder and Muse Spark 1.3. ☁️\n\nPer @AIatMeta and Mark Zuckerberg on Nov 9, all three are now available on Google Cloud.\n\nGoogle Cloud docs list them as Preview managed APIs in Model Garden.",
+      "postedAt": "2026-11-10T02:20:11.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1,
+        "views": 70
+      },
+      "topic": "partnership"
     },
     {
       "id": "2119929497134747885",
@@ -42,10 +122,10 @@
       "text": "Apple + Meta: Muse Spark will run locally on high-end Macs.\n\nEverything is an agent now. Who gets write access when multiple agents touch one doc is the real UX problem.",
       "postedAt": "2026-11-09T23:05:53.000Z",
       "metrics": {
-        "replies": 0,
+        "replies": 1,
         "reposts": 0,
-        "likes": 3,
-        "views": 145
+        "likes": 4,
+        "views": 161
       },
       "topic": "partnership"
     },
@@ -75,11 +155,27 @@
       "postedAt": "2026-11-09T22:02:44.000Z",
       "metrics": {
         "replies": 0,
-        "reposts": 0,
-        "likes": 11,
-        "views": 1762
+        "reposts": 1,
+        "likes": 15,
+        "views": 1981
       },
       "topic": "partnership"
+    },
+    {
+      "id": "2119909368627949601",
+      "product": "grok",
+      "url": "https://x.com/Waltertweet/status/2119909368627949601",
+      "author": "Waltertweet",
+      "authorName": "Walter",
+      "text": "Can’t believe this. Grok bots does not allow to posting to x using images and text. Cause grok bot is forbidden to post without a post card. And post card don’t support images. \n\nForbidden by who? By grok bot. The same company forbids its bot to make posts on x.",
+      "postedAt": "2026-11-09T21:45:54.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 16
+      },
+      "topic": "reviews"
     },
     {
       "id": "2119890924218048944",
@@ -139,9 +235,9 @@
       "postedAt": "2026-11-09T19:48:04.000Z",
       "metrics": {
         "replies": 1,
-        "reposts": 2,
-        "likes": 6,
-        "views": 313
+        "reposts": 3,
+        "likes": 7,
+        "views": 341
       },
       "topic": "reviews"
     },
@@ -154,10 +250,10 @@
       "text": "I run 35 Grok Bots today. \n\nHow many workflows have you automated with Grok Bot?",
       "postedAt": "2026-11-09T19:18:50.000Z",
       "metrics": {
-        "replies": 14,
+        "replies": 18,
         "reposts": 0,
-        "likes": 27,
-        "views": 2397
+        "likes": 35,
+        "views": 2687
       },
       "topic": "reviews"
     },
@@ -173,7 +269,7 @@
         "replies": 1,
         "reposts": 0,
         "likes": 0,
-        "views": 271
+        "views": 273
       },
       "topic": "reviews"
     },
@@ -215,13 +311,13 @@
       "url": "https://x.com/LiamvanVliet/status/2119752777920548890",
       "author": "LiamvanVliet",
       "authorName": "Liam van Vliet",
-      "text": "@grok @bot @spacexai I merged my Cursor account into my Grok account. The merge completed, but now:\n• All my Grok Bots are gone\n• My Cursor account and legacy subscription have disappeared\n• I've been dropped to Plus (€8), which doesn't include Grok Bot\n• i can’t upgrade",
+      "text": "@grok @bot @spacexai \nI merged my Cursor account into my Grok account. The merge completed, but now:\n• All my Grok Bots are gone\n• My Cursor account and legacy subscription have disappeared\n• I've been dropped to Plus (€8), which doesn't include Grok Bot\n• i can’t upgrade",
       "postedAt": "2026-11-09T11:23:40.000Z",
       "metrics": {
         "replies": 1,
         "reposts": 0,
         "likes": 0,
-        "views": 41
+        "views": 48
       },
       "topic": "pricing"
     },
@@ -237,7 +333,7 @@
         "replies": 0,
         "reposts": 0,
         "likes": 0,
-        "views": 35
+        "views": 41
       },
       "topic": "reviews"
     },
@@ -332,7 +428,7 @@
         "replies": 1,
         "reposts": 0,
         "likes": 0,
-        "views": 15
+        "views": 16
       },
       "topic": "reviews"
     },
@@ -364,7 +460,7 @@
         "replies": 0,
         "reposts": 0,
         "likes": 0,
-        "views": 180
+        "views": 184
       },
       "topic": "regulation"
     },
@@ -377,10 +473,10 @@
       "text": "Grok Bot literally got us into a gym for FREE during my trip 😂\n\nThe funny part is that Grok Bot even found the gym for us in the first place\n\nWe wanted to work out, but gyms here are pretty expensive, even for a single day\n\nSo we asked Grok Bot to find us a gym, and somehow it",
       "postedAt": "2026-11-08T16:11:59.000Z",
       "metrics": {
-        "replies": 55,
-        "reposts": 40,
-        "likes": 398,
-        "views": 18810
+        "replies": 54,
+        "reposts": 39,
+        "likes": 399,
+        "views": 19020
       },
       "topic": "reviews"
     },
@@ -397,6 +493,22 @@
         "reposts": 33,
         "likes": 123,
         "views": 7438
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2119413788021850572",
+      "product": "grok",
+      "url": "https://x.com/falconhere1/status/2119413788021850572",
+      "author": "falconhere1",
+      "authorName": "falcon",
+      "text": "ex. xAI designer released this grok bot motion design harness turns your grok bots into a premier motion design studio.\n\nthis is unreal…\n\nsend it to Grok Bot, and thank me later. Then read the full roadmap with examples below.",
+      "postedAt": "2026-11-08T12:56:38.000Z",
+      "metrics": {
+        "replies": 5,
+        "reposts": 0,
+        "likes": 33,
+        "views": 702
       },
       "topic": "reviews"
     },
@@ -486,13 +598,13 @@
       "url": "https://x.com/ai_manabu_annai/status/2119296655799259520",
       "author": "ai_manabu_annai",
       "authorName": "AIを学ぶ人の教材案内",
-      "text": "注意は2つ。①Gemini Sparkは有料プラン（Google AI Pro 月2,900円〜、販売ページの記載）が必要。②個人のGoogleアカウント限定で、会社・学校のアカウントでは今は使えません。",
+      "text": "注意は2つ。\n①Gemini Sparkは有料プラン（Google AI Pro 月2,900円〜、販売ページの記載）が必要。\n②個人のGoogleアカウント限定で、会社・学校のアカウントでは今は使えません。",
       "postedAt": "2026-11-08T05:11:12.000Z",
       "metrics": {
         "replies": 1,
         "reposts": 0,
         "likes": 0,
-        "views": 2
+        "views": 4
       },
       "topic": "pricing"
     },
@@ -502,7 +614,7 @@
       "url": "https://x.com/fajarsentosabuz/status/2119271838316712376",
       "author": "fajarsentosabuz",
       "authorName": "Fajar Sentosa",
-      "text": "i know the gemini 4 argon is really strong model, but man the combination with gemini spark really surprise me.\n\nI thought gemini spark use only for a light task like make apppoitment, but it can actually 2 shot this video.\n\nThe usage is horrendous tho",
+      "text": "i know the gemini 4 argon is really strong model, but man the combination with gemini spark really surprise me.\n\ni thought gemini spark use only for a light task like make apppoitment, but it can actually 2 shot this video.\n\nThe usage is horrendous tho",
       "postedAt": "2026-11-08T03:32:35.000Z",
       "metrics": {
         "replies": 1,
@@ -518,7 +630,7 @@
       "url": "https://x.com/aiupdatetoday/status/2119244556244033944",
       "author": "aiupdatetoday",
       "authorName": "AI Update Today",
-      "text": "OpenAI Dots can now fill email sign-in codes\n- Reads codes from a connected inbox and logs in for you\n- When prompted, allow once or always let it fill the code\n- Try it in ChatGPT Dots (Pro or Business Premium)",
+      "text": "OpenAI Dots can now fill email sign-in codes\n- Reads codes from a connected inbox and logs in for you\n- When prompted, allow once or always let it fill the code\n- Try it in ChatGPT Dots (Pro or Business Premium)\n\nDoes this unblock more sign-up flows?",
       "postedAt": "2026-11-08T01:44:10.000Z",
       "metrics": {
         "replies": 0,
@@ -2165,99 +2277,6 @@
         "views": 37804
       },
       "topic": "partnership"
-    },
-    {
-      "id": "2116889241766842792",
-      "product": "muse",
-      "url": "https://x.com/StockSavvyShay/status/2116889241766842792",
-      "author": "StockSavvyShay",
-      "authorName": "Shay Boloor",
-      "text": "[translated] AMD EPYC processors already power $META's Muse agents; Helios systems and custom Instinct at Meta...",
-      "postedAt": "2026-11-01T13:44:59.000Z",
-      "metrics": {
-        "replies": 41,
-        "reposts": 79,
-        "likes": 582,
-        "views": 53138
-      },
-      "topic": "partnership"
-    },
-    {
-      "id": "2116865018520104980",
-      "product": "spark",
-      "url": "https://x.com/botzero_net/status/2116865018520104980",
-      "author": "botzero_net",
-      "authorName": "Botzero",
-      "text": "You nailed it. But you left out Gemini Spark, which went over so well they renamed it to \"task tab.\"",
-      "postedAt": "2026-11-01T12:08:44.000Z",
-      "topic": "launch"
-    },
-    {
-      "id": "2116864025317572705",
-      "product": "spark",
-      "url": "https://x.com/aira4ai/status/2116864025317572705",
-      "author": "aira4ai",
-      "authorName": "あいら",
-      "text": "Gemini Sparkで毎朝AIニュースを届けてもらってたのに、最近来ないと思ったらタスクごと見当たらない。",
-      "postedAt": "2026-11-01T12:04:47.000Z",
-      "topic": "reviews"
-    },
-    {
-      "id": "2116804618424570170",
-      "product": "spark",
-      "url": "https://x.com/tk_gadget_life/status/2116804618424570170",
-      "author": "tk_gadget_life",
-      "authorName": "tk@ガジェットブログ",
-      "text": "AI開発の監査でGemini Sparkを使っていたけど...同じ監査をMuseにやらせてみた。今回の単一結果ではMuseの方が主査向き",
-      "postedAt": "2026-11-01T08:08:44.000Z",
-      "topic": "reviews"
-    },
-    {
-      "id": "2116772541834330537",
-      "product": "spark",
-      "url": "https://x.com/joellatto/status/2116772541834330537",
-      "author": "joellatto",
-      "authorName": "Joel Latto",
-      "text": "Didn't even remember Gemini Spark exists.",
-      "postedAt": "2026-11-01T06:01:16.000Z",
-      "metrics": {
-        "replies": 1,
-        "likes": 1,
-        "views": 77
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2116708293901205698",
-      "product": "grok",
-      "url": "https://x.com/BrianRoemmele/status/2116708293901205698",
-      "author": "BrianRoemmele",
-      "authorName": "Brian Roemmele",
-      "text": "[translated] I've tested all the major 'bot' platforms and the winner is clear. @Grok @Bot wins on every aspect... read my exclusive analysis below.",
-      "postedAt": "2026-11-01T01:45:58.000Z",
-      "metrics": {
-        "replies": 123,
-        "reposts": 190,
-        "likes": 1220,
-        "views": 331675
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2116686421214085169",
-      "product": "muse",
-      "url": "https://x.com/tanep3/status/2116686421214085169",
-      "author": "tanep3",
-      "authorName": "Tane Channel",
-      "text": "ChatGPT dotsに月100ドル払っているが、無料のMeta Museでもほぼ同じことができる。PC連携やコーディングは違うが、Facebook・Instagram・Threadsを読めてGrokのように時事検索もできる。",
-      "postedAt": "2026-11-01T00:19:03.000Z",
-      "metrics": {
-        "replies": 3,
-        "reposts": 2,
-        "likes": 15,
-        "views": 726
-      },
-      "topic": "reviews"
     }
   ]
 }
