@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T00:22:42.078Z",
+  "updatedAt": "2026-11-11T08:24:20.826Z",
   "items": [
     {
       "id": "2120302407863439809",
@@ -18,6 +18,22 @@
       "topic": "launch"
     },
     {
+      "id": "2120205679705076200",
+      "product": "grok",
+      "url": "https://x.com/1920web1080/status/2120205679705076200",
+      "author": "1920web1080",
+      "authorName": "cat.png",
+      "text": "HOLY F*CK! 10,000+ READY-MADE GROK BOT TEMPLATES ARE SITTING ON GITHUB. HERE ARE THE 10 LIBRARIES\n\nforget building bots from zero. someone already made a bot for your job.\n\nevery library below links to real marketplace templates you can add to your own grok bot.",
+      "postedAt": "2026-11-10T17:23:20.000Z",
+      "metrics": {
+        "replies": 20,
+        "reposts": 15,
+        "likes": 134,
+        "views": 9940
+      },
+      "topic": "launch"
+    },
+    {
       "id": "2120184557647351976",
       "product": "dots",
       "url": "https://x.com/piotrparzyszek_/status/2120184557647351976",
@@ -29,7 +45,7 @@
         "replies": 1,
         "reposts": 0,
         "likes": 13,
-        "views": 1311
+        "views": 1881
       },
       "topic": "launch"
     },
@@ -93,7 +109,7 @@
         "replies": 0,
         "reposts": 0,
         "likes": 0,
-        "views": 101
+        "views": 105
       },
       "topic": "launch"
     },
@@ -103,13 +119,13 @@
       "url": "https://x.com/nxtday/status/2119978397174767617",
       "author": "nxtday",
       "authorName": "NXTDAY",
-      "text": "Meta just brought Muse Ember to Google Cloud, along with Muse Wonder and Muse Spark 1.3. ☁️\n\nPer @AIatMeta and Mark Zuckerberg on Nov 9, all three are now available on Google Cloud.\n\nGoogle Cloud docs list them as Preview managed APIs in Model Garden.",
+      "text": "Meta just brought Muse Ember to Google Cloud, along with Muse Wonder and Muse Spark 1.3. ☁️\n\nPer @AIatMeta and Mark Zuckerberg on Nov 9, all three are now available on Google Cloud.",
       "postedAt": "2026-11-10T02:20:11.000Z",
       "metrics": {
         "replies": 0,
         "reposts": 0,
         "likes": 1,
-        "views": 70
+        "views": 71
       },
       "topic": "partnership"
     },
@@ -215,13 +231,13 @@
       "url": "https://x.com/YounginLee12/status/2119880755069505781",
       "author": "YounginLee12",
       "authorName": "Youngin Lee",
-      "text": "Grok Bot 주간 한도를 초기화했다고 공식 계정이 밝혔습니다.\n\n• 대상: 모든 Grok Bot 사용자\n• 게시: @bot 공식 계정\n• 시각: 2026-11-10 04:17 KST\n• 원문: \"We've reset weekly limits for all Grok Bot users. Enjoy!\"\n• 원인·세부 범위 등 원문에 없는 내용은 생략\n\n출처: @bot 공식 X, 확인 https://t.co/q6R37PRY2F https://t.co/BBuaDEniVY",
+      "text": "Grok Bot 주간 한도를 초기화했다고 공식 계정이 밝혔습니다.\n\n• 대상: 모든 Grok Bot 사용자\n• 게시: @bot 공식 계정\n• 시각: 2026-11-10 04:17 KST\n• 원문: \"We've reset weekly limits for all Grok Bot users. Enjoy!\"",
       "postedAt": "2026-11-09T19:52:12.000Z",
       "metrics": {
         "replies": 1,
-        "reposts": 0,
-        "likes": 2,
-        "views": 49
+        "reposts": 1,
+        "likes": 4,
+        "views": 75
       },
       "topic": "pricing"
     },
@@ -295,13 +311,13 @@
       "url": "https://x.com/sepihsn/status/2119782545353273500",
       "author": "sepihsn",
       "authorName": "Seyed Sepehr Hosseini",
-      "text": "Everyone is saying Grok Bot limits were reset. But where? Musk never announced a reset. On Nov 1 he said serving Grok Bot was \"unsustainably high\" in cost. On Nov 8 he promised token efficiency fixes. My Grok Bot limit hasn't changed at all. So what actually got reset?\n\n#GrokBot https://t.co/Ld1N8NgLR9",
+      "text": "Everyone is saying Grok Bot limits were reset. But where? Musk never announced a reset. On Nov 1 he said serving Grok Bot was \"unsustainably high\" in cost. On Nov 8 he promised token efficiency fixes. My Grok Bot limit hasn't changed at all. So what actually got reset?\n\n#GrokBot",
       "postedAt": "2026-11-09T13:21:57.000Z",
       "metrics": {
-        "replies": 11,
+        "replies": 14,
         "reposts": 0,
         "likes": 11,
-        "views": 1627
+        "views": 1709
       },
       "topic": "pricing"
     },
@@ -333,7 +349,7 @@
         "replies": 0,
         "reposts": 0,
         "likes": 0,
-        "views": 41
+        "views": 42
       },
       "topic": "reviews"
     },
@@ -401,6 +417,22 @@
       "topic": "reviews"
     },
     {
+      "id": "2119512896673620013",
+      "product": "grok",
+      "url": "https://x.com/GrokBotUses/status/2119512896673620013",
+      "author": "GrokBotUses",
+      "authorName": "Grok Bot Uses",
+      "text": "🤖 Grok Bot Tip\n\nThe Grok Bot team says it rebuilt its own customer support around Grok Bot. Here's a way to try the same setup, with every reply approved by you.\n\nThe full prompt is in the first comment 👇\n\n#GrokBot #AI",
+      "postedAt": "2026-11-08T19:30:27.000Z",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 0,
+        "views": 10
+      },
+      "topic": "reviews"
+    },
+    {
       "id": "2119490319347847597",
       "product": "muse",
       "url": "https://x.com/Qubax_Ai/status/2119490319347847597",
@@ -460,7 +492,7 @@
         "replies": 0,
         "reposts": 0,
         "likes": 0,
-        "views": 184
+        "views": 186
       },
       "topic": "regulation"
     },
@@ -588,7 +620,7 @@
         "replies": 0,
         "reposts": 0,
         "likes": 0,
-        "views": 55
+        "views": 58
       },
       "topic": "regulation"
     },
@@ -614,7 +646,7 @@
       "url": "https://x.com/fajarsentosabuz/status/2119271838316712376",
       "author": "fajarsentosabuz",
       "authorName": "Fajar Sentosa",
-      "text": "i know the gemini 4 argon is really strong model, but man the combination with gemini spark really surprise me.\n\ni thought gemini spark use only for a light task like make apppoitment, but it can actually 2 shot this video.\n\nThe usage is horrendous tho",
+      "text": "i know the gemini 4 argon is really strong model, but man the combination with gemini spark really surprise me.\n\nI thought gemini spark use only for a light task like make apppoitment, but it can actually 2 shot this video.\n\nThe usage is horrendous tho",
       "postedAt": "2026-11-08T03:32:35.000Z",
       "metrics": {
         "replies": 1,
@@ -652,7 +684,7 @@
         "replies": 0,
         "reposts": 1,
         "likes": 0,
-        "views": 147
+        "views": 149
       },
       "topic": "partnership"
     },
@@ -2251,32 +2283,6 @@
         "views": 1828140
       },
       "topic": "pricing"
-    },
-    {
-      "id": "2116976695530111373",
-      "product": "spark",
-      "url": "https://x.com/mv_ads/status/2116976695530111373",
-      "author": "mv_ads",
-      "authorName": "Marcos Vinícius | Ads - Lead Generation",
-      "text": "50 days later, Grok @bot is way better now. Meanwhile, Gemini Spark is already gone at least as the brand.",
-      "postedAt": "2026-11-01T19:32:30.000Z",
-      "topic": "launch"
-    },
-    {
-      "id": "2116937238722625816",
-      "product": "muse",
-      "url": "https://x.com/StockSavvyShay/status/2116937238722625816",
-      "author": "StockSavvyShay",
-      "authorName": "Shay Boloor",
-      "text": "[translated] UBS models $META Muse with only 3M daily users; AMD EPYC chip count depends on concurrent agents and CPU sharing (base case ~3,000 chips)...",
-      "postedAt": "2026-11-01T16:55:43.000Z",
-      "metrics": {
-        "replies": 35,
-        "reposts": 25,
-        "likes": 213,
-        "views": 37804
-      },
-      "topic": "partnership"
     }
   ]
 }
