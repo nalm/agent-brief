@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T08:24:20.826Z",
+  "updatedAt": "2026-11-12T00:22:31.280Z",
   "items": [
     {
       "id": "2120302407863439809",
@@ -38,16 +38,32 @@
       "product": "dots",
       "url": "https://x.com/piotrparzyszek_/status/2120184557647351976",
       "author": "piotrparzyszek_",
-      "authorName": "Piotr Parzyszek",
-      "text": "OpenAI Dots umożliwia od teraz jednemu agentowi równoległe zarządzanie wieloma maszynami i środowiskami operacyjnymi.\n\nModel nie ogranicza się do jednego terminala: potrafi jednocześnie wydawać polecenia na kilku odrębnych serwerach, koordynować transfery danych i reagować na",
+      "authorName": "piotrparzyszek_",
+      "text": "OpenAI Dots umożliwia od teraz jednemu agentowi równoległe zarządzanie wieloma maszynami i środowiskami operacyjnymi.\n\nModel nie ogranicza się do jednego terminala: potrafi jednocześnie wydawać polecenia na kilku odrębnych serwerach, koordynować transfery danych i reagować na https://t.co/QdCzEWE42E",
       "postedAt": "2026-11-10T15:59:24.000Z",
       "metrics": {
         "replies": 1,
         "reposts": 0,
-        "likes": 13,
-        "views": 1881
+        "likes": 14,
+        "views": 2430
       },
       "topic": "launch"
+    },
+    {
+      "id": "2120181531172114499",
+      "product": "grok",
+      "url": "https://x.com/rasaljaya/status/2120181531172114499",
+      "author": "rasaljaya",
+      "authorName": "rasaljaya",
+      "text": "Grok Bot meetups are popping up across Asia 🌏 \n\n🇱🇰 Grok Bot Meetup Kandy - https://t.co/mySpVpUpee\n🇹🇷 Grok Bot Meetup Istanbul - https://t.co/PmZ3jS0Yot\n🇯🇵 Grok Bot Meetup Sapporo - https://t.co/ABIIkPOqLP\n🇧🇹 Grok Bot Meetup Thimphu - https://t.co/EzJpax7Lvr\n🇨🇳 Grok Bot Meetup",
+      "postedAt": "2026-11-10T15:47:22.000Z",
+      "metrics": {
+        "replies": 3,
+        "reposts": 0,
+        "likes": 8,
+        "views": 263
+      },
+      "topic": "partnership"
     },
     {
       "id": "2120132015253074427",
@@ -114,6 +130,22 @@
       "topic": "launch"
     },
     {
+      "id": "2119978941637361979",
+      "product": "muse",
+      "url": "https://x.com/ShakhzodR93267/status/2119978941637361979",
+      "author": "ShakhzodR93267",
+      "authorName": "ShakhzodR93267",
+      "text": "Google Cloud 🤝 Meta\n\nMuse Ember, Muse Wonder and Muse Spark 1.3 are now available on Google Cloud in preview.\n\nAvengers now have Muse 🫡🔥 https://t.co/MyM5DgeSca",
+      "postedAt": "2026-11-10T02:22:21.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2,
+        "views": 18
+      },
+      "topic": "partnership"
+    },
+    {
       "id": "2119978397174767617",
       "product": "muse",
       "url": "https://x.com/nxtday/status/2119978397174767617",
@@ -166,14 +198,14 @@
       "product": "muse",
       "url": "https://x.com/MikeLongTerm/status/2119913605789622410",
       "author": "MikeLongTerm",
-      "authorName": "Mike",
-      "text": "$AMD | $META @Muse Ember, Muse Spark 1.3, & Muse Wonder are now available on $GOOGL @googlecloud 👀",
+      "authorName": "MikeLongTerm",
+      "text": "$AMD | $META @Muse Ember, Muse Spark 1.3, &amp; Muse Wonder are now available on $GOOGL @googlecloud 👀 https://t.co/CsEa30IBD6 https://t.co/eDUfJIz8ty",
       "postedAt": "2026-11-09T22:02:44.000Z",
       "metrics": {
         "replies": 0,
         "reposts": 1,
         "likes": 15,
-        "views": 1981
+        "views": 2024
       },
       "topic": "partnership"
     },
@@ -190,6 +222,22 @@
         "reposts": 0,
         "likes": 0,
         "views": 16
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2119900843046510819",
+      "product": "spark",
+      "url": "https://x.com/thatsdyynamic/status/2119900843046510819",
+      "author": "thatsdyynamic",
+      "authorName": "thatsdyynamic",
+      "text": "gng what happened to gemini spark. does anyone use it?",
+      "postedAt": "2026-11-09T21:12:01.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1,
+        "views": 11
       },
       "topic": "reviews"
     },
@@ -278,14 +326,14 @@
       "product": "spark",
       "url": "https://x.com/MichaelM_117/status/2119868695543775435",
       "author": "MichaelM_117",
-      "authorName": "Michael M",
+      "authorName": "MichaelM_117",
       "text": "@ConnorTalksAI @grok  didn't Google already kill Gemini Spark? And if so, why?",
       "postedAt": "2026-11-09T19:04:16.000Z",
       "metrics": {
         "replies": 1,
         "reposts": 0,
         "likes": 0,
-        "views": 273
+        "views": 275
       },
       "topic": "reviews"
     },
@@ -342,14 +390,14 @@
       "product": "dots",
       "url": "https://x.com/shrchauhan97/status/2119706839315345784",
       "author": "shrchauhan97",
-      "authorName": "Shaurya Chauhan",
+      "authorName": "shrchauhan97",
       "text": "Fire whoever you worked on @OpenAI dots ts unusuable man",
       "postedAt": "2026-11-09T08:21:07.000Z",
       "metrics": {
         "replies": 0,
         "reposts": 0,
         "likes": 0,
-        "views": 42
+        "views": 47
       },
       "topic": "reviews"
     },
@@ -384,6 +432,22 @@
         "views": 111
       },
       "topic": "reviews"
+    },
+    {
+      "id": "2119625029180617171",
+      "product": "grok",
+      "url": "https://x.com/dropy50/status/2119625029180617171",
+      "author": "dropy50",
+      "authorName": "dropy50",
+      "text": "هجرة من Grok Bot إلى Hermes: روتيناتك ومهاراتك وذكرياتك في أمر واحد 🔄\n\n• أطلقت Hermes أمر الترحيل (hermes migrate grok-bot) لنقل الروتينات والمهارات والذاكرة وقواعد البوت من Grok Bot.\n• روتيناتك تصبح مهام (cron) في Hermes، موقوفة حتى تكون جاهزاً.\n• تطبيقات Grok Bot التي تحمل https://t.co/6XqLn5CCcx",
+      "postedAt": "2026-11-09T02:56:02.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1,
+        "views": 38
+      },
+      "topic": "launch"
     },
     {
       "id": "2119624894933873073",
@@ -2219,70 +2283,6 @@
       "text": "I have not found grok bot to be better then ChatGPT dots. I tried it for a week and the output wasn't as good.",
       "postedAt": "2026-11-01T22:36:49.000Z",
       "topic": "reviews"
-    },
-    {
-      "id": "2117004709198475365",
-      "product": "grok",
-      "url": "https://x.com/poteto/status/2117004709198475365",
-      "author": "poteto",
-      "authorName": "lauren",
-      "text": "[translated] Day 28 / tibo's game has landed. Spent $5.99 on the domain, but built it with grok bot and cursor and had a lot of fun! ... playable inside X.",
-      "postedAt": "2026-11-01T21:23:49.000Z",
-      "metrics": {
-        "replies": 738,
-        "reposts": 695,
-        "likes": 5870,
-        "views": 318933
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2116999470437339364",
-      "product": "grok",
-      "url": "https://x.com/EXM7777/status/2116999470437339364",
-      "author": "EXM7777",
-      "authorName": "EXM",
-      "text": "[translated] grok bot templates are a great example of a feature that doubles as a distribution mechanism... easy copy+paste to add modules to your setup.",
-      "postedAt": "2026-11-01T21:03:00.000Z",
-      "metrics": {
-        "replies": 40,
-        "reposts": 56,
-        "likes": 385,
-        "views": 106243
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2116992258520064397",
-      "product": "grok",
-      "url": "https://x.com/elonmusk/status/2116992258520064397",
-      "author": "elonmusk",
-      "authorName": "Elon Musk",
-      "text": "Grok 봇을 운영하는 비용이 수익 대비 지속 불가능할 정도로 높았습니다.",
-      "postedAt": "2026-11-01T20:34:20.000Z",
-      "metrics": {
-        "replies": 3964,
-        "reposts": 3712,
-        "likes": 17720,
-        "views": 11320819
-      },
-      "topic": "pricing"
-    },
-    {
-      "id": "2116986414110007446",
-      "product": "grok",
-      "url": "https://x.com/DogecoinNorway/status/2116986414110007446",
-      "author": "DogecoinNorway",
-      "authorName": "Doge Norway",
-      "text": "@xelonmusk 님, Grok 봇 초기화 가능성 좀 있나요? 이번 주에 많은 사람들이 사용량이 정말 빨리 소진됐다고 하네요.",
-      "postedAt": "2026-11-01T20:11:07.000Z",
-      "metrics": {
-        "replies": 259,
-        "reposts": 117,
-        "likes": 3040,
-        "views": 1828140
-      },
-      "topic": "pricing"
     }
   ]
 }
