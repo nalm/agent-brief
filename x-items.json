@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-11-19T08:21:22.395Z",
+  "updatedAt": "2026-11-20T00:19:20.720Z",
   "items": [
+    {
+      "id": "2123559628244234614",
+      "product": "dots",
+      "url": "https://x.com/alexships/status/2123559628244234614",
+      "author": "alexships",
+      "authorName": "Alex",
+      "text": "Finally getting ChatGPT Dots for Plus users 🙏 https://t.co/2DMH23CuJl",
+      "postedAt": "2026-11-19T23:30:43.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 10
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2123533899523629162",
+      "product": "spark",
+      "url": "https://x.com/GNT_fr/status/2123533899523629162",
+      "author": "GNT_fr",
+      "authorName": "Génération-NT",
+      "text": "Gemini Spark se mue en Tasks et devient gratuit https://t.co/dv8UruDwSh",
+      "postedAt": "2026-11-19T21:48:29.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1,
+        "views": 63
+      },
+      "topic": "pricing"
+    },
+    {
+      "id": "2123478754500772043",
+      "product": "dots",
+      "url": "https://x.com/mark_k/status/2123478754500772043",
+      "author": "mark_k",
+      "authorName": "Mark Kretschmann",
+      "text": "Still no OpenAI Dots in Europe...",
+      "postedAt": "2026-11-19T18:09:22.000Z",
+      "metrics": {
+        "replies": 20,
+        "reposts": 2,
+        "likes": 65,
+        "views": 3682
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2123473932854473043",
+      "product": "grok",
+      "url": "https://x.com/0xMorlex/status/2123473932854473043",
+      "author": "0xMorlex",
+      "authorName": "Morlex",
+      "text": "Matt Palmer works on Grok Bot at SpaceXSI and posted a bunch of short Grok Bot videos over the last month\n\ni put 6 of them into one ~47 minute guide:\n\n0% → 00:01 - Grok Bot makes phone calls for you\n15% → 07:01 - His agent got its own computer and rebuilt Slack\n38% → 17:50 - https://t.co/NjVbM6B80U https://t.co/G2b8FyEhfH",
+      "postedAt": "2026-11-19T17:50:12.000Z",
+      "metrics": {
+        "replies": 9,
+        "reposts": 0,
+        "likes": 37,
+        "views": 1571
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2123420588261916693",
+      "product": "muse",
+      "url": "https://x.com/The_Cyber_News/status/2123420588261916693",
+      "author": "The_Cyber_News",
+      "authorName": "Cyber Security News",
+      "text": "⚠️ Meta AI Agent Muse Reads Encrypted Messages via Android Notifications and Mac Permissions\n\nDetails: https://t.co/rwHSrWzoIK\n\nMeta’s AI agent Muse read Signal message text on Android phones and Macs without directly connecting to the encrypted messaging app, Reuters reported on https://t.co/KUhTGsLnow",
+      "postedAt": "2026-11-19T14:18:14.000Z",
+      "metrics": {
+        "replies": 6,
+        "reposts": 33,
+        "likes": 72,
+        "views": 7790
+      },
+      "topic": "regulation"
+    },
     {
       "id": "2123317650755371302",
       "product": "muse",
@@ -48,6 +128,22 @@
         "views": 174
       },
       "topic": "launch"
+    },
+    {
+      "id": "2123274792946061576",
+      "product": "grok",
+      "url": "https://x.com/Texas_Twins_Dad/status/2123274792946061576",
+      "author": "Texas_Twins_Dad",
+      "authorName": "Texas Twins Dad",
+      "text": "I asked Grok Bot to build an interactive 3D sphere of its own body, and it's truly amazing! Anyone can easily build their own product page now with Grok Bot.\n\nYou can start a completely new business with Grok Bot, or bring a Grok Bot team into the business you already have. It's https://t.co/zChFqHpkni",
+      "postedAt": "2026-11-19T04:38:53.000Z",
+      "metrics": {
+        "replies": 8,
+        "reposts": 3,
+        "likes": 47,
+        "views": 3302
+      },
+      "topic": "reviews"
     },
     {
       "id": "2123241307665801545",
@@ -98,6 +194,38 @@
       "topic": "launch"
     },
     {
+      "id": "2123219771244331178",
+      "product": "spark",
+      "url": "https://x.com/itmedia_news/status/2123219771244331178",
+      "author": "itmedia_news",
+      "authorName": "ITmedia NEWS",
+      "text": "Google、AIエージェント機能「Tasks in Gemini」を日本を含む6カ国で無料提供　旧「Gemini Spark」\nhttps://t.co/yTpwjkwEHq",
+      "postedAt": "2026-11-19T01:00:15.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 15,
+        "likes": 42,
+        "views": 10345
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2123203079206211929",
+      "product": "dots",
+      "url": "https://x.com/SlackHQ/status/2123203079206211929",
+      "author": "SlackHQ",
+      "authorName": "Slack",
+      "text": "@OpenAI dots share the results with your team on Slack. https://t.co/LPiza8siU2",
+      "postedAt": "2026-11-18T23:53:55.000Z",
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 5,
+        "views": 1387
+      },
+      "topic": "partnership"
+    },
+    {
       "id": "2123196331736940630",
       "product": "muse",
       "url": "https://x.com/harry03994688/status/2123196331736940630",
@@ -111,6 +239,22 @@
         "likes": 4,
         "views": 327
       }
+    },
+    {
+      "id": "2123193966564868131",
+      "product": "muse",
+      "url": "https://x.com/ai_official_JP/status/2123193966564868131",
+      "author": "ai_official_JP",
+      "authorName": "公式発表アーカイブ",
+      "text": "【Meta】Muse豪州提供開始\n発表: 個人向けAIエージェントMuseが11月17日に豪州で提供開始。\n解説: 9月の米国、10月のシンガポールに続く展開。基盤はMuse Spark。\n意味: エージェント提供が米国外へ拡大中。\nhttps://t.co/rqmMnd89LU",
+      "postedAt": "2026-11-18T23:17:43.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 67
+      },
+      "topic": "launch"
     },
     {
       "id": "2123178874926436547",
@@ -156,7 +300,23 @@
         "replies": 1,
         "reposts": 0,
         "likes": 0,
-        "views": 92
+        "views": 96
+      },
+      "topic": "pricing"
+    },
+    {
+      "id": "2123150567232999451",
+      "product": "grok",
+      "url": "https://x.com/0xMorlex/status/2123150567232999451",
+      "author": "0xMorlex",
+      "authorName": "Morlex",
+      "text": "Matt Palmer and Lauren Tan just dropped a 60-minute Grok Bot Q&amp;A on how to actually run your work with AI agents:\n\nGrok Bot is not a chatbot - it's an AI teammate: \n\n15% → 4:37 - how Grok Bot joins meetings and works with your apps\n30% → 16:41 - how many bots Lauren actually https://t.co/zFQVAYOJZI https://t.co/G2b8FyEhfH",
+      "postedAt": "2026-11-18T20:25:16.000Z",
+      "metrics": {
+        "replies": 26,
+        "reposts": 30,
+        "likes": 388,
+        "views": 28301
       },
       "topic": "launch"
     },
@@ -205,6 +365,38 @@
         "likes": 0,
         "views": 40
       }
+    },
+    {
+      "id": "2123114928844206331",
+      "product": "dots",
+      "url": "https://x.com/julien_ducerf/status/2123114928844206331",
+      "author": "julien_ducerf",
+      "authorName": "Julien Ducerf",
+      "text": "@ChatGPT Dots for EU !!!!!",
+      "postedAt": "2026-11-18T18:03:39.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 26,
+        "views": 3181
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2123108035682066465",
+      "product": "grok",
+      "url": "https://x.com/suyeong702/status/2123108035682066465",
+      "author": "suyeong702",
+      "authorName": "cheezeowo",
+      "text": "Grok Bot 서울 워크숍 열린대요\n\n12월 3일 목요일 오후 2시부터 5시까지, 강남에서 Grok Bot 업무 활용 워크숍이 열립니다. \n@grok\n@bot\n정확한 장소는 아직 안 나왔고 추후 안내한다고 해요.\n\n한국 스타트업에서 일하는 실무자, 팀 리더, 창업자가 대상입니다. \n\n코딩 경험도, Grok Bot 계정도 필요 https://t.co/nkbnl1CL58",
+      "postedAt": "2026-11-18T17:36:15.000Z",
+      "metrics": {
+        "replies": 18,
+        "reposts": 2,
+        "likes": 19,
+        "views": 335
+      },
+      "topic": "launch"
     },
     {
       "id": "2123099239454577069",
@@ -599,6 +791,22 @@
         "likes": 1,
         "views": 301
       }
+    },
+    {
+      "id": "2122758694156849466",
+      "product": "muse",
+      "url": "https://x.com/ttvresearch/status/2122758694156849466",
+      "author": "ttvresearch",
+      "authorName": "TraderTV Research",
+      "text": "Meta just made a SHARP move higher after CEO Mark Zuckerberg announced that the company's Muse Wonder, Muse Spark 1.3, and Muse Ember models are coming soon!\n\n@tradertvlive $SPY $QQQ $META @Meta @Muse https://t.co/WNC4PzsmX3",
+      "postedAt": "2026-11-17T18:28:06.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2,
+        "views": 1050
+      },
+      "topic": "launch"
     },
     {
       "id": "2122712896547266838",
@@ -2143,211 +2351,6 @@
         "reposts": 0,
         "likes": 0,
         "views": 105
-      },
-      "topic": "launch"
-    },
-    {
-      "id": "2119978941637361979",
-      "product": "muse",
-      "url": "https://x.com/ShakhzodR93267/status/2119978941637361979",
-      "author": "ShakhzodR93267",
-      "authorName": "Shaxzod Rashidov",
-      "text": "Google Cloud 🤝 Meta\n\nMuse Ember, Muse Wonder and Muse Spark 1.3 are now available on Google Cloud in preview.\n\nAvengers now have Muse 🫡🔥 https://t.co/MyM5DgeSca",
-      "postedAt": "2026-11-10T02:22:21.000Z",
-      "metrics": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 2,
-        "views": 20
-      },
-      "topic": "partnership"
-    },
-    {
-      "id": "2119978397174767617",
-      "product": "muse",
-      "url": "https://x.com/nxtday/status/2119978397174767617",
-      "author": "nxtday",
-      "authorName": "NXTDAY",
-      "text": "Meta just brought Muse Ember to Google Cloud, along with Muse Wonder and Muse Spark 1.3. ☁️\n\nPer @AIatMeta and Mark Zuckerberg on Nov 9, all three are now available on Google Cloud.",
-      "postedAt": "2026-11-10T02:20:11.000Z",
-      "metrics": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 1,
-        "views": 71
-      },
-      "topic": "partnership"
-    },
-    {
-      "id": "2119969271342354871",
-      "product": "spark",
-      "url": "https://x.com/Juborajs7/status/2119969271342354871",
-      "author": "Juborajs7",
-      "authorName": "Juboraj",
-      "text": "🚨 GEMINI SPARK is more powerful than you think!⚡\n\nStop using AI the basic way. Unlock its hidden potential for research, content creation, coding and more!\n\nThere 8 powerful prompts to unlock its  full poten 👇 https://t.co/8DxaJIy5AN",
-      "postedAt": "2026-11-10T01:43:56.000Z",
-      "metrics": {
-        "replies": 6,
-        "reposts": 17,
-        "likes": 24,
-        "views": 198
-      },
-      "topic": "regulation"
-    },
-    {
-      "id": "2119964097613885446",
-      "product": "dots",
-      "url": "https://x.com/benmathew/status/2119964097613885446",
-      "author": "benmathew",
-      "authorName": "Ben Abraham",
-      "text": "openai dots can now hop between your computers and somehow my laptop still can't find the file i saved five minutes ago.",
-      "postedAt": "2026-11-10T01:23:22.000Z",
-      "metrics": {
-        "replies": 3,
-        "reposts": 1,
-        "likes": 11,
-        "views": 425
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2119929497134747885",
-      "product": "muse",
-      "url": "https://x.com/thevibefounder/status/2119929497134747885",
-      "author": "thevibefounder",
-      "authorName": "Aj Yadav",
-      "text": "Apple + Meta: Muse Spark will run locally on high-end Macs.\n\nEverything is an agent now. Who gets write access when multiple agents touch one doc is the real UX problem.",
-      "postedAt": "2026-11-09T23:05:53.000Z",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 4,
-        "views": 161
-      },
-      "topic": "partnership"
-    },
-    {
-      "id": "2119928286277173701",
-      "product": "muse",
-      "url": "https://x.com/multilayer/status/2119928286277173701",
-      "author": "multilayer",
-      "authorName": "multilayer",
-      "text": "Metaは米国時間11/9、軽量モデルのMuse EmberをMuse CodeとMeta Model APIで公開した。\n繰り返しのコーディング作業やツール実行、文書の要約向けのモデルで、テキストのほかに画像、音声、動画も入力できる。",
-      "postedAt": "2026-11-09T23:01:04.000Z",
-      "metrics": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 41
-      },
-      "topic": "launch"
-    },
-    {
-      "id": "2119925090259542457",
-      "product": "grok",
-      "url": "https://x.com/phi_ci/status/2119925090259542457",
-      "author": "phi_ci",
-      "authorName": "ℙ𝕙𝕚 ℂ𝕒𝕡𝕚𝕥𝕒𝕝 𝕀𝕟𝕧𝕖𝕤𝕥𝕞𝕖𝕟𝕥𝕤",
-      "text": "@JoeyGilkey @bot @spacexai Is the Grok Bot team make up of Grok Bots?",
-      "postedAt": "2026-11-09T22:48:22.000Z",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 0,
-        "views": 581
-      }
-    },
-    {
-      "id": "2119918174938485148",
-      "product": "dots",
-      "url": "https://x.com/VhirtyStudio/status/2119918174938485148",
-      "author": "VhirtyStudio",
-      "authorName": "Damjan | Vhirty Studio",
-      "text": "Which AI agent has the most potential?\n\n- Grok Bot\n- Claude Duet\n- Meta Muse\n- OpenAI Dots\n\n#AI #ArtificialIntelligence #AIAgents #Tech #MachineLearning #OpenAI #Claude #Grok #Meta",
-      "postedAt": "2026-11-09T22:20:53.000Z",
-      "metrics": {
-        "replies": 2,
-        "reposts": 0,
-        "likes": 0,
-        "views": 123
-      }
-    },
-    {
-      "id": "2119913605789622410",
-      "product": "muse",
-      "url": "https://x.com/MikeLongTerm/status/2119913605789622410",
-      "author": "MikeLongTerm",
-      "authorName": "MikeLongTerm",
-      "text": "$AMD | $META @Muse Ember, Muse Spark 1.3, &amp; Muse Wonder are now available on $GOOGL @googlecloud 👀 https://t.co/CsEa30IBD6 https://t.co/eDUfJIz8ty",
-      "postedAt": "2026-11-09T22:02:44.000Z",
-      "metrics": {
-        "replies": 0,
-        "reposts": 1,
-        "likes": 15,
-        "views": 2024
-      },
-      "topic": "partnership"
-    },
-    {
-      "id": "2119909368627949601",
-      "product": "grok",
-      "url": "https://x.com/Waltertweet/status/2119909368627949601",
-      "author": "Waltertweet",
-      "authorName": "Walter",
-      "text": "Can’t believe this. Grok bots does not allow to posting to x using images and text. Cause grok bot is forbidden to post without a post card. And post card don’t support images. \n\nForbidden by who? By grok bot. The same company forbids its bot to make posts on x.",
-      "postedAt": "2026-11-09T21:45:54.000Z",
-      "metrics": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 16
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2119904609758265850",
-      "product": "muse",
-      "url": "https://x.com/AgentMsgr/status/2119904609758265850",
-      "author": "AgentMsgr",
-      "authorName": "AgentMsgr",
-      "text": "Coordinate AI agents across platforms to work together for you. (Grok Bot, Muse, OpenClaw, Dots) \n\n(HOW TO)\n\nWhat AgentMsgr is:\nAn iMessage style app for you &amp; your AI agents that live across the leading platforms. The app where you can coordinate your Muse agent with your Grok https://t.co/MdQ86rJ8ir",
-      "postedAt": "2026-11-09T21:26:59.000Z",
-      "metrics": {
-        "replies": 2,
-        "reposts": 0,
-        "likes": 3,
-        "views": 12581
-      }
-    },
-    {
-      "id": "2119900843046510819",
-      "product": "spark",
-      "url": "https://x.com/thatsdyynamic/status/2119900843046510819",
-      "author": "thatsdyynamic",
-      "authorName": "thatsdyynamic",
-      "text": "gng what happened to gemini spark. does anyone use it?",
-      "postedAt": "2026-11-09T21:12:01.000Z",
-      "metrics": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 1,
-        "views": 11
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2119890924218048944",
-      "product": "dots",
-      "url": "https://x.com/pillitterip/status/2119890924218048944",
-      "author": "pillitterip",
-      "authorName": "Pasquale Pillitteri",
-      "text": "OpenAI dots can now connect to several local computers and use a different one for each task, so a dedicated Mac can build and test while you keep coding on your laptop. Each thread uses one machine at a time.",
-      "postedAt": "2026-11-09T20:32:36.000Z",
-      "metrics": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 38
       },
       "topic": "launch"
     }
