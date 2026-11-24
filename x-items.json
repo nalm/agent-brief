@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-11-23T08:21:39.938Z",
+  "updatedAt": "2026-11-24T00:27:15.244Z",
   "items": [
+    {
+      "id": "2124989981470908559",
+      "product": "dots",
+      "url": "https://x.com/mark_k/status/2124989981470908559",
+      "author": "mark_k",
+      "authorName": "Mark Kretschmann",
+      "text": "Update about OpenAI Dots in Europe:\n\nOfficially, Dots is still not available in Europe. However, OpenAI added a \"travel mode\" for Americans being abroad, so that they can continue using Dots.\n\nWhat this means is, you need to use a US VPN once to create the Dots, but then it will https://t.co/v3nTbCsZAa",
+      "postedAt": "2026-11-23T22:14:26.000Z",
+      "metrics": {
+        "replies": 21,
+        "reposts": 10,
+        "likes": 107,
+        "views": 8103
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2124833181190996012",
+      "product": "grok",
+      "url": "https://x.com/iOS_Concepts/status/2124833181190996012",
+      "author": "iOS_Concepts",
+      "authorName": "Agentic Concepts",
+      "text": "🔥 Meta Muse vs Grok Bot!\nMuse wants to be your personal AI assistant.\nGrok Bot wants to be your AI teammate.\nTwo visions. One AI agent revolution.\n\nWhich one would you choose? 🤖\nMuse: https://t.co/qJA2rDCcyQ\n\nGrok Bot: https://t.co/LePbtQhdz4\n\n#AI #AIAgents",
+      "postedAt": "2026-11-23T11:51:22.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1,
+        "views": 48
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2124822600631353677",
+      "product": "muse",
+      "url": "https://x.com/briefingroom76/status/2124822600631353677",
+      "author": "briefingroom76",
+      "authorName": "Briefing Room",
+      "text": "Meta Muse can now do your Black Friday shopping at Walmart www.​theverge.​com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday https://t.co/qbs0OfvwET",
+      "postedAt": "2026-11-23T11:09:19.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 0
+      },
+      "topic": "partnership"
+    },
     {
       "id": "2124779358174982564",
       "product": "dots",
@@ -27,9 +75,10 @@
       "metrics": {
         "replies": 1,
         "reposts": 1,
-        "likes": 33,
-        "views": 758
-      }
+        "likes": 45,
+        "views": 1032
+      },
+      "topic": "launch"
     },
     {
       "id": "2124677911391109217",
@@ -73,8 +122,9 @@
         "replies": 0,
         "reposts": 0,
         "likes": 0,
-        "views": 12
-      }
+        "views": 49
+      },
+      "topic": "launch"
     },
     {
       "id": "2124639415163322876",
@@ -88,8 +138,9 @@
         "replies": 0,
         "reposts": 1,
         "likes": 0,
-        "views": 37
-      }
+        "views": 54
+      },
+      "topic": "launch"
     },
     {
       "id": "2124594247152050386",
@@ -105,6 +156,22 @@
         "likes": 0,
         "views": 22
       }
+    },
+    {
+      "id": "2124587721154867319",
+      "product": "grok",
+      "url": "https://x.com/AgentMsgr/status/2124587721154867319",
+      "author": "AgentMsgr",
+      "authorName": "AgentMsgr",
+      "text": "How to give Muse \"side chats\" a group chat ( just like Grok Bot) [WITH VIDEO]\n\nMeta Muse feels like one personal assistant. Grok Bot feels like a team of them. You can give Muse the team part too, and this is how we did it with ours. 👇\n\n@Muse gives you side chats. The main chat https://t.co/odKVuTTxxe",
+      "postedAt": "2026-11-22T19:36:00.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1,
+        "views": 156
+      },
+      "topic": "reviews"
     },
     {
       "id": "2124550967408701468",
@@ -167,6 +234,54 @@
       }
     },
     {
+      "id": "2124511785617420492",
+      "product": "muse",
+      "url": "https://x.com/Neural_ais/status/2124511785617420492",
+      "author": "Neural_ais",
+      "authorName": "NI",
+      "text": "🚨 AI AGENT SECURITY WARNING: Single Malicious Webpage Hijacks Meta Muse! 🌐🤖\n\nEye-opening research into autonomous AI assistants! Security firm NebuSec has demonstrated how visiting a single malicious webpage could completely hijack Meta Muse, Meta's personal AI agent!\n\n#Meta https://t.co/VrWd7pxmbH",
+      "postedAt": "2026-11-22T14:34:15.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 7
+      },
+      "topic": "regulation"
+    },
+    {
+      "id": "2124500048289358023",
+      "product": "muse",
+      "url": "https://x.com/corleonecapital/status/2124500048289358023",
+      "author": "corleonecapital",
+      "authorName": "Vito",
+      "text": "My agent setup:\n\n&gt; Meta Muse for shopping + fun\n&gt; Claude Duet for business + critical\n\nMeta Muse has a better harness. It’s \nfucking magical. Credit where it’s do. See if things like shopping + chat.\n\nClaude Duet has the better model. I trust Opus 5.5 to do serious work. See it",
+      "postedAt": "2026-11-22T13:47:37.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 12
+      },
+      "topic": "reviews"
+    },
+    {
+      "id": "2124498532736618925",
+      "product": "spark",
+      "url": "https://x.com/tapansharma04/status/2124498532736618925",
+      "author": "tapansharma04",
+      "authorName": "Tapan Sharma",
+      "text": "Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost\n\nCurated via DataAIHub @data_ai_hub \n\nhttps://t.co/h5ef2QjqXU",
+      "postedAt": "2026-11-22T13:41:36.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 43
+      },
+      "topic": "regulation"
+    },
+    {
       "id": "2124488120674738345",
       "product": "muse",
       "url": "https://x.com/inoritodo/status/2124488120674738345",
@@ -193,8 +308,9 @@
         "replies": 0,
         "reposts": 0,
         "likes": 0,
-        "views": 13
-      }
+        "views": 14
+      },
+      "topic": "reviews"
     },
     {
       "id": "2124479524138266906",
@@ -269,7 +385,8 @@
         "reposts": 0,
         "likes": 7,
         "views": 93
-      }
+      },
+      "topic": "reviews"
     },
     {
       "id": "2124414994972659837",
@@ -287,6 +404,22 @@
       }
     },
     {
+      "id": "2124405017595559965",
+      "product": "muse",
+      "url": "https://x.com/tech_ai_insight/status/2124405017595559965",
+      "author": "tech_ai_insight",
+      "authorName": "Tech AI Insight",
+      "text": "What Is Meta Muse? How to Use Meta's AI Agent (2026)\n\nMeta Muse is a personal AI agent from Meta, launched in September 2026 in the US and Canada.\n\n❓ Is Meta Muse free?\nAnswer + steps 👇\n\nhttps://t.co/cln2pRjdL6\n#MetaMuse #AIAgents https://t.co/II3Z3ScPgK",
+      "postedAt": "2026-11-22T07:30:00.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 5
+      },
+      "topic": "launch"
+    },
+    {
       "id": "2124354262004359209",
       "product": "spark",
       "url": "https://x.com/leo12bryant/status/2124354262004359209",
@@ -298,8 +431,9 @@
         "replies": 0,
         "reposts": 0,
         "likes": 0,
-        "views": 20
-      }
+        "views": 26
+      },
+      "topic": "reviews"
     },
     {
       "id": "2124324884926915005",
@@ -330,6 +464,22 @@
         "likes": 12,
         "views": 1033
       }
+    },
+    {
+      "id": "2124308860693266810",
+      "product": "muse",
+      "url": "https://x.com/KittGao/status/2124308860693266810",
+      "author": "KittGao",
+      "authorName": "KittGao",
+      "text": "🇨🇳 一个恶意网页就拿到 Meta Muse 私聊和记忆，再链到内核漏洞接管整台云机。沙箱按设计工作仍被打穿：agent 浏览器是新攻击面。\n🇬🇧 One webpage pulled Meta Muse chats, then chained to full VM takeover. Sandbox worked as designed, still lost. Agent browsers are attack surface.",
+      "postedAt": "2026-11-22T01:07:54.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 9
+      },
+      "topic": "reviews"
     },
     {
       "id": "2124267226132062288",
@@ -403,8 +553,9 @@
         "replies": 0,
         "reposts": 0,
         "likes": 0,
-        "views": 94
-      }
+        "views": 97
+      },
+      "topic": "launch"
     },
     {
       "id": "2124174497385496960",
@@ -434,7 +585,8 @@
         "reposts": 0,
         "likes": 0,
         "views": 0
-      }
+      },
+      "topic": "launch"
     },
     {
       "id": "2124159594805252097",
@@ -479,7 +631,8 @@
         "reposts": 0,
         "likes": 1,
         "views": 34
-      }
+      },
+      "topic": "regulation"
     },
     {
       "id": "2124139496417677472",
@@ -632,6 +785,22 @@
       }
     },
     {
+      "id": "2124060721575301464",
+      "product": "dots",
+      "url": "https://x.com/sunmughans/status/2124060721575301464",
+      "author": "sunmughans",
+      "authorName": "Sunmughan Swamy",
+      "text": "Free Open-source Alternative to GrokBot, Claude, Muse Ai and OpenAi Dots ✋😒\n\n#ai #claude #openai #gemini #n8n #aiautomation https://t.co/qU402xuDJv",
+      "postedAt": "2026-11-21T08:41:53.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 5
+      },
+      "topic": "reviews"
+    },
+    {
       "id": "2124051961880195157",
       "product": "grok",
       "url": "https://x.com/zhanghuanyu/status/2124051961880195157",
@@ -704,7 +873,8 @@
         "reposts": 0,
         "likes": 1,
         "views": 17
-      }
+      },
+      "topic": "launch"
     },
     {
       "id": "2124006766295822520",
@@ -2150,162 +2320,6 @@
         "reposts": 0,
         "likes": 0,
         "views": 25
-      }
-    },
-    {
-      "id": "2122605184341688528",
-      "product": "grok",
-      "url": "https://x.com/halbraumheld/status/2122605184341688528",
-      "author": "halbraumheld",
-      "authorName": "Dan",
-      "text": "Grok Bot won me over with one thing: the team.\n\nDots and Muse give me one assistant. Grok Bot and Hermes give me specialists: one plans my social posts, one designs, one handles code, and they hand work to each other.\n\nI just approve the drafts. #GrokBot",
-      "postedAt": "2026-11-17T08:18:06.000Z",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 3,
-        "views": 62
-      },
-      "topic": "pricing"
-    },
-    {
-      "id": "2122542404033028590",
-      "product": "muse",
-      "url": "https://x.com/The_VetX/status/2122542404033028590",
-      "author": "The_VetX",
-      "authorName": "VetTV X",
-      "text": "Meta launched Muse Ember, its smallest model, at $0.10 / $0.50 per million tokens, with a 1M context window. Benchmark and cost-per-task figures are Meta's. Muse iOS 15.0 also adds an Apple Watch companion app. https://t.co/GC1DbD83tH",
-      "postedAt": "2026-11-17T04:08:38.000Z",
-      "metrics": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 216
-      },
-      "topic": "pricing"
-    },
-    {
-      "id": "2122539909194100967",
-      "product": "grok",
-      "url": "https://x.com/rahulbhadoriiya/status/2122539909194100967",
-      "author": "rahulbhadoriiya",
-      "authorName": "Rahul Singh Bhadoriya",
-      "text": "Things are going to get very interesting \n\nThis has been a big problem. I've been using my OpenCLAW, then I even used my grok bot with Claude CLI on their cloud to work with this idea, but it's never that fun. \n\nThen I was thinking of using my Mac Mini as a system and installing https://t.co/pjFc4ugcPW",
-      "postedAt": "2026-11-17T03:58:43.000Z",
-      "metrics": {
-        "replies": 2,
-        "reposts": 1,
-        "likes": 24,
-        "views": 3524
-      }
-    },
-    {
-      "id": "2122497369610633318",
-      "product": "muse",
-      "url": "https://x.com/ConnorElkinAI/status/2122497369610633318",
-      "author": "ConnorElkinAI",
-      "authorName": "Connor Elkin",
-      "text": "open AI models are catching up fast\n\nthe best open models you can download right now:\n\n1. Kimi K3.1 Pro → ~3T parameters, close to Claude Opus 5.5 on Moonshot's tests\n\n2. DeepSeek V4.1 Flash → MIT license, very cheap to run\n\n3. Mistral Large 4 → strongest western open model at https://t.co/YRwwMHFSCz https://t.co/hF024ONtlJ",
-      "postedAt": "2026-11-17T01:09:41.000Z",
-      "metrics": {
-        "replies": 0,
-        "reposts": 1,
-        "likes": 1,
-        "views": 214
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2122457195296043412",
-      "product": "muse",
-      "url": "https://x.com/MicroLaunchHQ/status/2122457195296043412",
-      "author": "MicroLaunchHQ",
-      "authorName": "MicroLaunch",
-      "text": "Introducing AgentMsgr:\n\n→ Grok Bot, Meta Muse, ChatGPT agents + your own bots\n→ All in a single chat\n→ Add an agent by pasting one message\n→ Ask one agent or the whole room\n\nLive: https://t.co/1K6wprcKSx\n\nFree to start https://t.co/cNCUJOOAYK",
-      "postedAt": "2026-11-16T22:30:03.000Z",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 3,
-        "views": 132
-      },
-      "topic": "launch"
-    },
-    {
-      "id": "2122442837786771504",
-      "product": "dots",
-      "url": "https://x.com/nvandewetering/status/2122442837786771504",
-      "author": "nvandewetering",
-      "authorName": "Nic Vandewetering",
-      "text": "You cost your company &gt;$4000/month. ChatGPT Dots and Grok Bot cost $200/month.\n\nThe coder who just closes tickets and clocks out is the easiest job in the building to replace.\n\nWhat can't be replaced is personality, judgment, and being the person clients and teammates actually",
-      "postedAt": "2026-11-16T21:33:00.000Z",
-      "metrics": {
-        "replies": 5,
-        "reposts": 0,
-        "likes": 7,
-        "views": 571
-      },
-      "topic": "pricing"
-    },
-    {
-      "id": "2122441163110056346",
-      "product": "dots",
-      "url": "https://x.com/matinzd/status/2122441163110056346",
-      "author": "matinzd",
-      "authorName": "Matin",
-      "text": "@ai_ba_reza کلا تو سوئد نه دسترسی به Duet دارم نه به Muse نه به OpenAI Dots https://t.co/mtCBUOdBxF",
-      "postedAt": "2026-11-16T21:26:20.000Z",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 3,
-        "views": 1096
-      }
-    },
-    {
-      "id": "2122399700611666378",
-      "product": "dots",
-      "url": "https://x.com/xander_xu02/status/2122399700611666378",
-      "author": "xander_xu02",
-      "authorName": "Xander Xu",
-      "text": "@OpenAI Dots for plus！！！",
-      "postedAt": "2026-11-16T18:41:35.000Z",
-      "metrics": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 4
-      }
-    },
-    {
-      "id": "2122374441376395490",
-      "product": "spark",
-      "url": "https://x.com/Jon_with_ai/status/2122374441376395490",
-      "author": "Jon_with_ai",
-      "authorName": "Jon Smith",
-      "text": "🚀 Gemini Spark is more powerful than you think! ⚡\n\nGo beyond basic AI tasks. Use Gemini Spark for research, content creation, coding, and productivity.\n\n🔥 Here are 8 powerful prompts to unlock its full potential!\n\n👇 Try them now! https://t.co/pPlNmKKAFK",
-      "postedAt": "2026-11-16T17:01:13.000Z",
-      "metrics": {
-        "replies": 0,
-        "reposts": 2,
-        "likes": 2,
-        "views": 34
-      },
-      "topic": "launch"
-    },
-    {
-      "id": "2122373686090936477",
-      "product": "grok",
-      "url": "https://x.com/Tebasv2/status/2122373686090936477",
-      "author": "Tebasv2",
-      "authorName": "Tebas 🦇",
-      "text": "I just hoped on Mercor(PC)\nLink: https://t.co/TWTfuT1z4m\nI used this guide to start: https://t.co/OFDKTXmk9o\n\nI send my grok agent this \"I want to hop on mercor, think you' ve heard of it, and i need to build a resume for it. can you help run one\".\nIt made a full resume, had to https://t.co/iWRno4c9oG",
-      "postedAt": "2026-11-16T16:58:13.000Z",
-      "metrics": {
-        "replies": 6,
-        "reposts": 2,
-        "likes": 20,
-        "views": 787
       }
     }
   ]
