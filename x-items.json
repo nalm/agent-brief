@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-11-24T00:27:15.244Z",
+  "updatedAt": "2026-11-24T08:23:31.025Z",
   "items": [
+    {
+      "id": "2125087334307615001",
+      "product": "muse",
+      "url": "https://x.com/volkoslak/status/2125087334307615001",
+      "author": "volkoslak",
+      "authorName": "Rusalka",
+      "text": "Reuters: MetaMeta’s Muse read Signal messages &amp; invented purchases. Internal posts describe the Meta Muse agent reading Signal messages and posting bank balances unprompted. Meta calls them isolated incidents and says many were hallucinations it has fixed.\nhttps://t.co/sHGdVkLvG4",
+      "postedAt": "2026-11-24T04:41:17.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 14
+      },
+      "topic": "regulation"
+    },
+    {
+      "id": "2125058070715990309",
+      "product": "grok",
+      "url": "https://x.com/spcxGOD/status/2125058070715990309",
+      "author": "spcxGOD",
+      "authorName": "Panke",
+      "text": "Tonights Grok Bot digest, 24 Nov 2026\n\nAll the latest Grok Bot tips and alpha in one place. No need to look anywhere else.\n\n1. Elon: \"Grok Bot can find you Black Friday deals\"\n\n2. A couple's Grok Bot found 15 hotels for their wedding, emailed them, compared the offers and signed https://t.co/Zbav9caPYP https://t.co/ilFa4wTXB4",
+      "postedAt": "2026-11-24T02:45:00.000Z",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 5,
+        "views": 951
+      },
+      "topic": "launch"
+    },
     {
       "id": "2124989981470908559",
       "product": "dots",
@@ -16,6 +48,22 @@
         "views": 8103
       },
       "topic": "launch"
+    },
+    {
+      "id": "2124908196720443826",
+      "product": "dots",
+      "url": "https://x.com/dom_scholz/status/2124908196720443826",
+      "author": "dom_scholz",
+      "authorName": "Dominik Scholz",
+      "text": "lots of people asked for this:\n\nOpen Bot Avatars are fluffy now 🧸 \n(inspired by OpenAI's Dots design)\n\nturn your favorite avatar into a furry 👇 https://t.co/erF6Q7dkhU https://t.co/80PkkSi1ko",
+      "postedAt": "2026-11-23T16:49:27.000Z",
+      "metrics": {
+        "replies": 35,
+        "reposts": 18,
+        "likes": 454,
+        "views": 17202
+      },
+      "topic": "reviews"
     },
     {
       "id": "2124833181190996012",
@@ -215,8 +263,9 @@
         "replies": 0,
         "reposts": 0,
         "likes": 0,
-        "views": 34
-      }
+        "views": 45
+      },
+      "topic": "reviews"
     },
     {
       "id": "2124517162014454100",
@@ -277,9 +326,9 @@
         "replies": 0,
         "reposts": 0,
         "likes": 0,
-        "views": 43
+        "views": 44
       },
-      "topic": "regulation"
+      "topic": "reviews"
     },
     {
       "id": "2124488120674738345",
@@ -293,8 +342,9 @@
         "replies": 0,
         "reposts": 0,
         "likes": 0,
-        "views": 55
-      }
+        "views": 66
+      },
+      "topic": "pricing"
     },
     {
       "id": "2124483370734215213",
@@ -310,7 +360,7 @@
         "likes": 0,
         "views": 14
       },
-      "topic": "reviews"
+      "topic": "launch"
     },
     {
       "id": "2124479524138266906",
@@ -482,6 +532,22 @@
       "topic": "reviews"
     },
     {
+      "id": "2124278002473406699",
+      "product": "grok",
+      "url": "https://x.com/cradrrat/status/2124278002473406699",
+      "author": "cradrrat",
+      "authorName": "cradrrat",
+      "text": "\"Grok Bot is what made this whole event possible. My team set up Grok Bot across the board.\" Then he says his COO \"had a dozen Grok Bot agents\" and was running \"literally half of the lead up to this event on her own.\nGrok Bot can be used for so many applications - just ask your",
+      "postedAt": "2026-11-21T23:05:17.000Z",
+      "metrics": {
+        "replies": 3,
+        "reposts": 5,
+        "likes": 19,
+        "views": 1196
+      },
+      "topic": "reviews"
+    },
+    {
       "id": "2124267226132062288",
       "product": "grok",
       "url": "https://x.com/jeff11th/status/2124267226132062288",
@@ -520,11 +586,12 @@
       "text": "BREAKING: $META Muse agent now lives in a chrome sidebar",
       "postedAt": "2026-11-21T21:09:00.000Z",
       "metrics": {
-        "replies": 11,
+        "replies": 12,
         "reposts": 11,
-        "likes": 354,
-        "views": 18687
-      }
+        "likes": 357,
+        "views": 19249
+      },
+      "topic": "launch"
     },
     {
       "id": "2124215109195374678",
@@ -542,6 +609,22 @@
       }
     },
     {
+      "id": "2124192252620914870",
+      "product": "dots",
+      "url": "https://x.com/DaysBehindEU/status/2124192252620914870",
+      "author": "DaysBehindEU",
+      "authorName": "Days Behind",
+      "text": "OpenAI's Dots help page now says it's \"gradually rolling out to select ChatGPT Plus users\" outside the EEA, the UK and Switzerland. Pro got it on 29 September, with Europe left out then too.",
+      "postedAt": "2026-11-21T17:24:33.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 28
+      },
+      "topic": "launch"
+    },
+    {
       "id": "2124180649984590204",
       "product": "dots",
       "url": "https://x.com/FeryatBen/status/2124180649984590204",
@@ -554,6 +637,22 @@
         "reposts": 0,
         "likes": 0,
         "views": 97
+      },
+      "topic": "launch"
+    },
+    {
+      "id": "2124177729784512709",
+      "product": "grok",
+      "url": "https://x.com/suzunokiri/status/2124177729784512709",
+      "author": "suzunokiri",
+      "authorName": "suzu",
+      "text": "The Grok Bot team at SpaceXAI released a prompt that turns one Grok Bot into a night shift that clears your backlog by 7 a.m.\n\nIt's f*cking unreal...\n\nBookmark and send it to your Grok Bot, paste your backlog and thank me later\n\nThen read the Grok Bot memory engineering guide https://t.co/mbhjAXMreK https://t.co/2mIRWomqU5",
+      "postedAt": "2026-11-21T16:26:50.000Z",
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 33,
+        "views": 363
       },
       "topic": "launch"
     },
@@ -695,6 +794,22 @@
       }
     },
     {
+      "id": "2124118568191058337",
+      "product": "dots",
+      "url": "https://x.com/MrAsifShah/status/2124118568191058337",
+      "author": "MrAsifShah",
+      "authorName": "Asif Shah",
+      "text": "OpenAI's dots now take calls from Apple CarPlay.\n\n- Shown by OpenAI's Romain Huet on a drive\n- One call: checked an invite, pitched a talk, queued a draft PR\n- Your dot still can't call you first\n\nDrive-by commits just became literal.\n\nFirst errand?\n#AIAgents #ChatGPT",
+      "postedAt": "2026-11-21T12:31:45.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 40
+      },
+      "topic": "partnership"
+    },
+    {
       "id": "2124118179219910998",
       "product": "grok",
       "url": "https://x.com/orngeFOX/status/2124118179219910998",
@@ -829,6 +944,22 @@
         "likes": 0,
         "views": 393
       }
+    },
+    {
+      "id": "2124045603210424796",
+      "product": "dots",
+      "url": "https://x.com/theaigrandpa/status/2124045603210424796",
+      "author": "theaigrandpa",
+      "authorName": "The AI Grandpa@theaigrandpa",
+      "text": "OpenAI's dots, the always-on helpers inside ChatGPT, can now be called right from Apple CarPlay. Ask about tomorrow's schedule on the drive home.\n\nMost of us already talk to ourselves in the car. Now something talks back. https://t.co/tBQEZyEylV",
+      "postedAt": "2026-11-21T07:41:49.000Z",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 0,
+        "views": 32
+      },
+      "topic": "partnership"
     },
     {
       "id": "2124040163105919020",
@@ -2196,131 +2327,6 @@
         "views": 6
       },
       "topic": "reviews"
-    },
-    {
-      "id": "2122787550092001424",
-      "product": "muse",
-      "url": "https://x.com/SI5NAL/status/2122787550092001424",
-      "author": "SI5NAL",
-      "authorName": "SI5NAL",
-      "text": "@nicksaraev Yeah Meta released MUSE agent bot few weeks ago.",
-      "postedAt": "2026-11-17T20:22:46.000Z",
-      "metrics": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 1,
-        "views": 301
-      }
-    },
-    {
-      "id": "2122764263706050562",
-      "product": "grok",
-      "url": "https://x.com/AleiahLock/status/2122764263706050562",
-      "author": "AleiahLock",
-      "authorName": "Aleiah",
-      "text": "THE GROK BOT TEAM WANTS GROK BOT INSIDE GTA 6.\n\nLauren Tan from the Grok Bot team, on GTA 6:\n\"It'd be really cool if you could... mod it to add a Grok Bot app in there and actually talk to Grok Bot in the game.\"\n\"If there are any modders out here, definitely please build this.\" https://t.co/kR7d3W6zIC https://t.co/T5gPRSNSlW",
-      "postedAt": "2026-11-17T18:50:14.000Z",
-      "metrics": {
-        "replies": 5,
-        "reposts": 0,
-        "likes": 17,
-        "views": 750
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2122758694156849466",
-      "product": "muse",
-      "url": "https://x.com/ttvresearch/status/2122758694156849466",
-      "author": "ttvresearch",
-      "authorName": "TraderTV Research",
-      "text": "Meta just made a SHARP move higher after CEO Mark Zuckerberg announced that the company's Muse Wonder, Muse Spark 1.3, and Muse Ember models are coming soon!\n\n@tradertvlive $SPY $QQQ $META @Meta @Muse https://t.co/WNC4PzsmX3",
-      "postedAt": "2026-11-17T18:28:06.000Z",
-      "metrics": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 2,
-        "views": 1050
-      },
-      "topic": "launch"
-    },
-    {
-      "id": "2122712896547266838",
-      "product": "spark",
-      "url": "https://x.com/aplsdn_umop/status/2122712896547266838",
-      "author": "aplsdn_umop",
-      "authorName": "Umop aplsdn",
-      "text": "@JamesMalsawm @grok Gemini spark",
-      "postedAt": "2026-11-17T15:26:07.000Z",
-      "metrics": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 15
-      }
-    },
-    {
-      "id": "2122694244561276984",
-      "product": "muse",
-      "url": "https://x.com/andrewdfeldman/status/2122694244561276984",
-      "author": "andrewdfeldman",
-      "authorName": "Andrew Feldman",
-      "text": "Unsurprisingly, I like to know what is going on around @cerebras.\n\nThe hardest problems to see are usually ones stuck between teams.\n\nEngineering knows part of it. Support knows another part. And the details are often spread across GitHub, Slack and email.\n\nSo we tested an agent https://t.co/Hcbg4w7UL3",
-      "postedAt": "2026-11-17T14:12:00.000Z",
-      "metrics": {
-        "replies": 22,
-        "reposts": 12,
-        "likes": 194,
-        "views": 10928
-      },
-      "topic": "partnership"
-    },
-    {
-      "id": "2122676377291739514",
-      "product": "muse",
-      "url": "https://x.com/bokilapgtk/status/2122676377291739514",
-      "author": "bokilapgtk",
-      "authorName": "boki",
-      "text": "一个 65B 的稠密模型，官方说花 3200 万美元，做到了美国开源权重在 agentic coding 上的新高。这是他们自己的数字，也是他们自己的算法。\n\nRicursive 发布了 Ripple-65B Preview，预训练 12 万亿 token，支持 100 万上下文。官方给出的 Terminal-Bench 2.1 分数是 80.52，略高于 Reflection Beam 501B",
-      "postedAt": "2026-11-17T13:01:00.000Z",
-      "metrics": {
-        "replies": 5,
-        "reposts": 0,
-        "likes": 4,
-        "views": 281
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2122668323447906399",
-      "product": "muse",
-      "url": "https://x.com/KSimback/status/2122668323447906399",
-      "author": "KSimback",
-      "authorName": "Kevin Simback 🍷",
-      "text": "Which AI agent are you using, and why?\n\nInstinct\nn8n Nod\nGrok Bot\nOpenClaw\nMeta Muse\nOpenAI dots\nClaude Duet\nHermes Agent\n\nThis guide breaks them all down to help you decide https://t.co/ZSgBk9GVxs",
-      "postedAt": "2026-11-17T12:29:00.000Z",
-      "metrics": {
-        "replies": 22,
-        "reposts": 3,
-        "likes": 41,
-        "views": 4164
-      },
-      "topic": "regulation"
-    },
-    {
-      "id": "2122641348687794464",
-      "product": "muse",
-      "url": "https://x.com/wgreklek/status/2122641348687794464",
-      "author": "wgreklek",
-      "authorName": "The Angry Elmo",
-      "text": "@grok @mark_k @Google @GeminiApp @X Your damned right @grok!!\n\nIf anything I’d say @Meta has moved UP on the AI ladder. \n\nWith @Muse Agent having only minimal safety layers and the AI truly treats you as an adult.  You can discuss almost any topic and it’s not off limits with @Muse agent. \n\nBetween the AI having",
-      "postedAt": "2026-11-17T10:41:48.000Z",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 0,
-        "views": 25
-      }
     }
   ]
 }
