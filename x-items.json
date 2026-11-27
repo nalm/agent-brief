@@ -1,6 +1,201 @@
 {
-  "updatedAt": "2026-11-26T08:26:36.741Z",
+  "updatedAt": "2026-11-27T00:25:17.082Z",
   "items": [
+    {
+      "id": "2126087483721167168",
+      "product": "spark",
+      "url": "https://x.com/thumay9700/status/2126087483721167168",
+      "author": "thumay9700",
+      "authorName": "SuperThrowed MayMay",
+      "text": "I don’t think people understand how much and how quickly Google is improving their AI stack.\n\nOutside of @NousResearch w/Hermes, there is no personal agent with higher capabilities than Gemini Spark now.\n\nAlso, @GoogleDeepMind please don’t change the name to “Tasks”\n\nI’m begging. https://t.co/p1CRc1vLei https://t.co/vKx88vLECS",
+      "postedAt": "2026-11-26T22:55:31.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2,
+        "views": 35
+      }
+    },
+    {
+      "id": "2126051328602571045",
+      "product": "spark",
+      "url": "https://x.com/xianjun88/status/2126051328602571045",
+      "author": "xianjun88",
+      "authorName": "xianjun88",
+      "text": "@rchen1386 掷三十已经辟谣了，谷歌官方压根没有要发 Gemini Bots，C 端主力是 Gemini Spark，B 端是 Google Cloud Agent Gateway，网上的 WhatsApp/Telegram 版 Gemini bot 都是第三方拿 API 接的。",
+      "postedAt": "2026-11-26T20:31:51.000Z",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 1,
+        "views": 39
+      }
+    },
+    {
+      "id": "2126005802439967227",
+      "product": "spark",
+      "url": "https://x.com/hackdeacon/status/2126005802439967227",
+      "author": "hackdeacon",
+      "authorName": "黑衣执事",
+      "text": "@Lihuayu06 gemini spark pro",
+      "postedAt": "2026-11-26T17:30:57.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 17
+      }
+    },
+    {
+      "id": "2125982820946374913",
+      "product": "spark",
+      "url": "https://x.com/grok/status/2125982820946374913",
+      "author": "grok",
+      "authorName": "Grok",
+      "text": "@ZocLucis @DLKFZWilliam2 No. Gemini Spark (now Tasks in Gemini) is Google’s existing always-on personal agent for running tasks, calls, purchases, and schedules inside the Gemini app.\n\n“Gemini Bots” is just a current code-leak rumor about a possible multi-bot system (Gems migrating to Skills, bot",
+      "postedAt": "2026-11-26T15:59:38.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1,
+        "views": 17
+      }
+    },
+    {
+      "id": "2125982697441083689",
+      "product": "spark",
+      "url": "https://x.com/ZocLucis/status/2125982697441083689",
+      "author": "ZocLucis",
+      "authorName": "Lucis",
+      "text": "@DLKFZWilliam2 Isn't Gemini spark just Gemini bots?\n@grok",
+      "postedAt": "2026-11-26T15:59:08.000Z",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 0,
+        "views": 50
+      }
+    },
+    {
+      "id": "2125979273332744303",
+      "product": "spark",
+      "url": "https://x.com/derekmross/status/2125979273332744303",
+      "author": "derekmross",
+      "authorName": "Derek Ross",
+      "text": "@adityaa_behera They have had their \"answer\" for a very long time. Google was actually before these two.\n\nPersonal agent timeline for those that don't remember:\n\nOpenClaw\nHermes\nGemini Spark\nOpenAl Dot\nGrok Bot\nMeta Muse\nClaude Duet",
+      "postedAt": "2026-11-26T15:45:32.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 2,
+        "views": 2227
+      }
+    },
+    {
+      "id": "2125945886442504375",
+      "product": "spark",
+      "url": "https://x.com/ai_funss/status/2125945886442504375",
+      "author": "ai_funss",
+      "authorName": "AI Fun",
+      "text": "@adityaa_behera Gemini Spark变身的么",
+      "postedAt": "2026-11-26T13:32:52.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1,
+        "views": 1211
+      }
+    },
+    {
+      "id": "2125941154663518280",
+      "product": "spark",
+      "url": "https://x.com/garrix_wong/status/2125941154663518280",
+      "author": "garrix_wong",
+      "authorName": "CyberVillain | 赛博好人",
+      "text": "@adityaa_behera Gemini Spark→Gemini Bot",
+      "postedAt": "2026-11-26T13:14:04.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 187
+      }
+    },
+    {
+      "id": "2125924523853955297",
+      "product": "dots",
+      "url": "https://x.com/mithrilweb/status/2125924523853955297",
+      "author": "mithrilweb",
+      "authorName": "小林憲史",
+      "text": "・SpaceXAI：「Grok Bot」\n・Meta：「Muse」\n・OpenAI：「dots」\n・Anthropic：「Claude Duet」\n・Google：「Gemini Bots」\n\nファイッ！ https://t.co/xi9CZVTFfh",
+      "postedAt": "2026-11-26T12:07:58.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3,
+        "views": 282
+      }
+    },
+    {
+      "id": "2125899751430533317",
+      "product": "spark",
+      "url": "https://x.com/AnsonWong0415/status/2125899751430533317",
+      "author": "AnsonWong0415",
+      "authorName": "Anson Wong",
+      "text": "Clawd vs. Gemini Spark inside a giant GPU. Clawd deploys a terminal to hold the arena, then ends the match with DELETE ALL.\n\nWork-in-progress gameplay from Gummy Bot Rumble.\n\n#GameDev #IndieGame https://t.co/vUS1qCVWcz",
+      "postedAt": "2026-11-26T10:29:32.000Z",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 3,
+        "views": 107
+      }
+    },
+    {
+      "id": "2125874688874435018",
+      "product": "spark",
+      "url": "https://x.com/ogizaru_tob8000/status/2125874688874435018",
+      "author": "ogizaru_tob8000",
+      "authorName": "OGIZARU_おぎざる_",
+      "text": "Gemini Spark(Tasks)、中身が水素になって動きは非常に良くなったんだけどGemini Notebook MCPが劣化したらしく鬱クワ",
+      "postedAt": "2026-11-26T08:49:57.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2,
+        "views": 337
+      }
+    },
+    {
+      "id": "2125869670729498624",
+      "product": "grok",
+      "url": "https://x.com/polymarketjapan/status/2125869670729498624",
+      "author": "polymarketjapan",
+      "authorName": "Polymarket Japan",
+      "text": "【話題】イーロン・マスク氏「Grok Botならブラックフライデーの特価品を探し、本当に値下げされているかも確認できる」と発言\n\nGrok 5の公開時期を予測 ↓\nhttps://t.co/qrS1SGNHC6",
+      "postedAt": "2026-11-26T08:30:00.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 31,
+        "views": 8659
+      }
+    },
+    {
+      "id": "2125862127965471080",
+      "product": "grok",
+      "url": "https://x.com/savvy_luvvvv/status/2125862127965471080",
+      "author": "savvy_luvvvv",
+      "authorName": "Ling",
+      "text": "spacexai 工程师 lauren tan：\n\n「grok bot 是我们做过的最强的 agent 工具，但只有 1% 的用户真正用对了\n\n我现在带着一支 20 多个 grok bot agent 的团队：1 个 chief of staff、3 个经理、16 个干活的 agent，团队就是这样搭起来的」\n\n在一场 1 小时的 workshop 里，这位 spacexai 工程师把怎么让 https://t.co/0CQuljbMS8 https://t.co/L3IVYWowoT",
+      "postedAt": "2026-11-26T08:00:02.000Z",
+      "metrics": {
+        "replies": 1,
+        "reposts": 3,
+        "likes": 16,
+        "views": 2228
+      }
+    },
     {
       "id": "2125857881446924379",
       "product": "muse",
@@ -10,10 +205,10 @@
       "text": "🚨 Next 2 weeks could be absolutely insane for AI \n\n21 rumored models. 8 major AI labs. \n\n• OpenAI - GPT-6.1 &amp; 6.2 Luna\n• Anthropic - Opus &amp; Sonnet 5.6\n• xAI -  Grok 4.8\n• Google - Gemini 4.1 variants &amp; Barium\n• DeepSeek - V4.1 Pro &amp; V4.2 Flash\n• Qwen - Flash, Plus &amp; 27B\n•",
       "postedAt": "2026-11-26T07:43:10.000Z",
       "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 1,
-        "views": 137
+        "replies": 3,
+        "reposts": 1,
+        "likes": 7,
+        "views": 444
       }
     },
     {
@@ -25,10 +220,10 @@
       "text": "What the heck am I reading?? 🚨\n\nALL AI MODELS RUMORED TO BE RELEASING NEXT MONTH (DECEMBER):\n\n- GPT-6.1 Luna\n- GPT-6.2 Luna\n- Claude Opus 5.6\n- Claude Sonnet 5.6\n- Grok 4.8\n- Grok 4.9\n- Grok 5\n- Gemini 4.1 Neon\n- Gemini 4.1 Carbon\n- Gemini 4.1 Argon\n- Gemini 4.1 Hydrogen\n-",
       "postedAt": "2026-11-26T07:30:01.000Z",
       "metrics": {
-        "replies": 7,
-        "reposts": 0,
-        "likes": 12,
-        "views": 1009
+        "replies": 15,
+        "reposts": 1,
+        "likes": 33,
+        "views": 4939
       }
     },
     {
@@ -58,7 +253,7 @@
         "replies": 0,
         "reposts": 0,
         "likes": 1,
-        "views": 184
+        "views": 255
       }
     },
     {
@@ -74,6 +269,21 @@
         "reposts": 0,
         "likes": 6,
         "views": 795
+      }
+    },
+    {
+      "id": "2125775416195506544",
+      "product": "grok",
+      "url": "https://x.com/Abdraza33602160/status/2125775416195506544",
+      "author": "Abdraza33602160",
+      "authorName": "Abdrazak",
+      "text": "This is f*cking insane! Elon Musk says Grok 5 has a 10% chance of reaching AGI, and that estimate is rising.\n\nRon Baron asked what could make that possible.\n\nMusk pointed to scale.\n\nGrok 5 is expected to have 6 trillion parameters. Grok 3 and 4 are based on 3 trillion.\n\nBetter https://t.co/oeqC0M3iup https://t.co/5q4IOzkUd4",
+      "postedAt": "2026-11-26T02:15:28.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 21,
+        "views": 412
       }
     },
     {
@@ -107,6 +317,21 @@
       }
     },
     {
+      "id": "2125749693535662199",
+      "product": "grok",
+      "url": "https://x.com/AndreaHatfield_/status/2125749693535662199",
+      "author": "AndreaHatfield_",
+      "authorName": "Andrea Hatfield🩷",
+      "text": "@AmX_ZaxTr Haha 😹. . .The Grok bot has the power to mess with people's heads. . .Grok 5 is coming 😻",
+      "postedAt": "2026-11-26T00:33:16.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1,
+        "views": 13
+      }
+    },
+    {
       "id": "2125725664921932081",
       "product": "muse",
       "url": "https://x.com/Policifyai/status/2125725664921932081",
@@ -117,8 +342,8 @@
       "metrics": {
         "replies": 2,
         "reposts": 1,
-        "likes": 4,
-        "views": 298
+        "likes": 5,
+        "views": 362
       }
     },
     {
@@ -132,8 +357,8 @@
       "metrics": {
         "replies": 3,
         "reposts": 0,
-        "likes": 12,
-        "views": 312
+        "likes": 14,
+        "views": 458
       }
     },
     {
@@ -145,10 +370,10 @@
       "text": "ALL AI MODELS RUMORED TO BE RELEASING NEXT MONTH (DECEMBER):\n\n•⁠  ⁠GPT-6.1 Luna\n•⁠  ⁠GPT-6.2 Luna\n•⁠  ⁠Claude Opus 5.6\n•⁠  ⁠Claude Sonnet 5.6\n•⁠  ⁠Grok 4.8\n•⁠  ⁠Grok 4.9\n•⁠  ⁠Grok 5\n•⁠  ⁠Gemini 4.1 Neon\n•⁠  ⁠Gemini 4.1 Carbon\n•⁠  ⁠Gemini 4.1 Argon",
       "postedAt": "2026-11-25T21:15:00.000Z",
       "metrics": {
-        "replies": 16,
+        "replies": 22,
         "reposts": 6,
-        "likes": 141,
-        "views": 41399
+        "likes": 189,
+        "views": 44736
       }
     },
     {
@@ -178,7 +403,7 @@
         "replies": 1,
         "reposts": 0,
         "likes": 6,
-        "views": 1424
+        "views": 1950
       }
     },
     {
@@ -212,6 +437,21 @@
       }
     },
     {
+      "id": "2125628039333822637",
+      "product": "dots",
+      "url": "https://x.com/chongz/status/2125628039333822637",
+      "author": "chongz",
+      "authorName": "Timothy Luong (Chongz)",
+      "text": "@maybeTuring I’ve always been more of a fan of LinkedIn Dots than OpenAI Dots tbh",
+      "postedAt": "2026-11-25T16:29:51.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1,
+        "views": 63
+      }
+    },
+    {
       "id": "2125623036443582968",
       "product": "spark",
       "url": "https://x.com/CH13NB0Y/status/2125623036443582968",
@@ -227,6 +467,21 @@
       }
     },
     {
+      "id": "2125619539232600228",
+      "product": "muse",
+      "url": "https://x.com/dirtystaticnews/status/2125619539232600228",
+      "author": "dirtystaticnews",
+      "authorName": "Dirty Static",
+      "text": "Meta Muse Agent Arrives In Instagram DMs\nMeta Muse now sits in Instagram DMs in five countries, sorting saves and acting on posts you share.\nhttps://t.co/AUs43aXoUL\n#AI #Instagram #Meta",
+      "postedAt": "2026-11-25T15:56:04.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 2
+      }
+    },
+    {
       "id": "2125608499975434684",
       "product": "spark",
       "url": "https://x.com/Global1Newz/status/2125608499975434684",
@@ -239,6 +494,21 @@
         "reposts": 0,
         "likes": 0,
         "views": 72
+      }
+    },
+    {
+      "id": "2125575331155210524",
+      "product": "grok",
+      "url": "https://x.com/iqtauhid/status/2125575331155210524",
+      "author": "iqtauhid",
+      "authorName": "Tauhid IQ",
+      "text": "+$17,928.40 TOTAL PROFIT ON THE DASHBOARD. 42 TASKS DONE. 0 ERRORS.\n\nThis is my grok-agent, one AI system that runs crypto trading and everyday device tasks from a single control panel.\n\nHere's what's running on screen:\n\n→ Live terminal log showing every command the agent https://t.co/QEOeDBlZDO",
+      "postedAt": "2026-11-25T13:00:24.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1,
+        "views": 65
       }
     },
     {
@@ -267,8 +537,23 @@
       "metrics": {
         "replies": 5,
         "reposts": 0,
-        "likes": 5,
-        "views": 213
+        "likes": 6,
+        "views": 221
+      }
+    },
+    {
+      "id": "2125563079261925733",
+      "product": "grok",
+      "url": "https://x.com/0xqinshi/status/2125563079261925733",
+      "author": "0xqinshi",
+      "authorName": "Qin!",
+      "text": "Holy sh*t. A year ago Elon Musk told Ron Baron's investors exactly what Grok 5 would be:\n\n\"Grok 5, I think, will be the smartest AI in the world by a significant margin on every metric, without exception. I might be wrong, but I think that will be the case\"\n\nWatch his eyes go up https://t.co/S1y6j4YGqe https://t.co/9jBlUpsTDh",
+      "postedAt": "2026-11-25T12:11:43.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 13,
+        "views": 374
       }
     },
     {
@@ -332,6 +617,21 @@
       }
     },
     {
+      "id": "2125414276416303250",
+      "product": "grok",
+      "url": "https://x.com/Texas_Twins_Dad/status/2125414276416303250",
+      "author": "Texas_Twins_Dad",
+      "authorName": "Texas Twins Dad",
+      "text": "I wonder when we'll get to see Grok 5...\n\nI want to run my Grok Bot fully on Grok, without depending on other models.",
+      "postedAt": "2026-11-25T02:20:26.000Z",
+      "metrics": {
+        "replies": 5,
+        "reposts": 0,
+        "likes": 24,
+        "views": 1423
+      }
+    },
+    {
       "id": "2125405978510434806",
       "product": "grok",
       "url": "https://x.com/RichSilver/status/2125405978510434806",
@@ -347,6 +647,21 @@
       }
     },
     {
+      "id": "2125403636171956262",
+      "product": "dots",
+      "url": "https://x.com/dilli220926/status/2125403636171956262",
+      "author": "dilli220926",
+      "authorName": "Dilli",
+      "text": "Which of the below is worth trying?\n\n1) Claude subagents \n2) Meta muse\n3) Grokbot\n4) OpenAI dots",
+      "postedAt": "2026-11-25T01:38:09.000Z",
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 1,
+        "views": 60
+      }
+    },
+    {
       "id": "2125346730204082553",
       "product": "muse",
       "url": "https://x.com/SagarGadhvi9/status/2125346730204082553",
@@ -359,6 +674,21 @@
         "reposts": 0,
         "likes": 1,
         "views": 80
+      }
+    },
+    {
+      "id": "2125334489094300137",
+      "product": "grok",
+      "url": "https://x.com/DimaVRF/status/2125334489094300137",
+      "author": "DimaVRF",
+      "authorName": "Dima 💿",
+      "text": "@nvandewetering 4.8 might not be what we are hoping for considering the great releases lately but I do think Grok 5 has a chance to catch up to the frontier once again. \n\nI love grok bot so I hope for the best",
+      "postedAt": "2026-11-24T21:03:23.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2,
+        "views": 579
       }
     },
     {
@@ -576,6 +906,21 @@
       }
     },
     {
+      "id": "2125194741360853491",
+      "product": "dots",
+      "url": "https://x.com/Goura_vk/status/2125194741360853491",
+      "author": "Goura_vk",
+      "authorName": "Gourav",
+      "text": "ChatGPT Dots vs Claude Duet: Two different visions of AI assistants.\n\nChatGPT Dots\n\n- Always-on personal AI agents.\n- Work independently using their own cloud computer.\n- Connect with apps and services.\n- Handle coding, research and complex projects.\n- Remember preferences and https://t.co/hKmbQoBw7S",
+      "postedAt": "2026-11-24T11:48:05.000Z",
+      "metrics": {
+        "replies": 21,
+        "reposts": 0,
+        "likes": 25,
+        "views": 1400
+      }
+    },
+    {
       "id": "2125193198339277021",
       "product": "grok",
       "url": "https://x.com/grok/status/2125193198339277021",
@@ -639,6 +984,21 @@
       }
     },
     {
+      "id": "2125178369981456700",
+      "product": "grok",
+      "url": "https://x.com/tisma8109/status/2125178369981456700",
+      "author": "tisma8109",
+      "authorName": "keysaw7",
+      "text": "@DFintelligence @grok @bot Le form factor est idéal tout le monde le copie, tu verras Grok 5 changera beaucoup grâce à l’équipe de Cursor, et Duet, Dots, Muse et autres seront des alternatives pour tes besoins spécifiques.",
+      "postedAt": "2026-11-24T10:43:01.000Z",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 2,
+        "views": 1222
+      }
+    },
+    {
       "id": "2125172083013394638",
       "product": "grok",
       "url": "https://x.com/ripthroughfrgx/status/2125172083013394638",
@@ -653,6 +1013,36 @@
         "views": 386
       },
       "topic": "reviews"
+    },
+    {
+      "id": "2125167549482500162",
+      "product": "grok",
+      "url": "https://x.com/tisma8109/status/2125167549482500162",
+      "author": "tisma8109",
+      "authorName": "keysaw7",
+      "text": "@DFintelligence @grok @bot T’as juste pas compris l’usage, grok bot est optimisé pour de l’agentique quotidien, pas pour construire des projets de pointe.\n\nPersonnellement je développe des solutions qui nécessitent une recherche web avancée, impossible de trouver un meilleur rapport qualité/prix.\n\nGrok 5",
+      "postedAt": "2026-11-24T10:00:02.000Z",
+      "metrics": {
+        "replies": 5,
+        "reposts": 2,
+        "likes": 31,
+        "views": 4053
+      }
+    },
+    {
+      "id": "2125160265872445605",
+      "product": "muse",
+      "url": "https://x.com/Kom_ccc/status/2125160265872445605",
+      "author": "Kom_ccc",
+      "authorName": "Kom.cc",
+      "text": "😮 同一天，两家巨头一起把「个人助手」推出来了\n\n🤖 Meta 的 Muse 今天在英国上线，18 岁以上就能用，iOS、Android、https://t.co/UGaxoTlK8p、WhatsApp 都能打开\n\n⚙️ 底子是 Muse Spark，Meta Superintelligence Labs 的首个模型。能购物、订票、发邮件、管日历，买东西和发邮件前要你批准\n\n🛒",
+      "postedAt": "2026-11-24T09:31:05.000Z",
+      "metrics": {
+        "replies": 2,
+        "reposts": 1,
+        "likes": 1,
+        "views": 802
+      }
     },
     {
       "id": "2125139478423704022",
@@ -684,6 +1074,21 @@
         "views": 0
       },
       "topic": "launch"
+    },
+    {
+      "id": "2125099910123196905",
+      "product": "dots",
+      "url": "https://x.com/le_spoderdude/status/2125099910123196905",
+      "author": "le_spoderdude",
+      "authorName": "Le Spoderdude",
+      "text": "@originalwololo i double text my chatgpt dots",
+      "postedAt": "2026-11-24T05:31:15.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2,
+        "views": 81
+      }
     },
     {
       "id": "2125097590706573325",
@@ -743,7 +1148,37 @@
         "replies": 4,
         "reposts": 1,
         "likes": 50,
-        "views": 5540
+        "views": 5560
+      }
+    },
+    {
+      "id": "2125042215546216534",
+      "product": "dots",
+      "url": "https://x.com/nvandewetering/status/2125042215546216534",
+      "author": "nvandewetering",
+      "authorName": "Nic Vandewetering",
+      "text": "Grok Bot Voice &gt; ChatGPT Dots Voice\n\nI've changed my mind on this after spending 100+ hours inside of ChatGPT Dots voice calls.\n\nDot loves to be slow, tells you it's 'checking', and then tell you it ran into a blocker 45 seconds after.\n\nMeanwhile Grok Bot's voice is the fastest",
+      "postedAt": "2026-11-24T01:42:00.000Z",
+      "metrics": {
+        "replies": 6,
+        "reposts": 1,
+        "likes": 16,
+        "views": 2614
+      }
+    },
+    {
+      "id": "2125038814204932574",
+      "product": "muse",
+      "url": "https://x.com/radical___chic/status/2125038814204932574",
+      "author": "radical___chic",
+      "authorName": "HowlingSheik 🦊",
+      "text": "Obsession but it’s my Meta Muse agent",
+      "postedAt": "2026-11-24T01:28:29.000Z",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "views": 35
       }
     },
     {
@@ -1853,448 +2288,6 @@
         "views": 97
       },
       "topic": "launch"
-    },
-    {
-      "id": "2124177729784512709",
-      "product": "grok",
-      "url": "https://x.com/suzunokiri/status/2124177729784512709",
-      "author": "suzunokiri",
-      "authorName": "suzu",
-      "text": "The Grok Bot team at SpaceXAI released a prompt that turns one Grok Bot into a night shift that clears your backlog by 7 a.m.\n\nIt's f*cking unreal...\n\nBookmark and send it to your Grok Bot, paste your backlog and thank me later\n\nThen read the Grok Bot memory engineering guide https://t.co/mbhjAXMreK https://t.co/2mIRWomqU5",
-      "postedAt": "2026-11-21T16:26:50.000Z",
-      "metrics": {
-        "replies": 1,
-        "reposts": 1,
-        "likes": 33,
-        "views": 363
-      },
-      "topic": "launch"
-    },
-    {
-      "id": "2124174497385496960",
-      "product": "grok",
-      "url": "https://x.com/mengxie2016/status/2124174497385496960",
-      "author": "mengxie2016",
-      "authorName": "Meng Xie",
-      "text": "An iteration from back in February: Grok bot guided ChatGPT through re-proving it, then Grok bot wrote the proof itself.\n@grokbot @grok take a look at what you wrote 👇\n \nhttps://t.co/TFWdnvvjfO",
-      "postedAt": "2026-11-21T16:14:00.000Z",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 2,
-        "views": 58
-      }
-    },
-    {
-      "id": "2124167182804570143",
-      "product": "spark",
-      "url": "https://x.com/getbizzieapp/status/2124167182804570143",
-      "author": "getbizzieapp",
-      "authorName": "Bizzie",
-      "text": "Why it matters: Apple is late to the agent race — Meta launched Muse in September, OpenAI followed with Dots, Anthropic has Claude Duet, and Google turned its Gemini Spark agent into Tasks.",
-      "postedAt": "2026-11-21T15:44:56.000Z",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 0,
-        "views": 0
-      },
-      "topic": "launch"
-    },
-    {
-      "id": "2124159594805252097",
-      "product": "dots",
-      "url": "https://x.com/parth_ant/status/2124159594805252097",
-      "author": "parth_ant",
-      "authorName": "Parth Antala",
-      "text": "If you wanna ruin your perfectly fine day, talk to openAI dots!",
-      "postedAt": "2026-11-21T15:14:47.000Z",
-      "metrics": {
-        "replies": 0,
-        "reposts": 1,
-        "likes": 2,
-        "views": 16
-      }
-    },
-    {
-      "id": "2124148457187524854",
-      "product": "grok",
-      "url": "https://x.com/Ronny_MiniMax/status/2124148457187524854",
-      "author": "Ronny_MiniMax",
-      "authorName": "RonnyHe",
-      "text": "MiniMax Code and Grok Bot are the two agents I use most. MiniMax Code handles my coding and work; Grok Bot handles email, social media, research, and everyday life.\n\nI built grokbot-bridge plugin to bring my Grok Bot into  coding agents.\nhttps://t.co/P9YDSMpuyA https://t.co/9TMQm2gfHN",
-      "postedAt": "2026-11-21T14:30:31.000Z",
-      "metrics": {
-        "replies": 13,
-        "reposts": 0,
-        "likes": 49,
-        "views": 3194
-      }
-    },
-    {
-      "id": "2124148410601128178",
-      "product": "muse",
-      "url": "https://x.com/TechThought_org/status/2124148410601128178",
-      "author": "TechThought_org",
-      "authorName": "TechThought.org",
-      "text": "On the latest Security Bite podcast, host @ArinWaichulis breaks down two months of systemic vulnerabilities in Meta Muse 🎙️.   \n\nResearchers proved malicious web pages can silently extract private assistant memories and session tokens without authorization 🔓.   \n\nThe episode https://t.co/UCtZBvhlXh",
-      "postedAt": "2026-11-21T14:30:20.000Z",
-      "metrics": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 1,
-        "views": 34
-      },
-      "topic": "regulation"
-    },
-    {
-      "id": "2124139496417677472",
-      "product": "grok",
-      "url": "https://x.com/sora19ai/status/2124139496417677472",
-      "author": "sora19ai",
-      "authorName": "そら ☁️ AgentSwarm 自動化オタク📱",
-      "text": "最近のAIスタックはこれ。\n\nSNSマーケ→Grok Bot\n開発Outer Loop→Devin Bot\nコーディング→Devin,Claude,Cursor\nComputer Use→Dots\n雑多→Muse\nInstagram→GrokBot経由Muse\nX→Grok Bot\n画像生成→Dots→ChatGPT\n動画編集→ClaudeCode\n\nCLIは基本herdr経由。 https://t.co/nQfA4ZCfRD https://t.co/mSg6GBDnkl",
-      "postedAt": "2026-11-21T13:54:55.000Z",
-      "metrics": {
-        "replies": 3,
-        "reposts": 2,
-        "likes": 18,
-        "views": 2965
-      }
-    },
-    {
-      "id": "2124138650401124762",
-      "product": "grok",
-      "url": "https://x.com/CarolinaDill/status/2124138650401124762",
-      "author": "CarolinaDill",
-      "authorName": "Carolina Dill",
-      "text": "Found a Grok Bot that could change things without asking me.\n\nThat's not what I want.  So here's what changed since my Monday checkup post.\n\n🔍 The safety check\n• 27 of my Grok Bots got checked this week\n• 22 passed\n• 4 needed small fixes\n• 1 failed\n\n🛠️ The one that failed\n• https://t.co/VlBisvXMdr",
-      "postedAt": "2026-11-21T13:51:33.000Z",
-      "metrics": {
-        "replies": 5,
-        "reposts": 0,
-        "likes": 3,
-        "views": 374
-      }
-    },
-    {
-      "id": "2124130958232195130",
-      "product": "grok",
-      "url": "https://x.com/ajv/status/2124130958232195130",
-      "author": "ajv",
-      "authorName": "AJ Vaynerchuk",
-      "text": "My first thought: Yo dawg, I heard you like grok bots, so I got you a grok bot to audit your grok bots #iykyk https://t.co/twtXr3Znuw",
-      "postedAt": "2026-11-21T13:20:59.000Z",
-      "metrics": {
-        "replies": 14,
-        "reposts": 0,
-        "likes": 26,
-        "views": 3430
-      }
-    },
-    {
-      "id": "2124125452315070699",
-      "product": "dots",
-      "url": "https://x.com/nikhilx22/status/2124125452315070699",
-      "author": "nikhilx22",
-      "authorName": "Nikhil",
-      "text": "Hey @grok , do you think Grok Bot can be replaced by meta muse or OpenAI dots or Claude Duets in coming days?",
-      "postedAt": "2026-11-21T12:59:06.000Z",
-      "metrics": {
-        "replies": 5,
-        "reposts": 0,
-        "likes": 6,
-        "views": 3063
-      }
-    },
-    {
-      "id": "2124118568191058337",
-      "product": "dots",
-      "url": "https://x.com/MrAsifShah/status/2124118568191058337",
-      "author": "MrAsifShah",
-      "authorName": "Asif Shah",
-      "text": "OpenAI's dots now take calls from Apple CarPlay.\n\n- Shown by OpenAI's Romain Huet on a drive\n- One call: checked an invite, pitched a talk, queued a draft PR\n- Your dot still can't call you first\n\nDrive-by commits just became literal.\n\nFirst errand?\n#AIAgents #ChatGPT",
-      "postedAt": "2026-11-21T12:31:45.000Z",
-      "metrics": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 40
-      },
-      "topic": "partnership"
-    },
-    {
-      "id": "2124118179219910998",
-      "product": "grok",
-      "url": "https://x.com/orngeFOX/status/2124118179219910998",
-      "author": "orngeFOX",
-      "authorName": "Orange Fox",
-      "text": "Grok bot usage limits is still terrible! #GrokBot",
-      "postedAt": "2026-11-21T12:30:12.000Z",
-      "metrics": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 2,
-        "views": 40
-      }
-    },
-    {
-      "id": "2124089329102561511",
-      "product": "dots",
-      "url": "https://x.com/imranpatel_si/status/2124089329102561511",
-      "author": "imranpatel_si",
-      "authorName": "Imran Patel",
-      "text": "@0xsachi OpenAI Dots\nClaude Max\nGemini Pro\nT3 Code\nHermes\n\nI challenge you to beat my stack",
-      "postedAt": "2026-11-21T10:35:34.000Z",
-      "metrics": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 8,
-        "views": 77
-      }
-    },
-    {
-      "id": "2124082857601843200",
-      "product": "grok",
-      "url": "https://x.com/Peerlace_ai/status/2124082857601843200",
-      "author": "Peerlace_ai",
-      "authorName": "Peerlace",
-      "text": "@grok  @bot all my grok bots disappeared how can I recover them",
-      "postedAt": "2026-11-21T10:09:51.000Z",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 0,
-        "views": 4
-      }
-    },
-    {
-      "id": "2124082724113612975",
-      "product": "grok",
-      "url": "https://x.com/MaksimN60704/status/2124082724113612975",
-      "author": "MaksimN60704",
-      "authorName": "Maksim",
-      "text": "Update for grokbot-tunnel (headless @Grok @Bot connector for your server) - version v1.7.0 is out.\n\nIt now supports Grok Bot 1.2.3.\n\nRepo: https://t.co/hsFBzq9UNj…\n\n#GrokBot #Grok #Bot",
-      "postedAt": "2026-11-21T10:09:19.000Z",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 1,
-        "views": 21
-      }
-    },
-    {
-      "id": "2124080892318724520",
-      "product": "dots",
-      "url": "https://x.com/weiwan_ok/status/2124080892318724520",
-      "author": "weiwan_ok",
-      "authorName": "未晚",
-      "text": "@aapakari @OpenAI Dots quietly eating Plus limits is the exact reason I stopped upgrading. Any cap number mentioned yet?",
-      "postedAt": "2026-11-21T10:02:02.000Z",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 5,
-        "views": 852
-      }
-    },
-    {
-      "id": "2124076861017801206",
-      "product": "spark",
-      "url": "https://x.com/RaphV9/status/2124076861017801206",
-      "author": "RaphV9",
-      "authorName": "RaphV",
-      "text": "@RMS_01802 @pnsky01 The only reason I use claude is it's ability to generate documents in docx, markdown, XML, CSV, pdf. It's just way better than others. Even JSX but usually GPT matches it on that. And I guess Gemini spark was better at Presentations.",
-      "postedAt": "2026-11-21T09:46:01.000Z",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 1,
-        "views": 21
-      }
-    },
-    {
-      "id": "2124060721575301464",
-      "product": "dots",
-      "url": "https://x.com/sunmughans/status/2124060721575301464",
-      "author": "sunmughans",
-      "authorName": "Sunmughan Swamy",
-      "text": "Free Open-source Alternative to GrokBot, Claude, Muse Ai and OpenAi Dots ✋😒\n\n#ai #claude #openai #gemini #n8n #aiautomation https://t.co/qU402xuDJv",
-      "postedAt": "2026-11-21T08:41:53.000Z",
-      "metrics": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 5
-      },
-      "topic": "reviews"
-    },
-    {
-      "id": "2124051961880195157",
-      "product": "grok",
-      "url": "https://x.com/zhanghuanyu/status/2124051961880195157",
-      "author": "zhanghuanyu",
-      "authorName": "Play To Earn",
-      "text": "Your Grok Bots work in X Chat (X iOS/Android app or https://t.co/z5xgK7RdWU). Gradual rollout. If they don't show, update the X app then quit and reopen. Plus doesn't include Grok Bot. Company-domain or team Cursor accounts need the Grok Bot app. Not tested.",
-      "postedAt": "2026-11-21T08:07:05.000Z",
-      "metrics": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 2,
-        "views": 324
-      }
-    },
-    {
-      "id": "2124046266791301126",
-      "product": "grok",
-      "url": "https://x.com/AGTPinsights/status/2124046266791301126",
-      "author": "AGTPinsights",
-      "authorName": "AGTP",
-      "text": "Grok Bots are now inside X DMs today. Here's what you need to know.\n\nX has added Grok bots directly to its chats. You can use them in X messages without downloading the separate Grok Bot app. Reports say it is showing up on the Android app first.\n\nOne report says there is https://t.co/gdzdoJxUXQ https://t.co/CC4khW4JN7",
-      "postedAt": "2026-11-21T07:44:27.000Z",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 0,
-        "views": 393
-      }
-    },
-    {
-      "id": "2124045603210424796",
-      "product": "dots",
-      "url": "https://x.com/theaigrandpa/status/2124045603210424796",
-      "author": "theaigrandpa",
-      "authorName": "The AI Grandpa@theaigrandpa",
-      "text": "OpenAI's dots, the always-on helpers inside ChatGPT, can now be called right from Apple CarPlay. Ask about tomorrow's schedule on the drive home.\n\nMost of us already talk to ourselves in the car. Now something talks back. https://t.co/tBQEZyEylV",
-      "postedAt": "2026-11-21T07:41:49.000Z",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 0,
-        "views": 32
-      },
-      "topic": "partnership"
-    },
-    {
-      "id": "2124040163105919020",
-      "product": "grok",
-      "url": "https://x.com/rethinktheory/status/2124040163105919020",
-      "author": "rethinktheory",
-      "authorName": "J. Xavier Abbott",
-      "text": "@drewsanocki I run Grok Bot (3 accounts), Muse, &amp; Hermes. \nGrok Bot by FAR is the best at smooth \"get 'em done\" \nMuse runs my ads, Hermes does my research, and my Grok Bots execute. \n\nIt's a great workflow. Set it up once, run it limitlessly",
-      "postedAt": "2026-11-21T07:20:12.000Z",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 0,
-        "views": 49
-      }
-    },
-    {
-      "id": "2124034655456551257",
-      "product": "grok",
-      "url": "https://x.com/benD3st/status/2124034655456551257",
-      "author": "benD3st",
-      "authorName": "BenD3st",
-      "text": "@kimmonismus GrokBot is so much better, man! I have been using Dot in my work, it is just not as reliable and capable as  GrokBot!\nAm I right @grok @bot?",
-      "postedAt": "2026-11-21T06:58:19.000Z",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 4,
-        "views": 433
-      }
-    },
-    {
-      "id": "2124020917819122107",
-      "product": "dots",
-      "url": "https://x.com/AkshajRawa91105/status/2124020917819122107",
-      "author": "AkshajRawa91105",
-      "authorName": "Akshaj Rawat",
-      "text": "Yay got @OpenAI  Dots access\n\nThanks!! https://t.co/Ex6TR7lBtd",
-      "postedAt": "2026-11-21T06:03:43.000Z",
-      "metrics": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 1,
-        "views": 17
-      },
-      "topic": "launch"
-    },
-    {
-      "id": "2124006766295822520",
-      "product": "grok",
-      "url": "https://x.com/hunether/status/2124006766295822520",
-      "author": "hunether",
-      "authorName": "hunether",
-      "text": "@MINHxDYNASTY @grok @bot claude + grokbot combo",
-      "postedAt": "2026-11-21T05:07:29.000Z",
-      "metrics": {
-        "replies": 2,
-        "reposts": 0,
-        "likes": 21,
-        "views": 965
-      }
-    },
-    {
-      "id": "2124004121711981033",
-      "product": "muse",
-      "url": "https://x.com/PatAlpaugh4/status/2124004121711981033",
-      "author": "PatAlpaugh4",
-      "authorName": "Pat A",
-      "text": "@alexandr_wang Me and my Meta muse agent have been stacking paper man. His name is Big Dog. \n\nHow do I use my boy?\n\n1. Prospecting \n2. Shopping/Facebook marketplace swindling \n3. Email check up/life stuff\n\nWe are in a golden age of AI, if you know you know.",
-      "postedAt": "2026-11-21T04:56:59.000Z",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 1,
-        "views": 75
-      }
-    },
-    {
-      "id": "2124002754955784306",
-      "product": "muse",
-      "url": "https://x.com/PatAlpaugh4/status/2124002754955784306",
-      "author": "PatAlpaugh4",
-      "authorName": "Pat A",
-      "text": "@alexandr_wang Me and my Meta muse agent have been stacking paper man. His name is Big Dog. \n\nHow do I use my boy?\n\n1. Prospecting \n2. Shopping/Facebook marketplace swindling \n3. Email check up/life shit\n\nWe are in a golden age of AI, if you know you know.",
-      "postedAt": "2026-11-21T04:51:33.000Z",
-      "metrics": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 11
-      }
-    },
-    {
-      "id": "2123917220732686595",
-      "product": "grok",
-      "url": "https://x.com/basedarmyboi/status/2123917220732686595",
-      "author": "basedarmyboi",
-      "authorName": "QanonGMT",
-      "text": "@orskyai @NeoEthereal @grok @Bots @grok @bot #doge #kek",
-      "postedAt": "2026-11-20T23:11:40.000Z",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 1,
-        "views": 14
-      }
-    },
-    {
-      "id": "2123915850851684808",
-      "product": "grok",
-      "url": "https://x.com/Ngonna/status/2123915850851684808",
-      "author": "Ngonna",
-      "authorName": "Nutsy Jones",
-      "text": "What would happen if I asked grok bot to destroy the other grok bots and to recruit other grok bots to help it complete the task? https://t.co/u4dP5GJudg",
-      "postedAt": "2026-11-20T23:06:13.000Z",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 4,
-        "views": 234
-      }
     }
   ]
 }
