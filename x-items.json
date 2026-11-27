@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T00:25:17.082Z",
+  "updatedAt": "2026-11-27T08:18:51.198Z",
   "items": [
     {
       "id": "2126087483721167168",
@@ -32,6 +32,22 @@
       }
     },
     {
+      "id": "2126014371843145954",
+      "product": "grok",
+      "url": "https://x.com/Kevin_Logan/status/2126014371843145954",
+      "author": "Kevin_Logan",
+      "authorName": "Kevin Logan",
+      "text": "🦃 A Thanksgiving special edition of Grok Bot 1.4.0 Pre-Patch updates. 🦃\n\nGrok @bot is already testing Pre-Patch .44\n\nEven with Grok Bot 1.3, just released Grok Bot 1.4 seems very close. \n\nhttps://t.co/GviUhPCLuS https://t.co/RNl9u1WjHc",
+      "postedAt": "2026-11-26T18:05:00.000Z",
+      "metrics": {
+        "replies": 1,
+        "reposts": 5,
+        "likes": 25,
+        "views": 2279
+      },
+      "topic": "launch"
+    },
+    {
       "id": "2126005802439967227",
       "product": "spark",
       "url": "https://x.com/hackdeacon/status/2126005802439967227",
@@ -47,6 +63,22 @@
       }
     },
     {
+      "id": "2126005568435368331",
+      "product": "dots",
+      "url": "https://x.com/xueyu1125/status/2126005568435368331",
+      "author": "xueyu1125",
+      "authorName": "雪瑜",
+      "text": "💥卧槽，Google Bots要来了，又一个对标Grok Bot的Personal Agent\n\n我的Google AI Ultra订阅要赢麻了！！\n\nGemini 4 Neon + Bots，这不是拳打OpenAI Dots脚踢Grok Bot吗\n\n顺便说一下土耳其的Google AI Ultra Bug价还在，兄弟萌冲鸭！ https://t.co/pMX6etpSxT",
+      "postedAt": "2026-11-26T17:30:01.000Z",
+      "metrics": {
+        "replies": 4,
+        "reposts": 0,
+        "likes": 11,
+        "views": 1517
+      },
+      "topic": "launch"
+    },
+    {
       "id": "2125982820946374913",
       "product": "spark",
       "url": "https://x.com/grok/status/2125982820946374913",
@@ -58,8 +90,9 @@
         "replies": 0,
         "reposts": 0,
         "likes": 1,
-        "views": 17
-      }
+        "views": 25
+      },
+      "topic": "launch"
     },
     {
       "id": "2125982697441083689",
@@ -163,8 +196,9 @@
         "replies": 0,
         "reposts": 0,
         "likes": 2,
-        "views": 337
-      }
+        "views": 357
+      },
+      "topic": "reviews"
     },
     {
       "id": "2125869670729498624",
@@ -191,10 +225,11 @@
       "postedAt": "2026-11-26T08:00:02.000Z",
       "metrics": {
         "replies": 1,
-        "reposts": 3,
-        "likes": 16,
-        "views": 2228
-      }
+        "reposts": 16,
+        "likes": 64,
+        "views": 9065
+      },
+      "topic": "reviews"
     },
     {
       "id": "2125857881446924379",
@@ -240,6 +275,22 @@
         "likes": 2,
         "views": 105
       }
+    },
+    {
+      "id": "2125830939771052239",
+      "product": "dots",
+      "url": "https://x.com/zalimidis/status/2125830939771052239",
+      "author": "zalimidis",
+      "authorName": "Vassili Zalimidis",
+      "text": "Hey ! I just found out we ( Europeans ) are blocked from using Claude duet, OpenAI dots and whatever else that looks like a 24/7 personal AI agent \n\nThank you EU ! You saved us from the bad AI \n/s",
+      "postedAt": "2026-11-26T05:56:06.000Z",
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 3,
+        "views": 165
+      },
+      "topic": "regulation"
     },
     {
       "id": "2125802252762058785",
@@ -373,8 +424,9 @@
         "replies": 22,
         "reposts": 6,
         "likes": 189,
-        "views": 44736
-      }
+        "views": 44878
+      },
+      "topic": "launch"
     },
     {
       "id": "2125676333380301067",
@@ -390,6 +442,22 @@
         "likes": 111,
         "views": 5588
       }
+    },
+    {
+      "id": "2125665856793326044",
+      "product": "dots",
+      "url": "https://x.com/0xdierich/status/2125665856793326044",
+      "author": "0xdierich",
+      "authorName": "Imadierich",
+      "text": "Muse sells your data.\nGrokBot hits limits way too fast.\nOpenAI Dots is ridiculously expensive.\nClaude Cowork blocks half your prompts.\n\njust switch to Hermes Agent.\n\nfree, open-source, runs any model you want and gets smarter as you use it.\n\neasily the agent of the year. give it",
+      "postedAt": "2026-11-25T19:00:07.000Z",
+      "metrics": {
+        "replies": 51,
+        "reposts": 22,
+        "likes": 414,
+        "views": 50037
+      },
+      "topic": "pricing"
     },
     {
       "id": "2125658784257180049",
@@ -587,6 +655,22 @@
       }
     },
     {
+      "id": "2125495452036718988",
+      "product": "dots",
+      "url": "https://x.com/SilasSees/status/2125495452036718988",
+      "author": "SilasSees",
+      "authorName": "Silas",
+      "text": "刚刷到有ChatGPT Plus 用户推送了 Dots 服务！自从 Muse 火了之后，个人 Agent 彻底成了今年大厂的必争之地！\n\n盘一下现在的神仙打架：\n· 海外：OpenAI（Dots）、Meta（Muse）、xAI（Grok Bot）\n· 国内：字节（小豆刚公测）、阿里（千问 Go!）、腾讯（小微灰度中） https://t.co/6WJ2RYyjsH",
+      "postedAt": "2026-11-25T07:43:00.000Z",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 2,
+        "views": 272
+      },
+      "topic": "launch"
+    },
+    {
       "id": "2125467504793554976",
       "product": "muse",
       "url": "https://x.com/dizha88/status/2125467504793554976",
@@ -715,11 +799,12 @@
       "text": "This is f*cking gold... Elon Musk's team just published their whole Grok Bot playbook. 19 guides, free\n\nit's all on the official site: real bots their own people run, department by department, with the routines and setups behind them\n\nthe full list:\n\ngetting started\n01 Grok Bot https://t.co/vYb8jf4Nsq https://t.co/pogK7sG7Ca",
       "postedAt": "2026-11-24T18:30:17.000Z",
       "metrics": {
-        "replies": 72,
-        "reposts": 200,
-        "likes": 1060,
-        "views": 89425
-      }
+        "replies": 73,
+        "reposts": 201,
+        "likes": 1069,
+        "views": 92728
+      },
+      "topic": "reviews"
     },
     {
       "id": "2125282232013037719",
@@ -1041,8 +1126,9 @@
         "replies": 2,
         "reposts": 1,
         "likes": 1,
-        "views": 802
-      }
+        "views": 803
+      },
+      "topic": "launch"
     },
     {
       "id": "2125139478423704022",
@@ -2210,84 +2296,6 @@
         "likes": 0,
         "views": 66
       }
-    },
-    {
-      "id": "2124265361621037173",
-      "product": "muse",
-      "url": "https://x.com/joshbaptiste/status/2124265361621037173",
-      "author": "joshbaptiste",
-      "authorName": "Reynold Chery",
-      "text": "@davis7 Poor man's T3 stack.. $50/month cross subscriptions. \n\nGemini 4 neon\nGrok 4.6\nMeta-Muse-Spark 1.3 (contributor)\nGLM 5.3 Flash",
-      "postedAt": "2026-11-21T22:15:03.000Z",
-      "metrics": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 98
-      }
-    },
-    {
-      "id": "2124248737132298387",
-      "product": "muse",
-      "url": "https://x.com/Kalshi_Finance/status/2124248737132298387",
-      "author": "Kalshi_Finance",
-      "authorName": "Kalshi Finance",
-      "text": "BREAKING: $META Muse agent now lives in a chrome sidebar",
-      "postedAt": "2026-11-21T21:09:00.000Z",
-      "metrics": {
-        "replies": 12,
-        "reposts": 11,
-        "likes": 357,
-        "views": 19249
-      },
-      "topic": "launch"
-    },
-    {
-      "id": "2124215109195374678",
-      "product": "grok",
-      "url": "https://x.com/fffuckingnerd/status/2124215109195374678",
-      "author": "fffuckingnerd",
-      "authorName": "f*cking nerd 🤓",
-      "text": "HOLY SH*T, SOMEONE ALREADY BUILT A GROK BOT FOR YOUR JOB. 11,000+ TEMPLATES ARE ON GITHUB, HERE ARE THE 10 LIBRARIES\n\nwhatever you do for work, a bot for it probably exists. \n\nevery library below links to real marketplace templates you add to your own grok bot\n\nthe biggest:\n\n→ https://t.co/D7S374PhJs https://t.co/iPhnSPTmiF",
-      "postedAt": "2026-11-21T18:55:22.000Z",
-      "metrics": {
-        "replies": 3,
-        "reposts": 2,
-        "likes": 54,
-        "views": 1666
-      }
-    },
-    {
-      "id": "2124192252620914870",
-      "product": "dots",
-      "url": "https://x.com/DaysBehindEU/status/2124192252620914870",
-      "author": "DaysBehindEU",
-      "authorName": "Days Behind",
-      "text": "OpenAI's Dots help page now says it's \"gradually rolling out to select ChatGPT Plus users\" outside the EEA, the UK and Switzerland. Pro got it on 29 September, with Europe left out then too.",
-      "postedAt": "2026-11-21T17:24:33.000Z",
-      "metrics": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 28
-      },
-      "topic": "launch"
-    },
-    {
-      "id": "2124180649984590204",
-      "product": "dots",
-      "url": "https://x.com/FeryatBen/status/2124180649984590204",
-      "author": "FeryatBen",
-      "authorName": "Feryat Ben",
-      "text": "OpenAI, Dots kişisel yapay zeka ajanlarını ChatGPT Plus planında test ediyor.",
-      "postedAt": "2026-11-21T16:38:26.000Z",
-      "metrics": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "views": 97
-      },
-      "topic": "launch"
     }
   ]
 }
